@@ -1,0 +1,50 @@
+[book]
+authors = [
+  "lencx", # 搬运工
+]
+language = "zh_CN"
+multilingual = false
+src = "src"
+title = "前端情报"
+
+[rust]
+edition = "2018"
+
+# enable the "mdbook-linkcheck" renderer
+# [output.linkcheck]
+
+# https://github.com/lzanini/mdbook-katex
+# [preprocessor.katex]
+
+# https://github.com/badboy/mdbook-mermaid
+# [preprocessor.mermaid]
+# command = "mdbook-mermaid"
+
+# https://github.com/rust-lang/mdBook/issues/1278
+
+[output.html]
+theme = "lencx"
+default-theme = "rust"
+git-repository-url = "https://github.com/fe-cool/news"
+# additional-js = ["plugins/mermaid.min.js", "plugins/mermaid.init.js"]
+
+[output.html.playground]
+editable = true
+copy-js = true
+line-numbers = true
+
+[output.html.search]
+enable = true
+limit-results = 30
+teaser-word-count = 30
+use-boolean-and = true
+boost-title = 3
+boost-hierarchy = 1
+boost-paragraph = 1
+expand = true
+heading-split-level = 3
+copy-js = true
+
+[output.html.fold]
+enable = true
+level = 2
