@@ -23,10 +23,13 @@ edition = "2018"
 # https://github.com/rust-lang/mdBook/issues/1278
 
 [output.html]
-theme = "lencx"
+# theme = "theme"
 default-theme = "rust"
 git-repository-url = "https://github.com/fe-cool/news"
-# additional-js = ["plugins/mermaid.min.js", "plugins/mermaid.init.js"]
+additional-js = [
+  # "plugins/mermaid.min.js",
+  # "plugins/mermaid.init.js",
+]
 
 [output.html.playground]
 editable = true
