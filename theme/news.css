@@ -1,0 +1,18 @@
+.nav-wrapper a {
+  background-color: transparent;
+}
+
+/* ####### mdbook opengh */
+#open-on-gh {
+  margin-top: 50px;
+  text-align: right;
+}
+#open-on-gh a {
+  text-decoration: none;
+}
+#open-on-gh span {
+  color: #666;
+}
+#open-on-gh span:hover {
+  color: var(--links);
+}
