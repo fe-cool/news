@@ -14,7 +14,7 @@
 
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
         <meta name="theme-color" content="#ffffff" />
 
         
@@ -45,6 +45,7 @@
         
 
         
+        <style>img { border-radius: 4px; max-width: 100%; }</style>
     </head>
     <body>
         <!-- Provide site root to javascript -->
@@ -58,11 +59,9 @@
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
-
                 if (theme.startsWith('"') && theme.endsWith('"')) {
                     localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
                 }
-
                 if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
                     localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
                 }
@@ -166,7 +165,7 @@
                 </script>
 
                 <div id="content" class="content">
-                    <main>
+                    <main style="min-height: 42vh">
                         <h1 id="20210415"><a class="header" href="#20210415">2021.04.15</a></h1>
 <ul>
 <li>英文技术推文情报源：
@@ -257,6 +256,15 @@
 
                         <div style="clear: both"></div>
                     </nav>
+
+                    <div style="margin: 50px auto 0; max-width: 780px;">
+                        <script src="https://utteranc.es/client.js"
+                        repo="fe-cool/news"
+                        issue-term="url"
+                        theme="github-dark-orange"
+                        crossorigin="anonymous"
+                        async></script>
+                    </div>
                 </div>
             </div>
 
@@ -314,6 +322,5 @@
         
 
         
-
     </body>
 </html>

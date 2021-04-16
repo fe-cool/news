@@ -14,7 +14,7 @@
 
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
         <meta name="theme-color" content="#ffffff" />
 
         
@@ -45,6 +45,7 @@
         
 
         
+        <style>img { border-radius: 4px; max-width: 100%; }</style>
     </head>
     <body>
         <!-- Provide site root to javascript -->
@@ -58,11 +59,9 @@
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
-
                 if (theme.startsWith('"') && theme.endsWith('"')) {
                     localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
                 }
-
                 if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
                     localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
                 }
@@ -166,7 +165,7 @@
                 </script>
 
                 <div id="content" class="content">
-                    <main>
+                    <main style="min-height: 42vh">
                         <h1 id="20210416"><a class="header" href="#20210416">2021.04.16</a></h1>
 <ul>
 <li><a href="https://twitter.com/_developit/status/1382838799420514317">SVG Import as React Component 的方式并不好，因为 bundle 到一起，没有用到的也会加载，所以会影响加载性能和内存占用，那么推荐的方式是啥？import 后返回一个 url 可能比较合适，比如用 webpack 的 url-loader</a></li>
@@ -197,6 +196,15 @@
 
                         <div style="clear: both"></div>
                     </nav>
+
+                    <div style="margin: 50px auto 0; max-width: 780px;">
+                        <script src="https://utteranc.es/client.js"
+                        repo="fe-cool/news"
+                        issue-term="url"
+                        theme="github-dark-orange"
+                        crossorigin="anonymous"
+                        async></script>
+                    </div>
                 </div>
             </div>
 
@@ -250,6 +258,5 @@
         
 
         
-
     </body>
 </html>
