@@ -1,7 +1,5 @@
 [book]
-authors = [
-  "lencx", # 搬运工
-]
+authors = ["lencx"]
 language = "zh_CN"
 multilingual = false
 src = "src"
@@ -10,17 +8,12 @@ title = "MDH • 前端情报"
 [rust]
 edition = "2018"
 
-# enable the "mdbook-linkcheck" renderer
-# [output.linkcheck]
-
 # https://github.com/lzanini/mdbook-katex
 # [preprocessor.katex]
 
 # https://github.com/badboy/mdbook-mermaid
 # [preprocessor.mermaid]
 # command = "mdbook-mermaid"
-
-# https://github.com/rust-lang/mdBook/issues/1278
 
 [output.html]
 theme = "theme"
@@ -30,6 +23,7 @@ additional-js = [
   # "plugins/mermaid.min.js",
   # "plugins/mermaid.init.js",
 ]
+additional-css = ["theme/news.css"]
 
 [output.html.playground]
 editable = true
