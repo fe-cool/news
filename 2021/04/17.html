@@ -3,7 +3,7 @@
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
-        <title>2021.04.16 - MDH • 前端情报</title>
+        <title>2021.04.17 - MDH • 前端情报</title>
         
         
 
@@ -94,7 +94,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded "><a href="../../about.html"><strong aria-hidden="true">1.</strong> 关于</a></li><li class="chapter-item expanded "><a href="../../2021/04/toc.html"><strong aria-hidden="true">2.</strong> 2021.04</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../2021/04/14.html"><strong aria-hidden="true">2.1.</strong> 2021.04.14</a></li><li class="chapter-item expanded "><a href="../../2021/04/15.html"><strong aria-hidden="true">2.2.</strong> 2021.04.15</a></li><li class="chapter-item expanded "><a href="../../2021/04/16.html" class="active"><strong aria-hidden="true">2.3.</strong> 2021.04.16</a></li><li class="chapter-item expanded "><a href="../../2021/04/17.html"><strong aria-hidden="true">2.4.</strong> 2021.04.17</a></li></ol></li></ol>
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../../about.html"><strong aria-hidden="true">1.</strong> 关于</a></li><li class="chapter-item expanded "><a href="../../2021/04/toc.html"><strong aria-hidden="true">2.</strong> 2021.04</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../2021/04/14.html"><strong aria-hidden="true">2.1.</strong> 2021.04.14</a></li><li class="chapter-item expanded "><a href="../../2021/04/15.html"><strong aria-hidden="true">2.2.</strong> 2021.04.15</a></li><li class="chapter-item expanded "><a href="../../2021/04/16.html"><strong aria-hidden="true">2.3.</strong> 2021.04.16</a></li><li class="chapter-item expanded "><a href="../../2021/04/17.html" class="active"><strong aria-hidden="true">2.4.</strong> 2021.04.17</a></li></ol></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
         </nav>
@@ -166,20 +166,44 @@
 
                 <div id="content" class="content">
                     <main style="min-height: 42vh">
-                        <h1 id="20210416"><a class="header" href="#20210416">2021.04.16</a></h1>
+                        <h1 id="20210417"><a class="header" href="#20210417">2021.04.17</a></h1>
 <ul>
-<li><code>webpack</code> <a href="https://twitter.com/_developit/status/1382838799420514317">SVG Import as React Component 的方式并不好，因为 bundle 到一起，没有用到的也会加载，所以会影响加载性能和内存占用，那么推荐的方式是啥？import 后返回一个 url 可能比较合适，比如用 webpack 的 url-loader</a></li>
-<li><a href="https://github.com/egoist/esmon">esmon，类似 nodemon 但基于 esbuild，支持 ts 等，试过还挺好用</a></li>
-<li><code>vsc</code> <code>theme</code> <a href="https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme&amp;WT.mc_id=devcloud-00000-cxa">VSCode 里可以用 Github 主题了</a></li>
-<li><code>babel</code> <a href="https://babeljs.io/docs/en/features-timeline">Babel 新增 Feature Timeline，把之前 changelog 里的重要功能摘了出来，一目了然</a></li>
-<li><code>react</code> <a href="https://www.remotion.dev/blog/2-0/">可以用 React 做视频的 remotion 发布 2.0，支持音频，使用 esbuild-loader 代替 babel-loader，&lt;Gif&gt; 组件等</a></li>
-<li><code>tools</code> <a href="https://github.com/hiroppy/fusuma">Fusuma 一款文档演示工具，可根据一定的标识将文档分割成不同页面，以 slide 的形式进行分享。以 ppt 的形式演示文档，能更好的突出重点。在 lerna  的管理下，项目结构很清晰，适合直接部署或者二次开发，比如基于它扩展出手机端的翻页笔、标注工具之类的。甚至可以集成在博客里，直接启动 slide</a></li>
-<li><code>tools</code> <a href="https://rive.app">rive2 (rive1 === flare) 基于 Flutter 开发的网页端动画制作工具(站点支持 PWA) 提供 Web(基于 wasm)、Flutter、Cpp、iOS、Android 五种运行时，集成起来挺方便的。同时也体现了 Flutter Web 的表现能力，使用体验还不错。</a></li>
-<li><code>rust</code> <a href="https://github.com/netwarps/libp2p-rs">libp2p-rs rust实现的libp2p</a></li>
-<li><code>rust</code> <a href="https://github.com/rbatis/rbatis">rbatis 用rust实现ORM框架</a></li>
-<li><code>rust</code> <a href="https://github.com/hecrj/iced">rust 9.2K 跨平台 GUI 仓库 iced</a></li>
-<li><code>rust</code> <a href="https://github.com/swc-project/swc">swc rust编写的超快速的typescript/ javascript编译器,性能秒杀tsc</a></li>
-<li><code>vue</code> <a href="https://b23.tv/7IaUec">vue-cli维护者蒋豪群，给大家讲如何学习新的技术（以vue3个vite为例）</a></li>
+<li><code>node</code> node 10 还有十几天就结束维护了，新开工具可以考虑默认 esm
+<ul>
+<li><a href="https://nodejs.org/en/about/releases">https://nodejs.org/en/about/releases</a></li>
+<li><a href="https://kentcdodds.com/blog/super-simple-start-to-es-modules-in-node-js">https://kentcdodds.com/blog/super-simple-start-to-es-modules-in-node-js</a></li>
+</ul>
+</li>
+<li><code>chrome</code> <a href="https://blog.asayer.io/15-devtool-secrets-for-javascript-developers">chrome devtool 的技巧，可以重点看 4、5、8、12</a></li>
+<li><a href="https://twitter.com/ryanflorence/status/1383181615854092290">remix 启动只要 100ms，背后基于 esbuild，但还是很大优化空间，之前试过加个大型依赖热编译就慢了</a></li>
+<li><code>lowcode</code> <a href="https://github.com/taowen/awesome-lowcode">国内低代码平台(Low Code)，收集了国内外很多优秀的项目，还包含有“今日阅读”每天更新最新相关文章</a></li>
+<li><code>CSS</code> <a href="https://www.instapaper.com/read/1404526005">Say Hello To CSS Container Queries - Ahmad Shadeed  解决 media query 不能覆盖的一些场景，不是所有场景都基于 viewport 或 screensize，有些需要基于 container 的尺寸决定子元素的渲染，作者给了一些具体的落地场景</a></li>
+<li><a href="https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript">Seam-Carving 算法的解析及 ts 实现  图片 resize 必备，作者讲得很详细，且后有 ts 干货。属于“有理有具体”的好文</a></li>
+<li><code>chrome</code> <a href="https://developer.chrome.com/blog/new-in-chrome-90">Chrome 90 发布，新技术 JPEG XL、CSS 容器查询</a></li>
+<li><code>chrome</code> <code>debug</code> <a href="https://www.frontendwingman.com/Chrome">一份Chrome调试技巧合集 涉及console network element source 等</a></li>
+<li><a href="https://github.com/alibaba/schema-plugin-flow">如何在不接触原业务代码的情况下，对页面高扩展</a></li>
+<li><code>node</code> <a href="https://mp.weixin.qq.com/s/uJA5A7hWBimS-8EMXRquEA">新书情报，腾讯的imweb nodejs大佬theanarkh的《nodejs源码解析》宣布不上架，将于近日开源</a></li>
+<li><code>node</code> <a href="https://github.com/theanarkh/understand-nodejs">标哥的nodejs源码解析</a></li>
+<li><a href="https://github.com/alienzhou/fe-performance-journey">前端性能优化，很受用</a></li>
+<li><code>react</code> <code>vue</code> 在 React 中使用 Vue3 的 Composition API
+<ul>
+<li><a href="https://github.com/antfu/reactivue">https://github.com/antfu/reactivue</a></li>
+<li><a href="https://github.com/Lucifier129/react-use-setup">https://github.com/Lucifier129/react-use-setup</a></li>
+<li><a href="https://github.com/sl1673495/react-composition-api">https://github.com/sl1673495/react-composition-api</a></li>
+<li><a href="https://www.zhihu.com/question/378861485">https://www.zhihu.com/question/378861485</a></li>
+</ul>
+</li>
+<li><code>node</code> <a href="http://github.com/nodejs/node/pull/37277">将yarn捆绑node发行的一个PR，相关讨论已经被locked</a></li>
+<li><code>vsc</code> <a href="https://github1s.com">将github更改为github1s可以查看编辑源码，相关链接</a></li>
+<li><code>deno</code> <a href="https://deno.com/blog/v1.9">deno1.9发布了。新增特性：</a>
+<ol>
+<li>原生 HTTP/2 Web 服务器</li>
+<li>使用 serde_v8 更快地调用 Rust</li>
+<li>支持 Blob URL &amp; 优化fetch</li>
+<li>在 LSP 中支持自动补全 import</li>
+<li>具有交互的权限提示</li>
+</ol>
+</li>
 </ul>
 
                     </main>
@@ -187,15 +211,11 @@
                     <nav class="nav-wrapper" aria-label="Page navigation">
                         <!-- Mobile navigation buttons -->
                         
-                            <a rel="prev" href="../../2021/04/15.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                            <a rel="prev" href="../../2021/04/16.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
                                 <i class="fa fa-angle-left"></i>
                             </a>
                         
 
-                        
-                            <a rel="next" href="../../2021/04/17.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
-                                <i class="fa fa-angle-right"></i>
-                            </a>
                         
 
                         <div style="clear: both"></div>
@@ -214,15 +234,11 @@
 
             <nav class="nav-wide-wrapper" aria-label="Page navigation">
                 
-                    <a rel="prev" href="../../2021/04/15.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                    <a rel="prev" href="../../2021/04/16.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
                         <i class="fa fa-angle-left"></i>
                     </a>
                 
 
-                
-                    <a rel="next" href="../../2021/04/17.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
-                        <i class="fa fa-angle-right"></i>
-                    </a>
                 
             </nav>
 
