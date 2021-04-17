@@ -3,7 +3,7 @@
 * 代号：`MDH(make developer happier)`
 * 发起人: [chencheng (云谦)](https://github.com/sorrycc)
 * 仓库创建人: [lencx](https://github.com/lencx)
-* 资源提供人: 广大群友(微信群)
+* 资源提供人: [贡献者列表](https://github.com/fe-cool/news/blob/main/contributors.md)
 
 ## 规则
 

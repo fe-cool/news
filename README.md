@@ -3,7 +3,7 @@
 * 代号：`MDH(make developer happier)`
 * 发起人: [chencheng (云谦)](https://github.com/sorrycc)
 * 仓库创建人: [lencx](https://github.com/lencx)
-* 资源提供人: 广大群友(微信群)
+* 资源提供人: [贡献者列表](./contributors.md)
 
 ## 规则
 
@@ -22,6 +22,10 @@
 
 * 按日期进行收集
 * 月底对本月信息汇总分类
+
+## 贡献者
+
+[贡献者列表](./contributors.md)，也期待优秀的你加入【MDH • 前端情报】这个大家庭。
 
 ---
 
