@@ -9,11 +9,11 @@ jobs:
   deploy:
     runs-on: ubuntu-18.04
 
-    - name: Setup RSS
-    - run: echo $(pwd)
-    - run: sh ./rss.sh
-
     steps:
+      - run: echo "$(ls)"
+      - run: echo "$(pwd)"
+      - run: sh "$(pwd)/rss.sh"
+
       - uses: actions/checkout@v2
 
       - name: Setup mdBook
