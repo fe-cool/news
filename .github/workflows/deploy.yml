@@ -8,12 +8,13 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-18.04
+
+    - name: Setup RSS
+    - run: echo $(pwd)
+    - run: sh ./rss.sh
+
     steps:
       - uses: actions/checkout@v2
-
-      - name: Setup RSS
-      - run: echo $(pwd)
-      - run: sh ./rss.sh
 
       - name: Setup mdBook
         uses: peaceiris/actions-mdbook@v1
