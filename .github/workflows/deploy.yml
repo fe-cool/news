@@ -12,7 +12,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - run: sh "$(pwd)/rss.sh"
+      - run: sudo apt-get install pandoc
+      - run: bash "$(pwd)/rss.sh"
 
       - name: Setup mdBook
         uses: peaceiris/actions-mdbook@v1
