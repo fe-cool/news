@@ -23,14 +23,15 @@
 
 * 按日期进行原始信息收集
 * 月底对本月信息汇总分类
-  * 资讯(`News`)
-  * 工具(`Tools`): `chrome`，`docs`，`dev` 等
-  * 前端(`FE`): `node`, `webpack`, `vite`, `vue`, `react`，`JS`，`CSS`, `TS`，`PWA` 等
+  * 资讯(`news`)
+  * 工具(`tools`): `chrome`，`docs`，`dev` 等
+  * 前端(`fe`): `node`, `webpack`, `vite`, `vue`, `react`，`js`，`css`, `ts`，`pwa`，`lowcode` 等
   * 后端(`BE`)
+  * VS Code(`vsc`)
   * WebAssembly(`wasm`)
   * 编程语言(`lang`): `rust`，`go`，`python` 等
-  * VS Code(`vsc`)
-  * 其他(`Other`): 难以界定的统一分类到其他
+  * 其他(`other`): 难以界定的统一分类到其他
+  * 组合分类(`AA-BB`): 一级分类明确，二级分类模糊。可以使用类似于“`fe` `other`”的标记。在分类统计时属于`FE-Other`。
 * 汇总状态
   * `汇总中...`
   * `汇总完成`
