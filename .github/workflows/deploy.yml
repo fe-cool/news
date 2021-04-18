@@ -10,11 +10,9 @@ jobs:
     runs-on: ubuntu-18.04
 
     steps:
-      - run: echo "$(ls)"
-      - run: echo "$(pwd)"
-      - run: sh "$(pwd)/rss.sh"
-
       - uses: actions/checkout@v2
+
+      - run: sh "$(pwd)/rss.sh"
 
       - name: Setup mdBook
         uses: peaceiris/actions-mdbook@v1
