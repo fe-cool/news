@@ -23,8 +23,8 @@
 * 按日期进行原始信息收集
 * 月底对本月信息汇总分类
   * 资讯(`News`)
-  * 工具(`Tools`): `chrome`，等
-  * 前端(`FE`): `node`, `webpack`, `vite`, `vue`, `react`，`JS`，`CSS`, `TS` 等
+  * 工具(`Tools`): `chrome`，`docs`，`dev` 等
+  * 前端(`FE`): `node`, `webpack`, `vite`, `vue`, `react`，`JS`，`CSS`, `TS`，`PWA` 等
   * 后端(`BE`)
   * WebAssembly(`wasm`)
   * 编程语言(`lang`): `rust`，`go`，`python` 等
