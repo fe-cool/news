@@ -5,26 +5,26 @@ website_title="MDH • 前端情报"
 website_link="https://fe-cool.github.io/news"
 description="MDH • 前端情报"
 
-urlencode() {
-  # urlencode <string>
-  old_lc_collate=$LC_COLLATE
-  LC_COLLATE=C
-  local length="${#1}"
-  for (( i = 0; i < length; i++ )); do
-    local c="${1:$i:1}"
-    case $c in
-      [a-zA-Z0-9.~_-]) printf '%s' "$c" ;;
-      *) printf '%%%02X' "'$c" ;;
-    esac
-  done
-  LC_COLLATE=$old_lc_collate
-}
+# urlencode() {
+#   # urlencode <string>
+#   old_lc_collate=$LC_COLLATE
+#   LC_COLLATE=C
+#   local length="${#1}"
+#   for (( i = 0; i < length; i++ )); do
+#     local c="${1:$i:1}"
+#     case $c in
+#       [a-zA-Z0-9.~_-]) printf '%s' "$c" ;;
+#       *) printf '%%%02X' "'$c" ;;
+#     esac
+#   done
+#   LC_COLLATE=$old_lc_collate
+# }
 
-urldecode() {
-  # urldecode <string>
-  local url_encoded="${1//+/ }"
-  printf '%b' "${url_encoded//%/\\x}"
-}
+# urldecode() {
+#   # urldecode <string>
+#   local url_encoded="${1//+/ }"
+#   printf '%b' "${url_encoded//%/\\x}"
+# }
 
 newest_files=$( \
   git ls-files -z 'src/*.md' | \
@@ -39,7 +39,7 @@ for file in ${newest_files[@]}; do
   filename_len=${#file}
   filename_end="$(expr $filename_len - 7)"
   title=$(grep "." $file | head -n1)
-  encode=$(urldecode "${file:4:$filename_end}.html")
+  encode="${file:4:$filename_end}.html"
   link="$website_link/$encode"
   html=$(pandoc -f markdown -t html $file)
   date=$(git log -1 --format="%aD" -- $file)
