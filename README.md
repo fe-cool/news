@@ -1,4 +1,4 @@
-# 关于【前端情报】
+# MDH • 前端情报
 
 * 代号：`MDH(make developer happier)`
 * 发起人: [chencheng (云谦)](https://github.com/sorrycc)
@@ -20,8 +20,19 @@
 
 ## 情报收集
 
-* 按日期进行收集
+* 按日期进行原始信息收集
 * 月底对本月信息汇总分类
+  * 资讯(`News`)
+  * 工具(`Tools`): `chrome`，等
+  * 前端(`FE`): `node`, `webpack`, `vite`, `vue`, `react`，`JS`，`CSS`, `TS` 等
+  * 后端(`BE`)
+  * WebAssembly(`wasm`)
+  * 编程语言(`lang`): `rust`，`go`，`python` 等
+  * VS Code(`vsc`)
+  * 其他(`Other`): 难以界定的统一分类到其他
+* 汇总状态
+  * `汇总中...`
+  * `汇总完成`
 
 ## 项目初衷
 
