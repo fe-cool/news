@@ -18,7 +18,6 @@ edition = "2018"
 [output.html]
 theme = "theme"
 default-theme = "rust"
-google-analytics = "269338814"
 git-repository-url = "https://github.com/fe-cool/news"
 additional-js = [
   # "plugins/mermaid.min.js",
