@@ -11,15 +11,17 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - name: Setup RSS
+      - run: echo $(pwd)
+      - run: sh ./rss.sh
+
       - name: Setup mdBook
         uses: peaceiris/actions-mdbook@v1
         with:
           mdbook-version: '0.4.7'
           # mdbook-version: 'latest'
       # - run: cargo install mdbook-katex mdbook-mermaid
-      - run:
       - run: mdbook build
-      - run: sh ./rss.sh
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
