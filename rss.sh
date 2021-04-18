@@ -22,6 +22,9 @@ for file in ${newest_files[@]}; do
   file_path="${file:4:$file_path_end}.html"
   link="$website_link/$file_path"
   html=$(pandoc -f markdown -t html $file)
+  if [ $file == "src/SUMMARY.md" ]; then
+    html=$(echo $html|sed 's/.md/.html/g')
+  fi
   date=$(git log -1 --format="%aD" -- $file)
   item="
   <item>
