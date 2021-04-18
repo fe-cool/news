@@ -197,14 +197,15 @@
 <li>按日期进行原始信息收集</li>
 <li>月底对本月信息汇总分类
 <ul>
-<li>资讯(<code>News</code>)</li>
-<li>工具(<code>Tools</code>): <code>chrome</code>，<code>docs</code>，<code>dev</code> 等</li>
-<li>前端(<code>FE</code>): <code>node</code>, <code>webpack</code>, <code>vite</code>, <code>vue</code>, <code>react</code>，<code>JS</code>，<code>CSS</code>, <code>TS</code>，<code>PWA</code> 等</li>
+<li>资讯(<code>news</code>)</li>
+<li>工具(<code>tools</code>): <code>chrome</code>，<code>docs</code>，<code>dev</code> 等</li>
+<li>前端(<code>fe</code>): <code>node</code>, <code>webpack</code>, <code>vite</code>, <code>vue</code>, <code>react</code>，<code>js</code>，<code>css</code>, <code>ts</code>，<code>pwa</code>，<code>lowcode</code> 等</li>
 <li>后端(<code>BE</code>)</li>
+<li>VS Code(<code>vsc</code>)</li>
 <li>WebAssembly(<code>wasm</code>)</li>
 <li>编程语言(<code>lang</code>): <code>rust</code>，<code>go</code>，<code>python</code> 等</li>
-<li>VS Code(<code>vsc</code>)</li>
-<li>其他(<code>Other</code>): 难以界定的统一分类到其他</li>
+<li>其他(<code>other</code>): 难以界定的统一分类到其他</li>
+<li>组合分类(<code>AA-BB</code>): 一级分类明确，二级分类模糊。可以使用类似于“<code>fe</code> <code>other</code>”的标记。在分类统计时属于<code>FE-Other</code>。</li>
 </ul>
 </li>
 <li>汇总状态
@@ -334,7 +335,7 @@
 <p><code>react</code> <a href="https://juejin.cn/post/6950997088947666951">Recoil：Facebook 新一代的 React 状态管理库</a></p>
 </li>
 <li>
-<p><code>webAssembly</code> <a href="https://lencx.github.io/book/wasm/rust_wasm_frontend.html">WebAssembly入门 （Vite + Rust）</a></p>
+<p><code>wasm</code> <a href="https://lencx.github.io/book/wasm/rust_wasm_frontend.html">WebAssembly入门 （Vite + Rust）</a></p>
 </li>
 <li>
 <p><code>vue</code> <a href="https://us.vuejs.org/schedule">VueConf US 进行中 形式: 线上直播 价格: 免费 报名链接</a></p>
@@ -358,7 +359,7 @@
 </ul>
 </li>
 <li>
-<p><code>PWA</code> <a href="https://link.medium.com/S91NRcCGsfb">Your PWA is going to break in August 2021</a></p>
+<p><code>pwa</code> <a href="https://link.medium.com/S91NRcCGsfb">Your PWA is going to break in August 2021</a></p>
 </li>
 <li>
 <p>BarcodeDetector 结合 navigator.getUserMedia（摄像头） 可用于识别二维码</p>
@@ -379,7 +380,7 @@
 </ul>
 </li>
 <li>
-<p><code>CSS</code> headless ui 发布 1.0，无样式的组件库，和 tailwindcss 结合使用，但看文档没看出是如何结合的。</p>
+<p><code>css</code> headless ui 发布 1.0，无样式的组件库，和 tailwindcss 结合使用，但看文档没看出是如何结合的。</p>
 <ul>
 <li><a href="https://blog.tailwindcss.com/headless-ui-v1">https://blog.tailwindcss.com/headless-ui-v1</a></li>
 <li><a href="https://headlessui.dev/">https://headlessui.dev/</a></li>
@@ -430,14 +431,14 @@
 <p><code>webpack</code> <a href="https://github.com/webpack/webpack/blob/master/lib/DynamicEntryPlugin.js">之前看webpack源码，还发现entry的隐藏技能。。支持entry 是一个 promise</a></p>
 </li>
 <li>
-<p><code>FE</code> <code>other</code> 一个关于控制异步函数并发运行的方法库。</p>
+<p><code>fe</code> <code>other</code> 一个关于控制异步函数并发运行的方法库。</p>
 <ul>
 <li><a href="https://github.com/sindresorhus">https://github.com/sindresorhus(作者)</a></li>
 <li><a href="https://github.com/sindresorhus/p-limit">https://github.com/sindresorhus/p-limit(仓库)</a></li>
 </ul>
 </li>
 <li>
-<p><code>FE</code> <code>other</code> <a href="https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13">The Complete Guide to Full Stack Ethereum Development，以太坊开发指南，刚听完偏右分享完这个，还是挺有意思的，生态很完整</a></p>
+<p><code>fe</code> <code>other</code> <a href="https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13">The Complete Guide to Full Stack Ethereum Development，以太坊开发指南，刚听完偏右分享完这个，还是挺有意思的，生态很完整</a></p>
 </li>
 </ul>
 <h1 id="20210416"><a class="header" href="#20210416">2021.04.16</a></h1>
@@ -492,13 +493,13 @@
 <p><code>chrome</code> <a href="https://blog.asayer.io/15-devtool-secrets-for-javascript-developers">chrome devtool 的技巧，可以重点看 4、5、8、12</a></p>
 </li>
 <li>
-<p><a href="https://twitter.com/ryanflorence/status/1383181615854092290">remix 启动只要 100ms，背后基于 esbuild，但还是很大优化空间，之前试过加个大型依赖热编译就慢了</a></p>
+<p><code>other</code> <a href="https://twitter.com/ryanflorence/status/1383181615854092290">remix 启动只要 100ms，背后基于 esbuild，但还是很大优化空间，之前试过加个大型依赖热编译就慢了</a></p>
 </li>
 <li>
 <p><code>lowcode</code> <a href="https://github.com/taowen/awesome-lowcode">国内低代码平台(Low Code)，收集了国内外很多优秀的项目，还包含有“今日阅读”每天更新最新相关文章</a></p>
 </li>
 <li>
-<p><code>CSS</code> <a href="https://www.instapaper.com/read/1404526005">Say Hello To CSS Container Queries - Ahmad Shadeed  解决 media query 不能覆盖的一些场景，不是所有场景都基于 viewport 或 screensize，有些需要基于 container 的尺寸决定子元素的渲染，作者给了一些具体的落地场景</a></p>
+<p><code>css</code> <a href="https://www.instapaper.com/read/1404526005">Say Hello To CSS Container Queries - Ahmad Shadeed  解决 media query 不能覆盖的一些场景，不是所有场景都基于 viewport 或 screensize，有些需要基于 container 的尺寸决定子元素的渲染，作者给了一些具体的落地场景</a></p>
 </li>
 <li>
 <p><a href="https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript">Seam-Carving 算法的解析及 ts 实现  图片 resize 必备，作者讲得很详细，且后有 ts 干货。属于“有理有具体”的好文</a></p>
@@ -538,13 +539,13 @@
 </li>
 <li>
 <p><code>deno</code> <a href="https://deno.com/blog/v1.9">deno1.9发布了。新增特性：</a></p>
-<ol>
+<ul>
 <li>原生 HTTP/2 Web 服务器</li>
 <li>使用 serde_v8 更快地调用 Rust</li>
 <li>支持 Blob URL &amp; 优化fetch</li>
 <li>在 LSP 中支持自动补全 import</li>
 <li>具有交互的权限提示</li>
-</ol>
+</ul>
 </li>
 </ul>
 <h1 id="20210418"><a class="header" href="#20210418">2021.04.18</a></h1>
