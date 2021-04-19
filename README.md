@@ -1,6 +1,7 @@
 # MDH • 前端情报
 
 [![github pages](https://github.com/fe-cool/news/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/fe-cool/news/actions/workflows/deploy.yml)
+[![gitee](https://img.shields.io/badge/Gitee-fe--cool/news-000?logo=gitee)](https://fe-cool.gitee.io/news)
 [![rss](https://img.shields.io/badge/RSS-fe--cool/news-000?logo=rss)](https://fe-cool.github.io/news/feed.xml)
 
 * 代号：`MDH(make developer happier)`
