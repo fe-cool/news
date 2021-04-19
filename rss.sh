@@ -1,6 +1,6 @@
 #!/bin/bash
 
-feed="src/feed.xml"
+feed="feed.xml"
 website_title="MDH • 前端情报"
 website_link="https://fe-cool.github.io/news"
 description="MDH • 前端情报"
@@ -48,6 +48,6 @@ rss_content="<?xml version=\"1.0\" encoding=\"utf-8\"?><rss xmlns:atom=\"http://
 </channel>
 </rss>"
 
-echo "$rss_content" > $feed
+echo "$rss_content" > "src/$feed"
 echo ""
 echo "✨ RSS Done!"
