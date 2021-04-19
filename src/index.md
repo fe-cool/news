@@ -26,7 +26,6 @@
   * 资讯(`news`)
   * 工具(`tools`): `chrome`，`docs`，`dev` 等
   * 前端(`fe`): `node`, `webpack`, `vite`, `vue`, `react`，`js`，`css`, `ts`，`pwa`，`lowcode` 等
-  * 后端(`BE`)
   * VS Code(`vsc`)
   * WebAssembly(`wasm`)
   * 编程语言(`lang`): `rust`，`go`，`python` 等
