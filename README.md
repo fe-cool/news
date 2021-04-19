@@ -1,5 +1,7 @@
 # MDH • 前端情报
 
+[![github pages](https://github.com/fe-cool/news/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/fe-cool/news/actions/workflows/deploy.yml)
+
 * 代号：`MDH(make developer happier)`
 * 发起人: [chencheng (云谦)](https://github.com/sorrycc)
 * 仓库创建人: [lencx](https://github.com/lencx)
