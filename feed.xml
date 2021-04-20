@@ -9,7 +9,7 @@
     <title><![CDATA[关于【MDH • 前端情报】]]></title>
     <link>https://fe-cool.github.io/news/index.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/index.html</guid>
-    <pubDate>Tue, 20 Apr 2021 01:39:57 +0800</pubDate>
+    <pubDate>Tue, 20 Apr 2021 14:45:43 +0800</pubDate>
     <description><![CDATA[<h1 id="关于mdh-前端情报">关于【MDH • 前端情报】</h1>
 <ul>
 <li>代号：<code>MDH(make developer happier)</code></li>
@@ -32,6 +32,22 @@
 <li>🈲️ 招聘</li>
 </ul>
 <h2 id="情报收集">情报收集</h2>
+<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="co"># 信息收集初步构想</span>
+<span class="ex">fe-cool/news</span>
+<span class="kw">|</span><span class="ex">-</span> [精选] <span class="co"># awesome</span>
+<span class="kw">|</span><span class="ex">-</span> [2021] <span class="co"># year</span>
+<span class="kw">|</span>   <span class="kw">|</span><span class="ex">-</span> [04] <span class="co"># month</span>
+<span class="kw">|</span>   <span class="kw">|</span>    <span class="kw">|</span><span class="ex">-</span> 20 <span class="co"># day</span>
+<span class="kw">|</span>   <span class="kw">|</span>    <span class="kw">`</span><span class="ex">-</span> ..
+<span class="kw">|</span>   <span class="kw">`</span><span class="ex">-</span> ...
+<span class="kw">`</span><span class="ex">-</span> ...
+
+<span class="co"># 希望可以把收集到的信息通过多次分类</span>
+<span class="co"># 把最实用的工具，指南，APP，资讯类整理出来</span>
+<span class="co"># 做成一个推荐集合(即精选，文章类暂时排除在外)</span>
+<span class="co"># 文章可以在每月汇总分类或原始信息中进行查看</span>
+[<span class="ex">2021/04</span>/<span class="ex">20.md</span>]  --<span class="op">&gt;</span>  [2021/04/toc.md]  --<span class="op">&gt;</span>  [精选]
+[<span class="ex">day</span> - 原始信息]  --<span class="op">&gt;</span>  [month - 汇总分类]  --<span class="op">&gt;</span>  [awesome - 推荐]</code></pre></div>
 <ul>
 <li>按日期进行原始信息收集</li>
 <li>月底对本月信息汇总分类</li>
@@ -54,18 +70,27 @@
   </item>
    
   <item>
+    <title><![CDATA[精选]]></title>
+    <link>https://fe-cool.github.io/news/awesome/toc.html</link>
+    <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/toc.html</guid>
+    <pubDate>Tue, 20 Apr 2021 14:45:43 +0800</pubDate>
+    <description><![CDATA[<h1 id="精选">精选</h1>
+<h2 id="tools">Tools</h2>]]></description>
+  </item>
+   
+  <item>
     <title><![CDATA[Summary]]></title>
     <link>https://fe-cool.github.io/news/SUMMARY.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/SUMMARY.html</guid>
-    <pubDate>Tue, 20 Apr 2021 01:39:57 +0800</pubDate>
-    <description><![CDATA[<h1 id="summary">Summary</h1> <ul> <li><a href="./index.html">MDH</a></li> </ul> <!-- LICENSE README.html book.toml contributors.html getting-started.html rss.sh src theme [2021年](./2021.html) --> <ul> <li><a href="2021/04/toc.html">2021.04</a></li> <li><a href="./2021/04/14.html">2021.04.14</a></li> <li><a href="./2021/04/15.html">2021.04.15</a></li> <li><a href="./2021/04/16.html">2021.04.16</a></li> <li><a href="./2021/04/17.html">2021.04.17</a></li> <li><a href="./2021/04/18.html">2021.04.18</a></li> <li><a href="./2021/04/19.html">2021.04.19</a></li> </ul>]]></description>
+    <pubDate>Tue, 20 Apr 2021 14:45:43 +0800</pubDate>
+    <description><![CDATA[<h1 id="summary">Summary</h1> <ul> <li><a href="./index.html">MDH</a></li> </ul> <!-- LICENSE README.html book.toml contributors.html getting-started.html rss.sh src theme [Awesome](./awesome/toc.html) --> <!-- LICENSE README.html book.toml contributors.html getting-started.html rss.sh src theme [2021年](./2021.html) --> <ul> <li><a href="2021/04/toc.html">2021.04</a></li> <li><a href="./2021/04/14.html">2021.04.14</a></li> <li><a href="./2021/04/15.html">2021.04.15</a></li> <li><a href="./2021/04/16.html">2021.04.16</a></li> <li><a href="./2021/04/17.html">2021.04.17</a></li> <li><a href="./2021/04/18.html">2021.04.18</a></li> <li><a href="./2021/04/19.html">2021.04.19</a></li> </ul>]]></description>
   </item>
    
   <item>
     <title><![CDATA[2021.04]]></title>
     <link>https://fe-cool.github.io/news/2021/04/toc.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/toc.html</guid>
-    <pubDate>Tue, 20 Apr 2021 01:39:57 +0800</pubDate>
+    <pubDate>Tue, 20 Apr 2021 14:45:43 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.04</h1>
 <p><code>汇总中...</code></p>
 <h2 id="tools">Tools</h2>
@@ -154,7 +179,7 @@
     <title><![CDATA[2021.04.19]]></title>
     <link>https://fe-cool.github.io/news/2021/04/19.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/19.html</guid>
-    <pubDate>Tue, 20 Apr 2021 01:39:57 +0800</pubDate>
+    <pubDate>Tue, 20 Apr 2021 14:45:43 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.04.19</h1>
 <ul>
 <li><p><code>react</code> <a href="https://github.com/sudheerj/reactjs-interview-questions">329 道 react 面试题</a>，质量还挺高</p></li>
@@ -185,7 +210,7 @@
     <title><![CDATA[2021.04.18]]></title>
     <link>https://fe-cool.github.io/news/2021/04/18.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/18.html</guid>
-    <pubDate>Tue, 20 Apr 2021 01:39:57 +0800</pubDate>
+    <pubDate>Tue, 20 Apr 2021 14:45:43 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.04.18</h1>
 <ul>
 <li><code>chrome</code> Google的.new快捷方式，Google为Google文档、幻灯片和表格引入了方便的“ .new”快捷方式，网站运营方也可以注册自己在线快捷方式的.new域，例如：</li>
@@ -208,7 +233,7 @@
     <title><![CDATA[2021.04.17]]></title>
     <link>https://fe-cool.github.io/news/2021/04/17.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/17.html</guid>
-    <pubDate>Tue, 20 Apr 2021 01:39:57 +0800</pubDate>
+    <pubDate>Tue, 20 Apr 2021 14:45:43 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.04.17</h1>
 <ul>
 <li><code>node</code> node 10 还有十几天就结束维护了，新开工具可以考虑默认 esm</li>
@@ -245,7 +270,7 @@
     <title><![CDATA[2021.04.16]]></title>
     <link>https://fe-cool.github.io/news/2021/04/16.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/16.html</guid>
-    <pubDate>Tue, 20 Apr 2021 01:39:57 +0800</pubDate>
+    <pubDate>Tue, 20 Apr 2021 14:45:43 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.04.16</h1>
 <ul>
 <li><p><code>webpack</code> <a href="https://twitter.com/_developit/status/1382838799420514317">SVG Import as React Component 的方式并不好，因为 bundle 到一起，没有用到的也会加载，所以会影响加载性能和内存占用，那么推荐的方式是啥？import 后返回一个 url 可能比较合适，比如用 webpack 的 url-loader</a></p></li>
@@ -267,7 +292,7 @@
     <title><![CDATA[2021.04.15]]></title>
     <link>https://fe-cool.github.io/news/2021/04/15.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/15.html</guid>
-    <pubDate>Tue, 20 Apr 2021 01:39:57 +0800</pubDate>
+    <pubDate>Tue, 20 Apr 2021 14:45:43 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.04.15</h1>
 <ul>
 <li><p><code>tools</code> <a href="https://natto.dev/example/1dcbeb7583624bf19d69b9942271a703">natto.dev，2d 可视化编程，感觉适用于新手教学和流程编排</a></p></li>
@@ -314,7 +339,7 @@
     <title><![CDATA[2021.04.14]]></title>
     <link>https://fe-cool.github.io/news/2021/04/14.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/14.html</guid>
-    <pubDate>Tue, 20 Apr 2021 01:39:57 +0800</pubDate>
+    <pubDate>Tue, 20 Apr 2021 14:45:43 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.04.14</h1>
 <ul>
 <li><code>tools</code> Google工程师Surma和其他人一起打造了一个评价打包工具优劣的开源项目tooling.report</li>
