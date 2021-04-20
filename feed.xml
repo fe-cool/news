@@ -9,7 +9,7 @@
     <title><![CDATA[关于【MDH • 前端情报】]]></title>
     <link>https://fe-cool.github.io/news/index.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/index.html</guid>
-    <pubDate>Tue, 20 Apr 2021 14:45:43 +0800</pubDate>
+    <pubDate>Tue, 20 Apr 2021 23:42:26 +0800</pubDate>
     <description><![CDATA[<h1 id="关于mdh-前端情报">关于【MDH • 前端情报】</h1>
 <ul>
 <li>代号：<code>MDH(make developer happier)</code></li>
@@ -73,7 +73,7 @@
     <title><![CDATA[精选]]></title>
     <link>https://fe-cool.github.io/news/awesome/toc.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/toc.html</guid>
-    <pubDate>Tue, 20 Apr 2021 14:45:43 +0800</pubDate>
+    <pubDate>Tue, 20 Apr 2021 23:42:26 +0800</pubDate>
     <description><![CDATA[<h1 id="精选">精选</h1>
 <h2 id="tools">Tools</h2>]]></description>
   </item>
@@ -82,15 +82,15 @@
     <title><![CDATA[Summary]]></title>
     <link>https://fe-cool.github.io/news/SUMMARY.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/SUMMARY.html</guid>
-    <pubDate>Tue, 20 Apr 2021 14:45:43 +0800</pubDate>
-    <description><![CDATA[<h1 id="summary">Summary</h1> <ul> <li><a href="./index.html">MDH</a></li> </ul> <!-- LICENSE README.html book.toml contributors.html getting-started.html rss.sh src theme [Awesome](./awesome/toc.html) --> <!-- LICENSE README.html book.toml contributors.html getting-started.html rss.sh src theme [2021年](./2021.html) --> <ul> <li><a href="2021/04/toc.html">2021.04</a></li> <li><a href="./2021/04/14.html">2021.04.14</a></li> <li><a href="./2021/04/15.html">2021.04.15</a></li> <li><a href="./2021/04/16.html">2021.04.16</a></li> <li><a href="./2021/04/17.html">2021.04.17</a></li> <li><a href="./2021/04/18.html">2021.04.18</a></li> <li><a href="./2021/04/19.html">2021.04.19</a></li> </ul>]]></description>
+    <pubDate>Tue, 20 Apr 2021 23:42:26 +0800</pubDate>
+    <description><![CDATA[<h1 id="summary">Summary</h1> <ul> <li><a href="./index.html">MDH</a></li> </ul> <!-- LICENSE README.html book.toml contributors.html getting-started.html rss.sh src theme [Awesome](./awesome/toc.html) --> <!-- LICENSE README.html book.toml contributors.html getting-started.html rss.sh src theme [2021年](./2021.html) --> <ul> <li><a href="2021/04/toc.html">2021.04</a></li> <li><a href="./2021/04/14.html">2021.04.14</a></li> <li><a href="./2021/04/15.html">2021.04.15</a></li> <li><a href="./2021/04/16.html">2021.04.16</a></li> <li><a href="./2021/04/17.html">2021.04.17</a></li> <li><a href="./2021/04/18.html">2021.04.18</a></li> <li><a href="./2021/04/19.html">2021.04.19</a></li> <li><a href="./2021/04/20.html">2021.04.20</a></li> </ul>]]></description>
   </item>
    
   <item>
     <title><![CDATA[2021.04]]></title>
     <link>https://fe-cool.github.io/news/2021/04/toc.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/toc.html</guid>
-    <pubDate>Tue, 20 Apr 2021 14:45:43 +0800</pubDate>
+    <pubDate>Tue, 20 Apr 2021 23:42:26 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.04</h1>
 <p><code>汇总中...</code></p>
 <h2 id="tools">Tools</h2>
@@ -176,10 +176,43 @@
   </item>
    
   <item>
+    <title><![CDATA[2021.04.20]]></title>
+    <link>https://fe-cool.github.io/news/2021/04/20.html</link>
+    <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/20.html</guid>
+    <pubDate>Tue, 20 Apr 2021 23:42:26 +0800</pubDate>
+    <description><![CDATA[<h1 id="section">2021.04.20</h1>
+<ul>
+<li><p><code>vsc</code> <code>app</code> 作者推荐<a href="https://dev.to/simonpaix/10-useful-vs-code-shortcuts-you-should-know-42m">十个有用的vscode快捷键</a>，可以用来提高效率，但是常用快捷键还有很多，附上<a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">windows</a>和<a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">mac</a>快捷键表，配合快捷键提示<a href="https://www.mediaatelier.com/CheatSheet">CheatSheet APP(mac)</a>效果更佳。</p></li>
+<li><p><code>css</code> <a href="https://pustelto.com/blog/css-vs-css-in-js-perf">Real-world CSS vs. CSS-in-JS performance comparison</a> - 如果关心性能，不要用 runtime 的 css-in-js，less js = faster site，尤其是针对低端机来说。</p></li>
+<li><p><code>react</code> <code>wasm</code> <a href="https://github.com/evgeny-nadymov/telegram-react">Telegram React</a>，基于 react、tdlib（Telegram Database Library） 和 webassembly。</p></li>
+<li><p><code>vite</code> <a href="https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md#220-2021-04-19">vite 发布 2.2</a> - 支持配置 cacheDir，vite.config.ts 支持 async 返回，config 和 configResolved hook 支持 promise 等。</p></li>
+<li><p><code>react</code> <a href="https://github.com/lostpebble/pullstate">基于 immer 和 hooks 的数据流方案</a></p></li>
+<li><p><code>lang</code> <a href="https://github.com/miao-lang/miao-lang">喵语翻译</a> - 将人类语言翻译为喵语言</p></li>
+<li><p><code>react</code> <a href="https://github.com/sultan99/stylin">react 样式方案</a>，主要是通过 tag 提供类型支持和语法提示</p></li>
+<li><p><code>other</code> <a href="https://www.qbitai.com/2021/04/22837.html">GitHub Actions 被滥用挖矿</a></p></li>
+<li><p><code>rn</code> 目前我能找到比较优秀的可用的开源 <a href="https://github.com/githuboftigran/rn-range-slider">RN range-slider</a> 组件，帮助我完成了需求。</p></li>
+<li><p><code>css</code> <a href="https://github.com/chokcoco/iCSS">CSS 奇技淫巧</a> - 不仅是为了拓宽解决问题的思路，更涉及一些容易忽视或是十分有趣的 CSS 细节。</p></li>
+<li><p><code>tools</code> <a href="https://github.com/photopea/photopea">Photopea</a> 可能大家都用过，为了能在拓展业务（私活）上能用上imgcook，不管是哪家的设计图，动动手都能转成sketch，可能是ps的脚本太烂，大家都不愿意开发拓展。用这个工具把设计图转来转去，折腾下来，看自己感觉，可能有点还不如自己切图快。</p></li>
+<li><p><code>tools</code> 一个自动同步github fork代码的<a href="https://probot.github.io/apps/pull">pull机器人</a></p></li>
+<li><p><code>webpack</code> 手写<a href="https://mp.weixin.qq.com/s/gW_2sDfX5o4wamoiZMsxCw">easy webpack</a> 帮助大家熟悉AST是什么东西。</p></li>
+<li><p><code>other</code> <a href="https://mp.weixin.qq.com/s/kTTcAERbopvNveTYUbAB3A">从新生产资料到新战略资源</a></p></li>
+<li><p><code>react</code> 让 react 脱颖而出的 7 个因素 - <a href="https://www.youtube.com/watch?v=yLgq-Foc1EE">youtube视频</a>，<a href="https://docs.google.com/presentation/d/1Q_BJD9oy9TdkdysxWW67b8GURaZF_awSKssGR8HI898/edit#slide=id.gce1d01b41a_0_4">PPT</a></p></li>
+<li><p><code>docker</code> <a href="https://mp.weixin.qq.com/s/x9d0umPbUHkb2tNnSds5bQ">docker图形工具</a></p></li>
+<li><p><code>vue3</code> 尤雨溪在知乎热情问候网友，<a href="https://www.zhihu.com/answer/1844784032">vue3现阶段支持ts以及tsx的现况</a></p></li>
+<li><p><code>fe</code> 最新的<a href="https://mp.weixin.qq.com/s/6Oygy93y9NW0VkRD5HRVkg">前端框架性能对比</a>，能打架就别吵吵。</p></li>
+<li><p><code>fe</code> <code>desktop</code> <a href="https://github.com/nextapps-de/winbox">WinBox</a>是用于Web的专业HTML5窗口管理器：轻巧，性能出色，无依赖项，完全可自定义，支持最大化，最小化，自由拉伸及拖动等。</p></li>
+<li><p><code>other</code> <a href="https://www.zhihu.com/question/28292740/answer/612467700">什么是函数式编程思维？</a></p></li>
+<li><p><code>js</code> <a href="https://github.com/dagrejs/dagre">用于图布局的JS库</a></p></li>
+<li><p><code>logo</code> <a href="https://www.logoly.pro/#/">个人博客logo设计</a></p></li>
+<li><p><code>ide</code> <a href="http://remix.hubwiz.com/#optimize=false&amp;version=soljson-v0.5.1+commit.c8a2cb62.js">web IDE</a> - 在线写合约，做区块链的前端同学可参考</p></li>
+</ul>]]></description>
+  </item>
+   
+  <item>
     <title><![CDATA[2021.04.19]]></title>
     <link>https://fe-cool.github.io/news/2021/04/19.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/19.html</guid>
-    <pubDate>Tue, 20 Apr 2021 14:45:43 +0800</pubDate>
+    <pubDate>Tue, 20 Apr 2021 23:42:26 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.04.19</h1>
 <ul>
 <li><p><code>react</code> <a href="https://github.com/sudheerj/reactjs-interview-questions">329 道 react 面试题</a>，质量还挺高</p></li>
@@ -210,7 +243,7 @@
     <title><![CDATA[2021.04.18]]></title>
     <link>https://fe-cool.github.io/news/2021/04/18.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/18.html</guid>
-    <pubDate>Tue, 20 Apr 2021 14:45:43 +0800</pubDate>
+    <pubDate>Tue, 20 Apr 2021 23:42:26 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.04.18</h1>
 <ul>
 <li><code>chrome</code> Google的.new快捷方式，Google为Google文档、幻灯片和表格引入了方便的“ .new”快捷方式，网站运营方也可以注册自己在线快捷方式的.new域，例如：</li>
@@ -233,7 +266,7 @@
     <title><![CDATA[2021.04.17]]></title>
     <link>https://fe-cool.github.io/news/2021/04/17.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/17.html</guid>
-    <pubDate>Tue, 20 Apr 2021 14:45:43 +0800</pubDate>
+    <pubDate>Tue, 20 Apr 2021 23:42:26 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.04.17</h1>
 <ul>
 <li><code>node</code> node 10 还有十几天就结束维护了，新开工具可以考虑默认 esm</li>
@@ -270,7 +303,7 @@
     <title><![CDATA[2021.04.16]]></title>
     <link>https://fe-cool.github.io/news/2021/04/16.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/16.html</guid>
-    <pubDate>Tue, 20 Apr 2021 14:45:43 +0800</pubDate>
+    <pubDate>Tue, 20 Apr 2021 23:42:26 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.04.16</h1>
 <ul>
 <li><p><code>webpack</code> <a href="https://twitter.com/_developit/status/1382838799420514317">SVG Import as React Component 的方式并不好，因为 bundle 到一起，没有用到的也会加载，所以会影响加载性能和内存占用，那么推荐的方式是啥？import 后返回一个 url 可能比较合适，比如用 webpack 的 url-loader</a></p></li>
@@ -292,7 +325,7 @@
     <title><![CDATA[2021.04.15]]></title>
     <link>https://fe-cool.github.io/news/2021/04/15.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/15.html</guid>
-    <pubDate>Tue, 20 Apr 2021 14:45:43 +0800</pubDate>
+    <pubDate>Tue, 20 Apr 2021 23:42:26 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.04.15</h1>
 <ul>
 <li><p><code>tools</code> <a href="https://natto.dev/example/1dcbeb7583624bf19d69b9942271a703">natto.dev，2d 可视化编程，感觉适用于新手教学和流程编排</a></p></li>
@@ -332,30 +365,6 @@
 <li><a href="https://github.com/sindresorhus">https://github.com/sindresorhus(作者)</a></li>
 <li><p><a href="https://github.com/sindresorhus/p-limit">https://github.com/sindresorhus/p-limit(仓库)</a></p></li>
 <li><p><code>fe</code> <code>other</code> <a href="https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13">The Complete Guide to Full Stack Ethereum Development，以太坊开发指南，刚听完偏右分享完这个，还是挺有意思的，生态很完整</a></p></li>
-</ul>]]></description>
-  </item>
-   
-  <item>
-    <title><![CDATA[2021.04.14]]></title>
-    <link>https://fe-cool.github.io/news/2021/04/14.html</link>
-    <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/14.html</guid>
-    <pubDate>Tue, 20 Apr 2021 14:45:43 +0800</pubDate>
-    <description><![CDATA[<h1 id="section">2021.04.14</h1>
-<ul>
-<li><code>tools</code> Google工程师Surma和其他人一起打造了一个评价打包工具优劣的开源项目tooling.report</li>
-<li><a href="https://github.com/surma">https://github.com/surma（作者）</a></li>
-<li><a href="https://github.com/GoogleChromeLabs/tooling.report">https://github.com/GoogleChromeLabs/tooling.report（项目仓库）</a></li>
-<li><p><a href="https://bundlers.tooling.report">https://bundlers.tooling.report（官网）</a></p></li>
-<li><code>news</code> 英文技术推文情报源：</li>
-<li><a href="https://github.com/jondot/awesome-weekly" class="uri">https://github.com/jondot/awesome-weekly</a></li>
-<li><a href="https://github.com/zudochkin/awesome-newsletters" class="uri">https://github.com/zudochkin/awesome-newsletters</a></li>
-<li><p><a href="https://github.com/zenany/weekly" class="uri">https://github.com/zenany/weekly</a></p></li>
-<li><p><code>js</code> <a href="https://www.toutiao.com/i6950609447534412327">我国首个 JS 语言提案在 ECMA 进入 Stage 3</a></p></li>
-<li><p><code>react</code> <a href="https://juejin.cn/post/6950997088947666951">Recoil：Facebook 新一代的 React 状态管理库</a></p></li>
-<li><p><code>wasm</code> <a href="https://lencx.github.io/book/wasm/rust_wasm_frontend.html">WebAssembly入门 （Vite + Rust）</a></p></li>
-<li><p><code>vue</code> <a href="https://us.vuejs.org/schedule">VueConf US 进行中 形式: 线上直播 价格: 免费 报名链接</a></p></li>
-<li><p><code>js</code> <a href="https://mp.weixin.qq.com/s/wh1RcA1-32rLI4xRaKi-uw">新年新气象，ES2021/ES12它踏着自信的步伐来了</a></p></li>
-<li><p><code>tools</code> <a href="https://github.com/docmirror/dev-sidecar">开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速</a></p></li>
 </ul>]]></description>
   </item>
   
