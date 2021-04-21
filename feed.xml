@@ -9,7 +9,7 @@
     <title><![CDATA[关于【MDH • 前端情报】]]></title>
     <link>https://fe-cool.github.io/news/index.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/index.html</guid>
-    <pubDate>Wed, 21 Apr 2021 01:23:49 +0800</pubDate>
+    <pubDate>Thu, 22 Apr 2021 01:48:35 +0800</pubDate>
     <description><![CDATA[<h1 id="关于mdh-前端情报">关于【MDH • 前端情报】</h1>
 <ul>
 <li>代号：<code>MDH(make developer happier)</code></li>
@@ -73,7 +73,7 @@
     <title><![CDATA[精选]]></title>
     <link>https://fe-cool.github.io/news/awesome/toc.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/toc.html</guid>
-    <pubDate>Wed, 21 Apr 2021 01:23:49 +0800</pubDate>
+    <pubDate>Thu, 22 Apr 2021 01:48:35 +0800</pubDate>
     <description><![CDATA[<h1 id="精选">精选</h1>
 <h2 id="tools">Tools</h2>]]></description>
   </item>
@@ -82,15 +82,15 @@
     <title><![CDATA[Summary]]></title>
     <link>https://fe-cool.github.io/news/SUMMARY.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/SUMMARY.html</guid>
-    <pubDate>Wed, 21 Apr 2021 01:23:49 +0800</pubDate>
-    <description><![CDATA[<h1 id="summary">Summary</h1> <ul> <li><a href="./index.html">MDH</a></li> </ul> <!-- LICENSE README.html book.toml contributors.html getting-started.html rss.sh src theme [Awesome](./awesome/toc.html) --> <!-- LICENSE README.html book.toml contributors.html getting-started.html rss.sh src theme [2021年](./2021.html) --> <ul> <li><a href="2021/04/toc.html">2021.04</a></li> <li><a href="./2021/04/14.html">2021.04.14</a></li> <li><a href="./2021/04/15.html">2021.04.15</a></li> <li><a href="./2021/04/16.html">2021.04.16</a></li> <li><a href="./2021/04/17.html">2021.04.17</a></li> <li><a href="./2021/04/18.html">2021.04.18</a></li> <li><a href="./2021/04/19.html">2021.04.19</a></li> <li><a href="./2021/04/20.html">2021.04.20</a></li> </ul>]]></description>
+    <pubDate>Thu, 22 Apr 2021 01:48:35 +0800</pubDate>
+    <description><![CDATA[<h1 id="summary">Summary</h1> <ul> <li><a href="./index.html">MDH</a></li> </ul> <!-- LICENSE README.html book.toml contributors.html getting-started.html rss.sh src theme [Awesome](./awesome/toc.html) --> <!-- LICENSE README.html book.toml contributors.html getting-started.html rss.sh src theme [2021年](./2021.html) --> <ul> <li><a href="2021/04/toc.html">2021.04</a></li> <li><a href="./2021/04/14.html">2021.04.14</a></li> <li><a href="./2021/04/15.html">2021.04.15</a></li> <li><a href="./2021/04/16.html">2021.04.16</a></li> <li><a href="./2021/04/17.html">2021.04.17</a></li> <li><a href="./2021/04/18.html">2021.04.18</a></li> <li><a href="./2021/04/19.html">2021.04.19</a></li> <li><a href="./2021/04/20.html">2021.04.20</a></li> <li><a href="./2021/04/21.html">2021.04.21</a></li> </ul>]]></description>
   </item>
    
   <item>
     <title><![CDATA[2021.04]]></title>
     <link>https://fe-cool.github.io/news/2021/04/toc.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/toc.html</guid>
-    <pubDate>Wed, 21 Apr 2021 01:23:49 +0800</pubDate>
+    <pubDate>Thu, 22 Apr 2021 01:48:35 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.04</h1>
 <p><code>汇总中...</code> <!-- 16已完成 --></p>
 <h2 id="tools">Tools</h2>
@@ -201,10 +201,102 @@
   </item>
    
   <item>
+    <title><![CDATA[2021.04.21]]></title>
+    <link>https://fe-cool.github.io/news/2021/04/21.html</link>
+    <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/21.html</guid>
+    <pubDate>Thu, 22 Apr 2021 01:48:35 +0800</pubDate>
+    <description><![CDATA[<h1 id="section">2021.04.21</h1>
+<ul>
+<li><p><code>fe</code> <code>guide</code> <a href="https://javascript.info">现代JavaScript教程</a></p></li>
+<li><p><code>react</code> <code>threejs</code> 酷炫的幻灯片效果，基于 <span class="citation">@react-three</span> 和 react-use-gesture，<a href="https://qf8d0.csb.app">demo</a> 及 <a href="https://codesandbox.io/s/qf8d0">源码</a></p></li>
+<li><p><code>node</code> <a href="https://nodejs.medium.com/node-js-16-available-now-7f5099a97e70">node 发布 16 官方 darwin-arm64 包</a>，不用手动编译了，<a href="https://v8.dev/features/tags/node.js-16">RegExp match indices，Atomics.waitAsync</a> 等</p></li>
+<li><p><code>other</code> <a href="https://apps.apple.com/app/id1519867270">Refined Github 插件支持 Safari</a></p></li>
+<li><p><code>vue3</code> vue3可以跑vue2的组件库了，impossible！！！</p></li>
+<li><p><code>flutter</code> <a href="https://mp.weixin.qq.com/s/tnHbceedNsoKgMrgoTyyuA">基于 Flutter 的 Web 渲染引擎「北海」正式开源</a>，<a href="https://openkraken.com">官网</a></p></li>
+<li><p><code>js</code> <a href="https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078">JS 的Class 不只是一个语法糖，作者用多个代码示例对比了 es5 与 es6 的区别</a></p></li>
+<li><p><code>micro-frontends</code> <a href="https://ice-lab.github.io/icestark">面向大型系统的微前端解决方案</a></p></li>
+<li><p><code>fe</code> <code>game</code> <a href="https://mp.weixin.qq.com/s/2xWOjFMQW92_CU88If4q7g">可能是前端同学必备的2D游戏优互动入门基础知识</a></p></li>
+<li><p><code>chrome</code> 每天爬 Github Trending热门Repo的<a href="https://github.com/zhuowenli/githuber">chrome拓展程序</a></p></li>
+<li><p><code>other</code> <a href="https://www.yunyoujun.cn/air-conditioner">云空调</a>，<a href="https://github.com/YunYouJun/air-conditioner">github repo</a></p></li>
+<li><p><code>webgl</code> <a href="https://webglfundamentals.org">WebGL 理论基础</a> - 一系列文章，从零开始，并有大量代码示例</p></li>
+<li><p><code>js</code> 2022第一个新语法 <a href="https://github.com/tc39/proposals/blob/master/finished-proposals.md">Class Fields</a></p></li>
+<li><p><code>browser</code> <a href="https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/">介绍浏览器幕后的工作原理</a></p></li>
+<li><p><code>wasm</code> <a href="https://ant-design-blazor.gitee.io/zh-CN/">Ant Design of Blazor</a> - WebAssembly 版本的antDesign，语法类似 tsx。</p></li>
+<li><p><code>react</code> <code>hook</code> <a href="https://github.com/simbathesailor/use-what-changed">use-what-changed</a> - 一个便于调试react hook中依赖项列表变化的小工具</p></li>
+<li><p><code>other</code> <a href="https://2020.stateofjs.com/en-US/">2020 js调查报告</a></p></li>
+<li><p><code>blog</code> <a href="https://fettblog.eu/articles">TypeScript 和 React 方面的专家</a></p></li>
+<li><p><code>css</code> <a href="https://lea.verou.me">《CSS 揭秘》</a> 作者的博客</p></li>
+<li><p><code>svelte</code> 擅长前端编译，有<a href="https://lihautan.com">从零编译 svelte 实现的系列</a></p></li>
+<li><p><code>other</code> 一个<a href="https://testufo.com/framerates#count=3&amp;background=none&amp;pps=1200">可以测试刷新率的网站</a></p></li>
+<li><p><code>other</code> <a href="https://a.temporaryrecord.com">永久记录 米国政府JK全世界网络信息的真相</a></p></li>
+<li><p><code>fe</code> <a href="https://developer.aliyun.com/article/783668">前端领域模型，重构前端研发模式</a></p></li>
+<li><p><code>book</code> 发现了这样一本免费电子书 <a href="https://www.ituring.com.cn/book/1210">《理解WebKit和Chromium》</a></p></li>
+<li><p><code>rn</code> <a href="https://gilshaan.medium.com/react-native-coding-standards-and-best-practices-5b4b5c9f4076">react-native 工程最佳实践</a></p></li>
+<li><p><code>react</code> <code>graphql</code> 卖 $450 的 <a href="https://bedrock.mxstbr.com">React + Next.js + GraphQL</a> 脚手架</p></li>
+<li><code>orm</code> <a href="https://www.prisma.io/blog/prisma-the-complete-orm-inw24qjeawmb">Prisma tools are ready for production today!</a></li>
+<li>Prisma 官方的工具链今天 production ready 了。</li>
+<li><p>Prisma 是一个很强大的面向现代前端的 ORM，上文提到的 $450 脚手架 Bedrock 也有集成它。再有如果前面分享里所说的前端领域模型能够展开，配合 Prisma 实现 adapters 应该是个不错的选择。</p></li>
+<li><p><code>preact</code> <a href="https://macos.vercel.app/?continueFlag=79c07017fa017269cd2fd54d2630adff">macos in preact</a> - <a href="https://github.com/puruvj/macos-web">源码</a></p></li>
+<li><p><code>tools</code> <a href="https://openbase.com">openbase</a> - 工具类站点，寻找类库的工具</p></li>
+<li><p><code>news</code> <a href="https://zhuanlan.zhihu.com/fliggy">飞猪前端团队</a></p></li>
+<li><p><code>blog</code> <a href="https://kentcdodds.com/blog">Kent C. Dodds blog</a></p></li>
+<li><p><code>news</code> <a href="https://github.com/hijiangtao/javascript-articles-monthly">JavaScript文章精选月刊</a></p></li>
+<li><p><code>news</code> <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg4MjE5OTI4Mw==&amp;action=getalbum&amp;album_id=1509426251277631489&amp;scene=173&amp;from_msgid=2247487220&amp;from_itemidx=1&amp;count=3#wechat_redirect">ECMAScript双月报告</a></p></li>
+<li><code>rss</code> 如果你的信息流中心主要是 RSS，那么关注 Github 的一些消息，可以使用官方提供的 RSS：</li>
+<li>仓库 releases: https://github.com/:owner/:repo/releases.atom</li>
+<li>仓库 commits: https://github.com/:owner/:repo/commits.atom</li>
+<li><p>用户动态: https://github.com/:user.atom</p></li>
+<li><p><code>other</code> <a href="https://github.com/datastorm-open/visNetwork">vis-network</a> - 网络可视化的R包，使用的是vis.js，<a href="https://www.ame.cool/pages/a7d858/#network-%E5%85%B3%E7%B3%BB%E5%9B%BE">中文文档</a></p></li>
+<li><p><code>fe</code> <a href="https://zhuanlan.zhihu.com/p/357411780">不要以 DRY 之名，发明低代码 DSL 去残害你的同事</a></p></li>
+<li><p><code>fe</code> <a href="https://juejin.cn/post/6844904128557105166">当浏览器全面禁用三方 Cookie</a></p></li>
+<li><p><code>lowcode</code> <a href="https://www.yuque.com/paranoidjk/blog/keufo1#5q1Hg">云凤蝶</a> - 低代码搭建平台 , lowcode前端的一种技术实现方案</p></li>
+<li><p><code>svg</code> <a href="https://codepen.io/HunorMarton/pen/PoGbgqj">25个SVG渐进教程</a></p></li>
+<li><p><code>js</code> <a href="https://github.com/raghavmecheri/pytorchjs">pytorchjs</a> - JS版的深度学习库，集成了常见的深度学习模型，可以在前端跑一些简单的模型</p></li>
+<li><p><code>css</code> <a href="https://blog.zhangbing.site/2020/12/28/improve-page-rendering-speed-using-only-css/">仅使用CSS就可以提高页面渲染速度的4个技巧</a></p></li>
+<li><p><code>react</code> <a href="https://jelly.jd.com/article/603d96596d84e3013e885482">从中断机制看 React Fiber 技术</a></p></li>
+<li><p><code>rss</code> 是一个<a href="https://ohmyrss.com">开源的在线 RSS 阅读服务</a>，旨在为 IT 从业者提供一个优质的学习圈子。</p></li>
+</ul>
+<hr />
+<p><code>🎉 彩蛋</code>: 如何信息获取？</p>
+<ul>
+<li><code>云谦</code>：我的信息来源主要这些</li>
+</ul>
+<ol style="list-style-type: decimal">
+<li>twitter 新建个 list 关注国内外前端大牛，然后按 top 排序</li>
+<li>github 1) 通过 watch &gt; custom &gt; Releases 订阅感兴趣库的 release 信息 2) follow 一些人</li>
+<li>邮箱订阅各种 weekly 邮件列表</li>
+<li>rss 订阅，来源很杂 信息流的方式基本没变，可参考两年前花的图，<a href="https://www.yuque.com/docs/share/78603db2-1dfc-47ad-9f47-1d2a5d6cd6e4?#">《2019-04-sorrycc-我的输入信息流》</a></li>
+</ol>
+<ul>
+<li><code>xiaohuoni</code>: 我的信息输入较少，更多喜欢从纸质书籍上得到信息。</li>
+</ul>
+<ol style="list-style-type: decimal">
+<li>当当图书推荐榜-优先计算机，语言类。</li>
+<li>github 首页，主要是通过关注的人的动态，还有explore里面的推荐</li>
+<li>dev.to 通过 tags 过滤，也关注热度榜单。dev开源之前是我的主要信息来源。一直想着做一个国内站点，开源的时候，看了一下技术栈与我掌握的差异太大。反而连这个网站都少上了。</li>
+<li>云谦早报和他个人动态现在是我的主要信息来源。</li>
+<li>阮一峰的周报，issues区有很多信息 <a href="https://github.com/ruanyf/weekly/issues">ruanyf/weekly</a></li>
+</ol>
+<ul>
+<li><code>浩明</code>: 我的信息来源主要这几个博客和平台</li>
+</ul>
+<ol style="list-style-type: decimal">
+<li>github 上 follow 的动态</li>
+<li>Jake Archibald 博客 https://jakearchibald.com/</li>
+<li>Dan Abramov 博客 https://overreacted.io/</li>
+<li>David Walsh 博客 https://davidwalsh.name/</li>
+<li>阮一峰，张鑫旭 的博客</li>
+<li>公众号，知乎</li>
+</ol>
+<hr />
+<p><code>补充：</code>: 我本人<code>lencx</code>也 follow 过许多国外大牛，因为人数太多暂时无法整理出来，感兴趣的可以查看 - <a href="https://github.com/lencx?tab=following">github following</a> - <code>twitter</code>: 排名不分先后，由于时间原因，只列取了部分，大家可以根据follow后的推荐自行关注 - <a href="https://twitter.com/dan_abramov">Dan</a> - <a href="https://twitter.com/rauschma">Axel Rauschmayer</a> - <a href="https://twitter.com/tjholowaychuk">TJ Holowaychuk</a> - <a href="https://twitter.com/youyuxi">Evan You</a> - <a href="https://twitter.com/LeaVerou">Lea Verou</a> - <a href="https://twitter.com/sindresorhus">Sindre Sorhus</a> - <a href="https://twitter.com/TheLarkInn">Sean Larkin</a> - <a href="https://twitter.com/Una">Una Kravets</a> - <a href="https://twitter.com/chriscoyier">Chris Coyier</a> - <a href="https://twitter.com/alligatorio">Alligator.io</a> - <a href="https://twitter.com/b0rk">Julia Evans</a> - <a href="https://twitter.com/linclark">Lin Clark</a> - <a href="https://twitter.com/ASpittel">Ali Spittel</a> - <a href="https://twitter.com/devdevcharlie">Charlie Gerard</a> - <a href="https://twitter.com/slicknet">Nicholas C. Zakas</a> - <a href="https://twitter.com/sarah_edo">Sarah Drasner</a> - <a href="https://twitter.com/rwieruch">Robin Wieruch</a> - <a href="https://twitter.com/mxstbr">Max Stoiber</a> - <a href="https://twitter.com/andrestaltz">André Staltz</a> - <a href="https://twitter.com/sebmck">Sebastian</a> - <a href="https://twitter.com/MylesBorins">MylesBorins</a> - <a href="https://twitter.com/MrAhmadAwais">Awais</a> - <a href="https://twitter.com/CompuIves">Ives van Hoorne</a> - <a href="https://twitter.com/dceddia">Dave Ceddia</a></p>]]></description>
+  </item>
+   
+  <item>
     <title><![CDATA[2021.04.20]]></title>
     <link>https://fe-cool.github.io/news/2021/04/20.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/20.html</guid>
-    <pubDate>Wed, 21 Apr 2021 01:23:49 +0800</pubDate>
+    <pubDate>Thu, 22 Apr 2021 01:48:35 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.04.20</h1>
 <ul>
 <li><p><code>vsc</code> <code>app</code> 作者推荐<a href="https://dev.to/simonpaix/10-useful-vs-code-shortcuts-you-should-know-42m">十个有用的vscode快捷键</a>，可以用来提高效率，但是常用快捷键还有很多，附上<a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">windows</a>和<a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">mac</a>快捷键表，配合快捷键提示<a href="https://www.mediaatelier.com/CheatSheet">CheatSheet APP(mac)</a>效果更佳。</p></li>
@@ -238,7 +330,7 @@
     <title><![CDATA[2021.04.19]]></title>
     <link>https://fe-cool.github.io/news/2021/04/19.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/19.html</guid>
-    <pubDate>Wed, 21 Apr 2021 01:23:49 +0800</pubDate>
+    <pubDate>Thu, 22 Apr 2021 01:48:35 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.04.19</h1>
 <ul>
 <li><p><code>react</code> <a href="https://github.com/sudheerj/reactjs-interview-questions">329 道 react 面试题</a>，质量还挺高</p></li>
@@ -269,7 +361,7 @@
     <title><![CDATA[2021.04.18]]></title>
     <link>https://fe-cool.github.io/news/2021/04/18.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/18.html</guid>
-    <pubDate>Wed, 21 Apr 2021 01:23:49 +0800</pubDate>
+    <pubDate>Thu, 22 Apr 2021 01:48:35 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.04.18</h1>
 <ul>
 <li><code>chrome</code> Google的.new快捷方式，Google为Google文档、幻灯片和表格引入了方便的“ .new”快捷方式，网站运营方也可以注册自己在线快捷方式的.new域，例如：</li>
@@ -292,7 +384,7 @@
     <title><![CDATA[2021.04.17]]></title>
     <link>https://fe-cool.github.io/news/2021/04/17.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/17.html</guid>
-    <pubDate>Wed, 21 Apr 2021 01:23:49 +0800</pubDate>
+    <pubDate>Thu, 22 Apr 2021 01:48:35 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.04.17</h1>
 <ul>
 <li><code>node</code> node 10 还有十几天就结束维护了，新开工具可以考虑默认 esm</li>
@@ -329,7 +421,7 @@
     <title><![CDATA[2021.04.16]]></title>
     <link>https://fe-cool.github.io/news/2021/04/16.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/16.html</guid>
-    <pubDate>Wed, 21 Apr 2021 01:23:49 +0800</pubDate>
+    <pubDate>Thu, 22 Apr 2021 01:48:35 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.04.16</h1>
 <ul>
 <li><p><code>webpack</code> <a href="https://twitter.com/_developit/status/1382838799420514317">SVG Import as React Component 的方式并不好，因为 bundle 到一起，没有用到的也会加载，所以会影响加载性能和内存占用，那么推荐的方式是啥？import 后返回一个 url 可能比较合适，比如用 webpack 的 url-loader</a></p></li>
@@ -344,53 +436,6 @@
 <li><p><code>rust</code> <a href="https://github.com/hecrj/iced">rust 9.2K 跨平台 GUI 仓库 iced</a></p></li>
 <li><p><code>rust</code> <a href="https://github.com/swc-project/swc">swc rust编写的超快速的typescript/ javascript编译器,性能秒杀tsc</a></p></li>
 <li><p><code>vue</code> <a href="https://b23.tv/7IaUec">vue-cli维护者蒋豪群，给大家讲如何学习新的技术（以vue3个vite为例）</a></p></li>
-</ul>]]></description>
-  </item>
-   
-  <item>
-    <title><![CDATA[2021.04.15]]></title>
-    <link>https://fe-cool.github.io/news/2021/04/15.html</link>
-    <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/15.html</guid>
-    <pubDate>Wed, 21 Apr 2021 01:23:49 +0800</pubDate>
-    <description><![CDATA[<h1 id="section">2021.04.15</h1>
-<ul>
-<li><p><code>tools</code> <a href="https://natto.dev/example/1dcbeb7583624bf19d69b9942271a703">natto.dev，2d 可视化编程，感觉适用于新手教学和流程编排</a></p></li>
-<li><code>vue</code> <a href="https://twitter.com/youyuxi/status/1382373548317147147?s=05">vueconfus 尤雨溪的ppt，2021Q2以后安装vue，将默认安装vue3</a></li>
-<li><p><a href="https://docs.google.com/presentation/d/1Lu1X6dyofyWqE6lpWsdUAkHMWm9pB6A9bs187iIUin4/mobilepresent?slide=id.p">ppt地址</a></p></li>
-<li><p><code>pwa</code> <a href="https://link.medium.com/S91NRcCGsfb">Your PWA is going to break in August 2021</a></p></li>
-<li>BarcodeDetector 结合 navigator.getUserMedia（摄像头） 可用于识别二维码</li>
-<li><a href="https://twitter.com/stackblitz/status/1382337979767742464" class="uri">https://twitter.com/stackblitz/status/1382337979767742464</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/BarcodeDetector" class="uri">https://developer.mozilla.org/en-US/docs/Web/API/BarcodeDetector</a></li>
-<li><p><a href="https://barcode-detector.stackblitz.io/" class="uri">https://barcode-detector.stackblitz.io/</a></p></li>
-<li><p><code>react</code> <a href="https://remote.reactsummit.com">React Summit 4.14 - 4.16，有钱的可付费看，没钱的可像我一样搜关键字了解内容</a></p></li>
-<li><code>tools</code> nx，看了介绍视频，挺成熟的一个复杂项目管理工具，不仅仅是 monorepo，还解了 monorepo 的一些潜在问题，值得深入了解下</li>
-<li><a href="https://github.com/nrwl/nx" class="uri">https://github.com/nrwl/nx</a></li>
-<li><p><a href="https://www.youtube.com/watch?v=E188J7E_MDU" class="uri">https://www.youtube.com/watch?v=E188J7E_MDU</a></p></li>
-<li><code>css</code> headless ui 发布 1.0，无样式的组件库，和 tailwindcss 结合使用，但看文档没看出是如何结合的。</li>
-<li><a href="https://blog.tailwindcss.com/headless-ui-v1" class="uri">https://blog.tailwindcss.com/headless-ui-v1</a></li>
-<li><a href="https://headlessui.dev/" class="uri">https://headlessui.dev/</a></li>
-<li><p><a href="https://github.com/tailwindlabs/headlessui" class="uri">https://github.com/tailwindlabs/headlessui</a></p></li>
-<li><code>deno</code> deno 1.9 支持 import completions in the lsp 如果未来是 bundless，这和 remote dts 应该都会成为 esm cdn 的基础设施</li>
-<li><a href="https://deno.com/blog/v1.9#import-completions-in-the-lsp" class="uri">https://deno.com/blog/v1.9#import-completions-in-the-lsp</a></li>
-<li><a href="https://docs.skypack.dev/skypack-cdn/code/deno#hello-deno" class="uri">https://docs.skypack.dev/skypack-cdn/code/deno#hello-deno</a></li>
-<li><p><a href="https://github.com/denoland/vscode_deno/blob/main/docs/ImportCompletions.md" class="uri">https://github.com/denoland/vscode_deno/blob/main/docs/ImportCompletions.md</a></p></li>
-<li><p><code>docs</code> <a href="https://github.com/rust-lang/mdBook">mdbook是由rust编写的静态网站生成器，速度极快，支持多主题，LaTex，mermaidjs，导出pdf，插件等，功能强大。</a></p></li>
-<li><p><a href="https://github.com/GoogleChromeLabs/houdini-samples">Demos for different Houdini APIs</a></p></li>
-<li><p><code>news</code> <a href="https://docschina.org/weekly/react/docs">印记中文 - React Status Weekly</a></p></li>
-<li><p><code>react</code> <span class="citation">[@pansy/react-amap 高德地图的React封装，提供完整的高德类型定义，丝滑般的开发体验。]</span>(https://github.com/pansyjs/react-amap)</p></li>
-<li><code>js</code> <code>chrome</code> <a href="https://www.chromestatus.com/features/4609574738853888">Feature: ES Modules for service workers ('module' type option)</a></li>
-<li><p><a href="https://docs.google.com/document/d/1SeQ085YdBTtW3D_ygSpO0Wz2DAe8QiS1gj37IG5lstg/edit#">Chrome 91 版本支持说明文档</a></p></li>
-<li><code>chrome</code> Chrome 90 值得关注的点包括 1) overflow: clip 2) 声明式的 shadow dom，适用于 ssr</li>
-<li><a href="https://developer.chrome.com/blog/new-in-chrome-90/" class="uri">https://developer.chrome.com/blog/new-in-chrome-90/</a></li>
-<li><a href="https://www.youtube.com/watch?v=h3MONldIoNM" class="uri">https://www.youtube.com/watch?v=h3MONldIoNM</a></li>
-<li><p><a href="https://web.dev/declarative-shadow-dom/" class="uri">https://web.dev/declarative-shadow-dom/</a></p></li>
-<li><p><code>tools</code> <a href="https://css-tricks.com/comparing-the-new-generation-of-build-tools">Comparing the New Generation of Build Tools，作者对比了 esbuild、snpwpack、vite 和 wmr，功能上 vite 应该是最全的，snowpack 紧随其后，wmr 定位是原型工具，esbuild 其实不应该放到这里比，定位不同</a></p></li>
-<li><p><code>webpack</code> <a href="https://github.com/webpack/webpack/releases/tag/v5.33.0">webpack 5.33，支持针对不同 entry 配置不同的 publicPath，暂时想不到应用场景</a></p></li>
-<li><p><code>webpack</code> <a href="https://github.com/webpack/webpack/blob/master/lib/DynamicEntryPlugin.js">之前看webpack源码，还发现entry的隐藏技能。。支持entry 是一个 promise</a></p></li>
-<li><code>fe</code> <code>other</code> 一个关于控制异步函数并发运行的方法库。</li>
-<li><a href="https://github.com/sindresorhus">https://github.com/sindresorhus(作者)</a></li>
-<li><p><a href="https://github.com/sindresorhus/p-limit">https://github.com/sindresorhus/p-limit(仓库)</a></p></li>
-<li><p><code>fe</code> <code>other</code> <a href="https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13">The Complete Guide to Full Stack Ethereum Development，以太坊开发指南，刚听完偏右分享完这个，还是挺有意思的，生态很完整</a></p></li>
 </ul>]]></description>
   </item>
   
