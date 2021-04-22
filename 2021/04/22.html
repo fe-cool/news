@@ -1,0 +1,470 @@
+<!DOCTYPE HTML>
+<html lang="zh_CN" class="sidebar-visible no-js rust">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>2021.04.22 - MDH • 前端情报</title>
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+        <meta name="theme-color" content="#ffffff" />
+
+        
+        
+        <link rel="shortcut icon" href="../../favicon.png">
+        
+        <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+        
+        <link rel="stylesheet" href="../../css/print.css" media="print">
+        
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="../../fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+        <link rel="stylesheet" href="../../theme/news.css">
+        
+
+        
+        <style>img { border-radius: 4px; max-width: 100%; }</style>
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "rust";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('rust')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../../index.html"><strong aria-hidden="true">1.</strong> MDH</a></li><li class="chapter-item expanded "><a href="../../2021/04/toc.html"><strong aria-hidden="true">2.</strong> 2021.04</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../2021/04/14.html"><strong aria-hidden="true">2.1.</strong> 2021.04.14</a></li><li class="chapter-item expanded "><a href="../../2021/04/15.html"><strong aria-hidden="true">2.2.</strong> 2021.04.15</a></li><li class="chapter-item expanded "><a href="../../2021/04/16.html"><strong aria-hidden="true">2.3.</strong> 2021.04.16</a></li><li class="chapter-item expanded "><a href="../../2021/04/17.html"><strong aria-hidden="true">2.4.</strong> 2021.04.17</a></li><li class="chapter-item expanded "><a href="../../2021/04/18.html"><strong aria-hidden="true">2.5.</strong> 2021.04.18</a></li><li class="chapter-item expanded "><a href="../../2021/04/19.html"><strong aria-hidden="true">2.6.</strong> 2021.04.19</a></li><li class="chapter-item expanded "><a href="../../2021/04/20.html"><strong aria-hidden="true">2.7.</strong> 2021.04.20</a></li><li class="chapter-item expanded "><a href="../../2021/04/21.html"><strong aria-hidden="true">2.8.</strong> 2021.04.21</a></li><li class="chapter-item expanded "><a href="../../2021/04/22.html" class="active"><strong aria-hidden="true">2.9.</strong> 2021.04.22</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">MDH • 前端情报</h1>
+
+                    <div class="right-buttons">
+                        
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                        <a href="../../feed.xml" title="RSS" aria-label="RSS">
+                            <i id="rss-button" class="fa fa-rss-square"></i>
+                        </a>
+                        
+                        <a href="https://github.com/fe-cool/news" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main style="min-height: 42vh">
+                        <h1 id="20210422"><a class="header" href="#20210422">2021.04.22</a></h1>
+<ul>
+<li>
+<p><code>tools</code> <code>chrome</code> <a href="https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg">Wappalyzer</a> - 100 w+ 下载量，可以查看网站的技术栈以及使用的相关工具和服务。</p>
+</li>
+<li>
+<p><code>js</code> <a href="https://gitee.com/mirrors/jExcel">jExcel</a> - 轻量级的vanilla javascript插件，用于创建与Excel或任何其他电子表格软件兼容的基于Web的交互式表格和电子表格</p>
+</li>
+<li>
+<p><code>js</code> <code>guide</code> 基于 Next.JS 的 <a href="https://www.smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/">Incremental Static Regeneration (ISR) 指引</a> 新名词 ISR，增量的静态页面生成，适用于内容型站点</p>
+</li>
+<li>
+<p><code>terminal</code> 由于配置及插件过多，以链接形式分享<a href="https://github.com/lencx/mtc/blob/main/docs/tech/tools/terminal.md">tools/terminal</a></p>
+</li>
+<li>
+<p><code>flowchart</code> 用于构建交互式流程图的库，<a href="https://github.com/wbkd/react-flow">wbkd/react-flow</a>，<a href="https://reactflow.dev">网站</a>，<a href="https://github.com/egoist/flowkit">egoist/flowkit</a></p>
+</li>
+<li>
+<p><code>browser</code> 浏览器新标签页，可以定制自己想要的<a href="http://cn.infinitynewtab.com">标签infinity</a></p>
+</li>
+<li>
+<p><code>terminal</code> <a href="https://github.com/nvbn/thefuck">thefuck</a> - 命令行神器，当输错linux命令，fuck一下，提示你可能想输入的命令。</p>
+</li>
+<li>
+<p><code>redux</code> <a href="https://github.com/rtk-incubator/rtk-query">rtk-query</a> - 基于 redux toolkit 的 data fetch 和 caching 工具，还在用 redux 的可以关注下。</p>
+</li>
+<li>
+<p><code>tools</code> Everything （Windows search tool 毫秒级响应）</p>
+</li>
+<li>
+<p><code>tools</code> <a href="http://www.wox.one">wox</a> - An effective launcher for windows</p>
+</li>
+<li>
+<p><code>app</code> <a href="https://www.typora.io">typora</a> - 跨平台md编辑器</p>
+</li>
+<li>
+<p><code>app</code> <a href="https://xnipapp.com/">Xnip</a> - mac 端下比较好的截图软件，支持打码、步骤标注等常用功能</p>
+</li>
+<li>
+<p><code>app</code> <a href="https://github.com/ripperhe/Bob">Bob</a> - 翻译软件，支持划词翻译和截图 ocr 翻译，注意服务配多点效果比较好，多个翻译服务对照着看</p>
+</li>
+<li>
+<p><code>app</code> <a href="https://github.com/gbammc/Thor">thor</a> - 通过快捷键一键切换和隐藏各种软件（老板键？），搭配 Karabiner Element 修改右 command 为 hyper 键可进一步提升快捷键的选择空间</p>
+</li>
+<li>
+<p><code>app</code> <a href="https://apps.apple.com/cn/app/runcat/id1429033973?mt=12">Runcat</a> - 每个人看到我的电脑都会问这个猫是干啥的，菜单栏猫跑地越快 cpu 占用越高</p>
+</li>
+<li>
+<p><code>app</code> <code>wallpaper</code> Unsplash Wallpapers，mac 下壁纸日更软件，让你在办公室看景</p>
+</li>
+<li>
+<p><code>tools</code> <a href="https://www.notion.so/">Notion</a> - 现体验最好的自用知识管理工具。无限树层级的笔记结构，可以自建数据库管理目标/待办/人脉等资源，十分适合程序员，可以让工具根据你的生活模式定制；<a href="https://www.yuque.com/huorunquan/blog/rtvix8">Notion安利</a></p>
+</li>
+<li>
+<p><code>vsc</code> <a href="https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff">Partial Diff</a>，vscode 插件，能够对选定的两部分内容进行内容比对，等于 git 的单个文件 diff 功能</p>
+</li>
+<li>
+<p><code>vsc</code> <a href="https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree">Todo Tree</a> - vscode 插件，收集项目中你所有代码中备注遗留要做（也许不会）的事情，让你成为时间管理大师</p>
+</li>
+<li>
+<p><code>tools</code> <a href="https://u.tools">uTools</a>生产力工具集，自由集成丰富插件（可自主开发），快速匹配「场景功能」，用完即走</p>
+</li>
+<li>
+<p><code>app</code> <a href="https://getkap.co">Kap</a> - 非常好用的 gif截屏 小工具</p>
+</li>
+<li>
+<p><code>vsc</code> <a href="https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics">CodeMetrics</a> - vscode插件，用来计算 ts / js / lua代码的复杂度，帮助我们更好的重构代码。</p>
+</li>
+<li>
+<p><code>tools</code> <a href="https://sspai.com/post/55718">Marp</a> - Markdown 转 PPT，可自定义模板，配套 VSCode 工具，PPT 制作不再愁</p>
+</li>
+<li>
+<p><code>tools</code> <a href="https://www.cockos.com/licecap">LICEcap</a> - 小巧的 gif 生成器，可配置 gif 帧率、压缩参数等，demo 演示好帮手</p>
+</li>
+<li>
+<p><code>tools</code> 加速视频播放速度，最高16倍。</p>
+<ul>
+<li><a href="https://chrome.google.com/webstore/detail/global-speed/jpbjcnkcffbooppibceonlgknpkniiff?utm_source=chrome-ntp-icon">Chrome Global Speed插件</a></li>
+<li><a href="https://microsoftedge.microsoft.com/addons/detail/global-speed-%E8%A7%86%E9%A2%91%E9%80%9F%E5%BA%A6%E6%8E%A7%E5%88%B6/mjhlabbcmjflkpjknnicihkfnmbdfced?hl=zh-CN">Edge Global Speed插件</a></li>
+</ul>
+</li>
+<li>
+<p><code>tools</code> <a href="https://tinypng.com">tinypng</a> - 在线压缩图片，压缩之后清晰度还不错！</p>
+</li>
+<li>
+<p><code>app</code> <a href="https://imageoptim.com/mac">ImageOptim</a> - 使图像加载更快 删除肿的元数据。通过压缩映像节省磁盘空间和带宽，而不会降低质量。支持多种图片格式，自定义压缩质量</p>
+</li>
+<li>
+<p><code>tools</code> <a href="https://github.com/djyde/cusdis">cusdis</a> - 极简的网站嵌入评论工具</p>
+</li>
+<li>
+<p><code>app</code> <a href="https://www.marginnote.com/">MarginNote</a> = 不仅仅是笔记，不仅仅上学看论文用，碎片化信息严重，整理知识地图特别重要，构建自己的知识体系，强烈推荐在 iPad Pro 上搭配 pencil 使用，MarginNote3，用过十几款软件之后唯一愿意付费使用的，没有之一</p>
+</li>
+<li>
+<p><code>other</code> <a href="https://meld.so">meld</a> - 基于昨天的 $450 的脚手架搭建</p>
+</li>
+<li>
+<p><code>tools</code> <a href="https://mp.weixin.qq.com/s/y1yoMpbdgK024-tQnkP3TQ">25个不可错过的实用前端工具</a>
+￼</p>
+</li>
+<li>
+<p><code>tools</code> <a href="https://excalidraw.com">Excalidraw</a> - 手绘风格的画图工具，Dan Abramov 的 [Just JavaScript] 系列就用到了这个。支持 svg、png 格式的导出，支持 PWA，支持协作。</p>
+</li>
+<li>
+<p><code>terminal</code> <code>node</code> <a href="https://github.com/kenshinji/yddict">kenshinji/yddict</a> - 一个命令行查单词的工具</p>
+</li>
+<li>
+<p><code>app</code> <code>tools</code> <a href="https://culturedcode.com/things">Things</a> - 一款非常优秀的 GTD 工具</p>
+</li>
+<li>
+<p><code>book</code> <a href="https://ebook2.lorefree.com/">Lore Free</a> - 首个基于EOS和IPFS的去中心化知识共享社区</p>
+</li>
+<li>
+<p><code>fe</code> <code>debug</code> <a href="https://debugx5.qq.com">调试页面</a> - 可以用来 debug 微信的 webview ，仅支持 android</p>
+</li>
+<li>
+<p><code>other</code> <a href="https://developers.google.com/blockly">blockly</a> - 一个Google的有点像少儿编程的工具</p>
+</li>
+<li>
+<p><code>vue</code> <code>chart</code> <a href="https://github.com/QingWei-Li/vue-trend">vue-trend</a> - 超级小的图表库</p>
+</li>
+<li>
+<p><code>vue</code> <a href="https://github.com/LuckDraw/vue-luck-draw">vue-luck-draw</a> - Vue 写的一个抽奖类库</p>
+</li>
+<li>
+<p><code>tools</code> <a href="https://github.com/shadow1ng/fscan">shadow1ng/fscan</a> - 刚开源一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。例如：web指纹识别、web漏洞扫描、netbios探测、域控识别等。</p>
+</li>
+<li>
+<p><code>js</code> <a href="https://docs.ficusjs.org/docs/getting-started">FicusJS</a> - 基于webcomponent实现的轻量开发库</p>
+</li>
+<li>
+<p><code>react</code> react 另外一种状态管理 <a href="https://zhuanlan.zhihu.com/p/115068436">GraphQL + TypeScript + React + Apollo</a></p>
+</li>
+<li>
+<p><code>js</code> <a href="https://juejin.cn/post/6953541785217925151">考古挖掘：高刷显示器下的 requestAnimationFrame</a></p>
+</li>
+<li>
+<p><code>tools</code> <a href="https://resources.jointjs.com/demos/javascript-ast">js AST 可视化解析</a> - 可以转 svg ,png，帮助你 AST 语法结构</p>
+</li>
+<li>
+<p><code>serverless</code> <a href="https://mp.weixin.qq.com/s/NlMP4-gf2dqt3foAKJmeQg">美团公共服务serverless</a> 云函数建设情况、架构、生态、业务落地收益</p>
+</li>
+<li>
+<p><code>js</code> <code>flowchart</code> <a href="http://logic-flow.org/">LogicFlow</a> - 滴滴开源，专注流程可视化的前端框架</p>
+</li>
+<li>
+<p><code>react</code> <code>logo</code> <a href="https://github.com/reactchina/react-china-logo">React China Logos - React + 中国结</a></p>
+</li>
+<li>
+<p><code>react</code> <a href="https://www.prisma.io/blog/relay-vs-apollo-comparing-graphql-clients-for-react-apps-b40af58c1534">Relay vs Apollo</a> - 结合 React 的graphql两种客户端对比</p>
+</li>
+<li>
+<p><code>other</code> <a href="https://vincentcheng.github.io/apijson-doc/">APIJSON</a> - 腾讯开源</p>
+</li>
+<li>
+<p><code>other</code> <a href="https://lemon.qq.com/lab">柠檬精选</a> - 腾讯柠檬精选——收录免费、正版、好用的Mac产品</p>
+</li>
+<li>
+<p><code>browser</code> <a href="https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg">AdGuard</a> - 一款去广告的google chrome 扩展程序, 也有软件版本, 但不免费, 且不太需要, 基本的能力已经挺符合了</p>
+</li>
+<li>
+<p><code>tools</code> <a href="https://www.internetdownloadmanager.com/">IDM</a> - 下载工具 断点断续 多线程 甚至google drive这种 也可以断点断续, 相对稳定的媒体嗅探, bilibili youtube p* 等都可以出现浮窗 可以下载. 荔枝上买正版30一年</p>
+</li>
+<li>
+<p><code>tools</code> <a href="https://www.snipaste.com/">snipaste</a> - 有免费版本 够用了 截图 贴图 取色 方便的取历史图片 各种标记 针不戳.</p>
+</li>
+<li>
+<p><code>other</code> <a href="https://xclient.info">xclient</a> - MAC应用分享平台</p>
+</li>
+<li>
+<p><code>tools</code> <a href="https://www.charlesproxy.com/">charles</a> - 一款抓包修改工具, 操作简单但功能不错, 最近常用本地映射功能, 提升了调试效率 (1. 大部分本次调试不需要数据变动的接口, 不需要等待后端返回了 2. 如果需要造固化的调试数据, 也可以以文件的方式修改好 3. google chrome 控制台 networks 这个选项卡中, 可以右键屏蔽一些请求)</p>
+</li>
+<li>
+<p><code>browser</code> <code>tools</code> <a href="https://github.com/zxlie/FeHelper">FeHelper</a> - 一款google chrome 扩展程序, Web前端助手，扩展功能很多</p>
+</li>
+<li>
+<p><a href="https://github.com/GoogleChrome/lighthouse">lighthouse</a> - 网页检测工具，可以直观展示页面性能，性能优化建议，搜索引擎优化建议等
+<a href="https://zhuanlan.zhihu.com/p/91365316">解析lighthouse检测流程</a></p>
+</li>
+<li>
+<p><code>browser</code> <a href="https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk">Markdown Viewer</a> - 在浏览器预览markdown的谷歌插件（有时会对github的 README-*.md 有副作用）</p>
+</li>
+<li>
+<p><code>browser</code> <a href="https://chrome.google.com/webstore/detail/personal-blocklistnot-by/cbbbhelcpfjhdcncigdlkabmjbgokmpg">Personal Blocklist</a> - 谷歌搜索屏蔽不需要的网站，谷歌插件</p>
+</li>
+<li>
+<p><code>tools</code> <a href="https://carbon.now.sh/">Carbon</a> - 生成好看的代码图片</p>
+</li>
+<li>
+<p><code>other</code> <code>wallpaper</code> <a href="https://paper.meiyuan.in/">pap.er</a>, 专为 Mac 设计的壁纸应用 每天享受来自全球新鲜精美的壁纸</p>
+</li>
+<li>
+<p><code>browser</code> <a href="https://github.com/ovity/octotree">Octotree</a> - 可以更加友好地让你去浏览阅读GitHub上的项目。</p>
+</li>
+<li>
+<p><code>browser</code> <a href="https://chrome.google.com/webstore/detail/chphlpgkkbolifaimnlloiipkdnihall">OneTab</a> - 一键解决浏览器打开页签多，内存占用大。</p>
+</li>
+<li>
+<p><code>tools</code> <a href="https://chrome.google.com/webstore/detail/hdokiejnpimakedhajhdlcegeplioahd">LastPass</a> - 非常好用的密码管理工具。</p>
+</li>
+<li>
+<p><code>app</code> <code>tools</code> <a href="https://setapp.com/apps/istat-menus">iStat Menus</a> - 一款系统状态监控工具。</p>
+</li>
+<li>
+<p><code>app</code> <code>tools</code> <a href="https://iterm2.com/">iterm2</a> - 一款命令行终端模拟器，（iTerm2 + Oh My Zsh一套相关配置大大提升效率）</p>
+</li>
+<li>
+<p><code>app</code> <code>tools</code> <a href="https://www.sourcetreeapp.com/">sourceTree</a> -  一款可视化git管理工具。</p>
+</li>
+<li>
+<p><code>news</code> <a href="https://wanqu.co/">湾区日报</a> - 关注创业与技术，每天推送3到5篇优质英文文章</p>
+</li>
+<li>
+<p><code>tools</code> <code>flowchart</code> <a href="https://www.draw.io/">draw.io</a> - 免费客户端、网页版都有的画流程图工具，功能强大。</p>
+</li>
+<li>
+<p><code>browser</code> <a href="https://getpocket.com">pocket</a> - 谷歌浏览器插件，用来随手看到好的文章很方便地收藏</p>
+</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="../../2021/04/21.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+
+                    <div style="margin: 50px auto 0; max-width: 780px;">
+                        <script src="https://utteranc.es/client.js"
+                        repo="fe-cool/news-comments"
+                        issue-term="url"
+                        theme="github-dark-orange"
+                        crossorigin="anonymous"
+                        async></script>
+                    </div>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="../../2021/04/21.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_line_numbers = true;
+        </script>
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+        <script src="../../ace.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../editor.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../mode-rust.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../theme-dawn.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../theme-tomorrow_night.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        
+        <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+        <script>var _hmt=_hmt||[];(function(){var b=document.createElement("script");b.src="https://hm.baidu.com/hm.js?9fe2aa5611d2a4207aee3952e72090bc";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a)})();</script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+    </body>
+</html>
