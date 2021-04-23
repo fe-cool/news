@@ -9,7 +9,7 @@
     <title><![CDATA[关于【MDH • 前端情报】]]></title>
     <link>https://fe-cool.github.io/news/index.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/index.html</guid>
-    <pubDate>Fri, 23 Apr 2021 03:20:32 +0800</pubDate>
+    <pubDate>Sat, 24 Apr 2021 00:42:36 +0800</pubDate>
     <description><![CDATA[<h1 id="关于mdh-前端情报">关于【MDH • 前端情报】</h1>
 <ul>
 <li>代号：<code>MDH(make developer happier)</code></li>
@@ -73,7 +73,7 @@
     <title><![CDATA[精选]]></title>
     <link>https://fe-cool.github.io/news/awesome/toc.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/toc.html</guid>
-    <pubDate>Fri, 23 Apr 2021 03:20:32 +0800</pubDate>
+    <pubDate>Sat, 24 Apr 2021 00:42:36 +0800</pubDate>
     <description><![CDATA[<h1 id="精选">精选</h1>
 <h2 id="tools">Tools</h2>]]></description>
   </item>
@@ -82,15 +82,15 @@
     <title><![CDATA[Summary]]></title>
     <link>https://fe-cool.github.io/news/SUMMARY.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/SUMMARY.html</guid>
-    <pubDate>Fri, 23 Apr 2021 03:20:32 +0800</pubDate>
-    <description><![CDATA[<h1 id="summary">Summary</h1> <ul> <li><a href="./index.html">MDH</a></li> </ul> <!-- LICENSE README.html book.toml contributors.html getting-started.html rss.sh src theme [Awesome](./awesome/toc.html) --> <!-- LICENSE README.html book.toml contributors.html getting-started.html rss.sh src theme [2021年](./2021.html) --> <ul> <li><a href="2021/04/toc.html">2021.04</a></li> <li><a href="./2021/04/14.html">2021.04.14</a></li> <li><a href="./2021/04/15.html">2021.04.15</a></li> <li><a href="./2021/04/16.html">2021.04.16</a></li> <li><a href="./2021/04/17.html">2021.04.17</a></li> <li><a href="./2021/04/18.html">2021.04.18</a></li> <li><a href="./2021/04/19.html">2021.04.19</a></li> <li><a href="./2021/04/20.html">2021.04.20</a></li> <li><a href="./2021/04/21.html">2021.04.21</a></li> <li><a href="./2021/04/22.html">2021.04.22</a></li> </ul>]]></description>
+    <pubDate>Sat, 24 Apr 2021 00:42:36 +0800</pubDate>
+    <description><![CDATA[<h1 id="summary">Summary</h1> <ul> <li><a href="./index.html">MDH</a></li> </ul> <!-- LICENSE README.html book.toml contributors.html getting-started.html rss.sh src theme [Awesome](./awesome/toc.html) --> <!-- LICENSE README.html book.toml contributors.html getting-started.html rss.sh src theme [2021年](./2021.html) --> <ul> <li><a href="2021/04/toc.html">2021.04</a></li> <li><a href="./2021/04/14.html">2021.04.14</a></li> <li><a href="./2021/04/15.html">2021.04.15</a></li> <li><a href="./2021/04/16.html">2021.04.16</a></li> <li><a href="./2021/04/17.html">2021.04.17</a></li> <li><a href="./2021/04/18.html">2021.04.18</a></li> <li><a href="./2021/04/19.html">2021.04.19</a></li> <li><a href="./2021/04/20.html">2021.04.20</a></li> <li><a href="./2021/04/21.html">2021.04.21</a></li> <li><a href="./2021/04/22.html">2021.04.22</a></li> <li><a href="./2021/04/23.html">2021.04.23</a></li> </ul>]]></description>
   </item>
    
   <item>
     <title><![CDATA[2021.04]]></title>
     <link>https://fe-cool.github.io/news/2021/04/toc.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/toc.html</guid>
-    <pubDate>Fri, 23 Apr 2021 03:20:32 +0800</pubDate>
+    <pubDate>Sat, 24 Apr 2021 00:42:36 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.04</h1>
 <p><code>汇总中...</code> <!-- 16已完成 --></p>
 <h2 id="tools">Tools</h2>
@@ -201,10 +201,31 @@
   </item>
    
   <item>
+    <title><![CDATA[2021.04.23]]></title>
+    <link>https://fe-cool.github.io/news/2021/04/23.html</link>
+    <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/23.html</guid>
+    <pubDate>Sat, 24 Apr 2021 00:42:36 +0800</pubDate>
+    <description><![CDATA[<h1 id="section">2021.04.23</h1>
+<ul>
+<li><p><code>react</code> <a href="https://material-tailwind.com/">material-tailwind</a> - 基于 react、material、tailwind 开发的组件库</p></li>
+<li><p><code>tools</code> 基于 <a href="https://xosh.org/text-to-diagram/">text-to-chart</a> 的一些在线工具</p></li>
+<li><p><code>seo</code> <a href="https://www.jianshu.com/p/88e7348d30d4">基于 SSR/SSG 的前端 SEO 的优化</a></p></li>
+<li><p><code>app</code> <a href="https://maccy.app/">Maccy</a> - 随时保留复制历史记录，轻巧快捷</p></li>
+<li><p><code>app</code> <a href="https://justgetflux.com/">f.lux</a> - 屏幕蓝光过滤</p></li>
+<li><p><code>app</code> <a href="https://github.com/dwarvesf/hidden">Hidden Bar</a> - 隐藏mac菜单栏图标</p></li>
+<li><p><code>app</code> <a href="https://github.com/rxhanson/Rectangle">Rectangle</a> - 使用快捷键快速调整窗口大小及位置</p></li>
+<li><p><code>react</code> <a href="https://github.com/gregnb/react-to-print">react-to-print</a> - react中指定打印节点而并不需要写内联样式的库</p></li>
+<li><p><code>serverless</code> <a href="https://www.infoq.cn/article/gskv00JQCRzluPN4RGiC">伯克利谈 Serverless：服务器的存在，是云计算的大问题</a></p></li>
+<li><p><code>terminal</code> <a href="https://github.com/withfig/autocomplete">Fig</a> - adds VSCode style autocomplete to your terminal</p></li>
+<li><p><code>fe</code> <code>game</code> <a href="https://github.com/eva-engine/eva.js">Eva.js</a> - Eva.js is a front-end game engine specifically for creating interactive game projects.</p></li>
+</ul>]]></description>
+  </item>
+   
+  <item>
     <title><![CDATA[2021.04.22]]></title>
     <link>https://fe-cool.github.io/news/2021/04/22.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/22.html</guid>
-    <pubDate>Fri, 23 Apr 2021 03:20:32 +0800</pubDate>
+    <pubDate>Sat, 24 Apr 2021 00:42:36 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.04.22</h1>
 <ul>
 <li><p><code>tools</code> <code>chrome</code> <a href="https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg">Wappalyzer</a> - 100 w+ 下载量，可以查看网站的技术栈以及使用的相关工具和服务。</p></li>
@@ -265,7 +286,7 @@
 <li><p><code>other</code> <a href="https://xclient.info">xclient</a> - MAC应用分享平台</p></li>
 <li><p><code>tools</code> <a href="https://www.charlesproxy.com/">charles</a> - 一款抓包修改工具, 操作简单但功能不错, 最近常用本地映射功能, 提升了调试效率 (1. 大部分本次调试不需要数据变动的接口, 不需要等待后端返回了 2. 如果需要造固化的调试数据, 也可以以文件的方式修改好 3. google chrome 控制台 networks 这个选项卡中, 可以右键屏蔽一些请求)</p></li>
 <li><p><code>browser</code> <code>tools</code> <a href="https://github.com/zxlie/FeHelper">FeHelper</a> - 一款google chrome 扩展程序, Web前端助手，扩展功能很多</p></li>
-<li><p><a href="https://github.com/GoogleChrome/lighthouse">lighthouse</a> - 网页检测工具，可以直观展示页面性能，性能优化建议，搜索引擎优化建议等 <a href="https://zhuanlan.zhihu.com/p/91365316">解析lighthouse检测流程</a></p></li>
+<li><p><code>fe</code> <code>tools</code> <a href="https://github.com/GoogleChrome/lighthouse">lighthouse</a> - 网页检测工具，可以直观展示页面性能，性能优化建议，搜索引擎优化建议等 <a href="https://zhuanlan.zhihu.com/p/91365316">解析lighthouse检测流程</a></p></li>
 <li><p><code>browser</code> <a href="https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk">Markdown Viewer</a> - 在浏览器预览markdown的谷歌插件（有时会对github的 README-*.md 有副作用）</p></li>
 <li><p><code>browser</code> <a href="https://chrome.google.com/webstore/detail/personal-blocklistnot-by/cbbbhelcpfjhdcncigdlkabmjbgokmpg">Personal Blocklist</a> - 谷歌搜索屏蔽不需要的网站，谷歌插件</p></li>
 <li><p><code>tools</code> <a href="https://carbon.now.sh/">Carbon</a> - 生成好看的代码图片</p></li>
@@ -286,7 +307,7 @@
     <title><![CDATA[2021.04.21]]></title>
     <link>https://fe-cool.github.io/news/2021/04/21.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/21.html</guid>
-    <pubDate>Fri, 23 Apr 2021 03:20:32 +0800</pubDate>
+    <pubDate>Sat, 24 Apr 2021 00:42:36 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.04.21</h1>
 <ul>
 <li><p><code>fe</code> <code>guide</code> <a href="https://javascript.info">现代JavaScript教程</a></p></li>
@@ -406,7 +427,7 @@
     <title><![CDATA[2021.04.20]]></title>
     <link>https://fe-cool.github.io/news/2021/04/20.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/20.html</guid>
-    <pubDate>Fri, 23 Apr 2021 03:20:32 +0800</pubDate>
+    <pubDate>Sat, 24 Apr 2021 00:42:36 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.04.20</h1>
 <ul>
 <li><p><code>vsc</code> <code>app</code> 作者推荐<a href="https://dev.to/simonpaix/10-useful-vs-code-shortcuts-you-should-know-42m">十个有用的vscode快捷键</a>，可以用来提高效率，但是常用快捷键还有很多，附上<a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">windows</a>和<a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">mac</a>快捷键表，配合快捷键提示<a href="https://www.mediaatelier.com/CheatSheet">CheatSheet APP(mac)</a>效果更佳。</p></li>
@@ -440,7 +461,7 @@
     <title><![CDATA[2021.04.19]]></title>
     <link>https://fe-cool.github.io/news/2021/04/19.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/19.html</guid>
-    <pubDate>Fri, 23 Apr 2021 03:20:32 +0800</pubDate>
+    <pubDate>Sat, 24 Apr 2021 00:42:36 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.04.19</h1>
 <ul>
 <li><p><code>react</code> <a href="https://github.com/sudheerj/reactjs-interview-questions">329 道 react 面试题</a>，质量还挺高</p></li>
@@ -471,7 +492,7 @@
     <title><![CDATA[2021.04.18]]></title>
     <link>https://fe-cool.github.io/news/2021/04/18.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/18.html</guid>
-    <pubDate>Fri, 23 Apr 2021 03:20:32 +0800</pubDate>
+    <pubDate>Sat, 24 Apr 2021 00:42:36 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.04.18</h1>
 <ul>
 <li><code>chrome</code> Google的.new快捷方式，Google为Google文档、幻灯片和表格引入了方便的“ .new”快捷方式，网站运营方也可以注册自己在线快捷方式的.new域，例如：</li>
@@ -487,43 +508,6 @@
 <li><p><code>fe</code> <code>docs</code> 微软开源项目 - 面向初学者的<a href="https://github.com/microsoft/Web-Dev-For-Beginners">Web开发-课程</a>，包含视频，插图笔记，任务，补充阅读，课后测验等。</p></li>
 <li><p><code>docs</code> <code>tools</code> 新文章：<a href="https://www.zhangxinxu.com/wordpress/2021/04/tencent-vap-%e8%a7%86%e9%a2%91%e5%8a%a8%e7%94%bb/">“腾讯开源的酷炫动画播放解决方案Vap初体验”</a> - H5中希望有炫酷3D动效，但是3D WebGL实力不允许，可以试试使用本文要介绍的VAP，导出PNG图片序列，可以有高性能的炫酷动画效果，Android和iOS也可以使用。</p></li>
 <li><p><code>fe</code> <code>docs</code> <a href="https://tech.meituan.com/2020/02/27/meituan-waimai-micro-frontends-practice.html">微前端</a>在美团外卖的实践。</p></li>
-</ul>]]></description>
-  </item>
-   
-  <item>
-    <title><![CDATA[2021.04.17]]></title>
-    <link>https://fe-cool.github.io/news/2021/04/17.html</link>
-    <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/17.html</guid>
-    <pubDate>Fri, 23 Apr 2021 03:20:32 +0800</pubDate>
-    <description><![CDATA[<h1 id="section">2021.04.17</h1>
-<ul>
-<li><code>node</code> node 10 还有十几天就结束维护了，新开工具可以考虑默认 esm</li>
-<li><a href="https://nodejs.org/en/about/releases" class="uri">https://nodejs.org/en/about/releases</a></li>
-<li><p><a href="https://kentcdodds.com/blog/super-simple-start-to-es-modules-in-node-js" class="uri">https://kentcdodds.com/blog/super-simple-start-to-es-modules-in-node-js</a></p></li>
-<li><p><code>chrome</code> <a href="https://blog.asayer.io/15-devtool-secrets-for-javascript-developers">chrome devtool 的技巧，可以重点看 4、5、8、12</a></p></li>
-<li><p><code>other</code> <a href="https://twitter.com/ryanflorence/status/1383181615854092290">remix 启动只要 100ms，背后基于 esbuild，但还是很大优化空间，之前试过加个大型依赖热编译就慢了</a></p></li>
-<li><p><code>lowcode</code> <a href="https://github.com/taowen/awesome-lowcode">国内低代码平台(Low Code)，收集了国内外很多优秀的项目，还包含有“今日阅读”每天更新最新相关文章</a></p></li>
-<li><p><code>css</code> <a href="https://www.instapaper.com/read/1404526005">Say Hello To CSS Container Queries - Ahmad Shadeed 解决 media query 不能覆盖的一些场景，不是所有场景都基于 viewport 或 screensize，有些需要基于 container 的尺寸决定子元素的渲染，作者给了一些具体的落地场景</a></p></li>
-<li><p><a href="https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript">Seam-Carving 算法的解析及 ts 实现 图片 resize 必备，作者讲得很详细，且后有 ts 干货。属于“有理有具体”的好文</a></p></li>
-<li><p><code>chrome</code> <a href="https://developer.chrome.com/blog/new-in-chrome-90">Chrome 90 发布，新技术 JPEG XL、CSS 容器查询</a></p></li>
-<li><p><code>chrome</code> <code>debug</code> <a href="https://www.frontendwingman.com/Chrome">一份Chrome调试技巧合集 涉及console network element source 等</a></p></li>
-<li><p><a href="https://github.com/alibaba/schema-plugin-flow">如何在不接触原业务代码的情况下，对页面高扩展</a></p></li>
-<li><p><code>node</code> <a href="https://mp.weixin.qq.com/s/uJA5A7hWBimS-8EMXRquEA">新书情报，腾讯的imweb nodejs大佬theanarkh的《nodejs源码解析》宣布不上架，将于近日开源</a></p></li>
-<li><p><code>node</code> <a href="https://github.com/theanarkh/understand-nodejs">标哥的nodejs源码解析</a></p></li>
-<li><p><a href="https://github.com/alienzhou/fe-performance-journey">前端性能优化，很受用</a></p></li>
-<li><code>react</code> <code>vue</code> 在 React 中使用 Vue3 的 Composition API</li>
-<li><a href="https://github.com/antfu/reactivue" class="uri">https://github.com/antfu/reactivue</a></li>
-<li><a href="https://github.com/Lucifier129/react-use-setup" class="uri">https://github.com/Lucifier129/react-use-setup</a></li>
-<li><a href="https://github.com/sl1673495/react-composition-api" class="uri">https://github.com/sl1673495/react-composition-api</a></li>
-<li><p><a href="https://www.zhihu.com/question/378861485" class="uri">https://www.zhihu.com/question/378861485</a></p></li>
-<li><p><code>node</code> <a href="http://github.com/nodejs/node/pull/37277">将yarn捆绑node发行的一个PR，相关讨论已经被locked</a></p></li>
-<li><p><code>vsc</code> <a href="https://github1s.com">将github更改为github1s可以查看编辑源码，相关链接</a></p></li>
-<li><code>deno</code> <a href="https://deno.com/blog/v1.9">deno1.9发布了。新增特性：</a></li>
-<li>原生 HTTP/2 Web 服务器</li>
-<li>使用 serde_v8 更快地调用 Rust</li>
-<li>支持 Blob URL &amp; 优化fetch</li>
-<li>在 LSP 中支持自动补全 import</li>
-<li><p>具有交互的权限提示</p></li>
 </ul>]]></description>
   </item>
   
