@@ -6,7 +6,7 @@
 * 资源提供人: [贡献者列表](https://github.com/fe-cool/news/blob/main/contributors.md)
 * 贡献: [我要贡献](https://github.com/fe-cool/news#%E8%B4%A1%E7%8C%AE)
 
-**`不在群中的成员，也可以自荐信息，提PR，期待优秀的你加入`**
+🤝 不在群中的成员，也可以通过 [Discussions](https://github.com/fe-cool/news/discussions) 自荐信息，或提PR，期待优秀的你加入
 
 ## 规则
 
