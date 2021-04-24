@@ -26,6 +26,7 @@ jobs:
         uses: github/super-linter@v3
         env:
           VALIDATE_ALL_CODEBASE: false
+          MARKDOWN_CONFIG_FILE: .markdownlint.yaml
           FILTER_REGEX_INCLUDE: src/**/*.md
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
