@@ -1,7 +1,7 @@
 # MDH • 前端情报
 
 [![github pages](https://github.com/fe-cool/news/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/fe-cool/news/actions/workflows/deploy.yml)
-[![GitHub Super-Linter](https://github.com/fe-cool/news/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
+[![Lint Code Base](https://github.com/fe-cool/news/actions/workflows/linter.yml/badge.svg)](https://github.com/fe-cool/news/actions/workflows/linter.yml)
 [![gitee](https://img.shields.io/badge/Gitee-fe--cool/news-000?logo=gitee)](https://fe-cool.gitee.io/news)
 [![rss](https://img.shields.io/badge/RSS-fe--cool/news-000?logo=rss)](https://fe-cool.github.io/news/feed.xml)
 
