@@ -63,9 +63,9 @@ fe-cool/news
 
 ## 贡献
 
-* [如何贡献 - 快速开始](./getting-started.md)
 * [贡献准则](./contributors-rules.md)
-* [贡献者列表](./contributors.md)，也期待优秀的你加入【MDH • 前端情报】这个大家庭。
+* [快速开始](./getting-started.md)
+* [贡献者列表](./contributors.md)，也期待优秀的你加入【MDH • 前端情报】。
 
 ---
 
