@@ -197,34 +197,35 @@
 <pre><code class="language-bash"># 信息收集初步构想
 fe-cool/news
 |- [精选] # awesome
-|- [2021] # year
-|   |- [04] # month
-|   |    |- 20 # day
-|   |    `- ..
-|   `- ...
-`- ...
+|- [news] # year
+|     |- [2021] # year
+|     |   |- [04] # month
+|     |   |    |- 20 # day
+|     |   |    `- ..
+|     |   `- ...
+|     `- ...
+` ...
 
 # 希望可以把收集到的信息通过多次分类
 # 把最实用的工具，指南，APP，资讯类整理出来
 # 做成一个推荐集合(即精选，文章类暂时排除在外)
-# 文章可以在每月汇总分类或原始信息中进行查看
+# 文章可以在原始信息中进行查看
 [2021/04/20.md]  --&gt;  [2021/04/toc.md]  --&gt;  [精选]
-[day - 原始信息]  --&gt;  [month - 汇总分类]  --&gt;  [awesome - 推荐]
+[day - 原始信息]  --&gt;  [month - 汇总筛选]  --&gt;  [awesome - 推荐]
 </code></pre>
 <ul>
-<li>按日期进行原始信息收集</li>
-<li>月底对本月信息汇总分类
+<li>按日期进行原始信息收集，并在信息前打标签
 <ul>
 <li>资讯(<code>news</code>)</li>
 <li>工具(<code>tools</code>): <code>chrome</code>，<code>docs</code>，<code>dev</code> 等</li>
-<li>前端(<code>fe</code>): <code>node</code>, <code>webpack</code>, <code>vite</code>, <code>vue</code>, <code>react</code>，<code>js</code>，<code>css</code>, <code>ts</code>，<code>pwa</code>，<code>lowcode</code> 等</li>
+<li>前端(<code>fe</code>): <code>node</code>, <code>webpack</code>, <code>vite</code>, <code>vue</code>, <code>react</code>等</li>
 <li>VS Code(<code>vsc</code>)</li>
 <li>WebAssembly(<code>wasm</code>)</li>
 <li>编程语言(<code>lang</code>): <code>rust</code>，<code>go</code>，<code>python</code> 等</li>
 <li>其他(<code>other</code>): 难以界定的统一分类到其他</li>
-<li>组合分类(<code>AA-BB</code>): 一级分类明确，二级分类模糊。可以使用类似于“<code>fe</code> <code>other</code>”的标记。在分类统计时属于<code>FE-Other</code>。</li>
 </ul>
 </li>
+<li><a href="./guidelines.html#%E6%9C%88%E6%B1%87%E6%80%BB">月底对本月信息汇总分类(对信息进行筛选)</a></li>
 <li>汇总状态
 <ul>
 <li><code>汇总中...</code></li>
@@ -251,7 +252,7 @@ fe-cool/news
 <h1 id="news"><a class="header" href="#news">News</a></h1>
 <h1 id="202104"><a class="header" href="#202104">2021.04</a></h1>
 <p><code>汇总中...</code></p>
-<!-- 📅： 18.md已完成 -->
+<!-- 📅： 20.md已完成 -->
 <h2 id="tools-1"><a class="header" href="#tools-1">Tools</a></h2>
 <ul>
 <li><a href="https://bundlers.tooling.report">tooling.report</a> - 为您的下一个 Web 项目确定最佳构建工具的快速方法，或者是否值得进行工具迁移，或者如何在现有配置和代码库中采用工具的最佳实践。</li>
@@ -260,18 +261,51 @@ fe-cool/news
 <li><a href="https://github.com/nrwl/nx">Powerful, Extensible Dev Tools</a></li>
 <li><a href="https://github.com/hiroppy/fusuma">Fusuma</a> - 使用 Markdown 轻松制作幻灯片。</li>
 <li><a href="https://rive.app">rive</a> - 基于 Flutter 开发的网页端动画制作工具(站点支持 PWA) 提供 Web(基于 wasm)、Flutter、Cpp、iOS、Android 五种运行时。</li>
-<li>让你<a href="https://github.com/521xueweihan/GitHub520">“爱”上 GitHub</a>，解决访问时图裂、加载慢的问题。（无需安装）</li>
+<li><a href="https://learngitbranching.js.org/">Learn Git Branching</a> - 是在web上学习Git最直观、最具交互性的方式；通过挑战关卡，逐步学习Git的特性，使学习过程具有乐趣</li>
+<li><a href="https://github.com/521xueweihan/GitHub520">GitHub520</a> - 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）</li>
+<li><a href="https://estimator.dev/#nocode.com">estimator.dev</a> - Calculate the size and performance impact of switching to modern JavaScript syntax</li>
+<li><a href="https://mermaid-js.github.io/mermaid/#/">Mermaid</a> - 可以使用文本和代码创建图。这简化了复杂图的维护。它是一个基于Javascript的图表绘制工具，可以用Markdown文本来定义各种复杂图表，流程图，顺序图，类图，甘特图，状态图，饼图等。</li>
+<li><a href="https://github.com/photopea/photopea">Photopea.com</a> - a free online tool for editing raster and vector graphics with support for PSD, AI, and Sketch files.</li>
+<li><a href="https://mp.weixin.qq.com/s/x9d0umPbUHkb2tNnSds5bQ">吊炸天的 Docker 图形化工具：Portainer，必须推荐给你！</a></li>
+<li><a href="https://www.logoly.pro/#/">Logoly Pro</a> - A Simple Online Logo Generator</li>
+<li><a href="http://remix.hubwiz.com/#optimize=false&amp;version=soljson-v0.5.1+commit.c8a2cb62.js">web IDE</a> - 在线写合约，做区块链的前端同学可参考</li>
+<li><a href="https://devops.phodal.com/">Devops元素周期表</a>，包含了Devops案例学习，模式原则，最佳实践等</li>
+<li><a href="https://moiva.io">moiva.io</a> - 工具类站点，可用于评估和比较类库，寻找替代库</li>
+<li><a href="https://github1s.com">github1s</a> - 将 github 更改为 github1s 可以查看编辑源码</li>
+<li><a href="https://probot.github.io/apps/pull">Pull</a> - a GitHub App that keeps your forks up-to-date with upstream via automated pull requests.</li>
+<li><a href="https://github.com/rust-lang/mdBook">mdbook</a> - Create book from markdown files. Like Gitbook but implemented in Rust.</li>
+<li><a href="https://github.com/bytedance/IconPark">IconPark</a> - 字节跳动出品的高质量开源图标</li>
+</ul>
+<h2 id="开源"><a class="header" href="#开源">开源</a></h2>
+<ul>
+<li><a href="https://docs.yjs.dev/">yjs</a> - 一个新的基于CRDT的开源数据协同框架，常用来做在线编辑产品</li>
 <li><a href="https://github.com/Tencent/vap">腾讯开源： Vap</a> - 企鹅电竞开发，用于播放酷炫动画的实现方案，Android, iOS, web 通用。</li>
+<li><a href="https://github.com/githuboftigran/rn-range-slider">rn-range-slider</a> - A highly optimized and fully customizable pure JS component for value range selection.</li>
+<li><a href="https://github.com/duilib/duilib">Duilib</a> 一个Windows下免费开源的DirectUI界面库，腾讯、网易都在用</li>
+<li><a href="https://github.com/baidu/EasyFaaS">EasyFaaS</a> - EasyFaaS是一个依赖轻、适配性强、资源占用少、无状态且高性能的函数计算服务引擎</li>
+<li><a href="https://github.com/miao-lang/miao-lang">喵语翻译</a> - 将人类语言翻译为喵语言</li>
+<li><a href="https://github.com/dagrejs/dagre">dagre</a> - Graph layout for JavaScript</li>
+<li><a href="https://github.com/nextapps-de/winbox">WinBox</a> - 是用于Web的专业HTML5窗口管理器：轻巧，性能出色，无依赖项，完全可自定义，支持最大化，最小化，自由拉伸及拖动等</li>
+<li><a href="https://github.com/egoist/esmon">esmon</a> - 类似 nodemon 但基于 esbuild，支持 ts 等</li>
+<li><a href="https://recoiljs.org/">Recoil</a> - A state management library for React</li>
+<li><a href="https://github.com/lostpebble/pullstate">pullstate</a> - Simple state stores using immer and React hooks - re-use parts of your state by pulling it anywhere you like!</li>
+<li><a href="https://github.com/pansyjs/react-amap">react-amap</a> - 基于 React 封装的高德地图组件，助你轻松的接入高德地图到 React 项目中。</li>
+<li><a href="https://github.com/theanarkh/understand-nodejs">nodejs 源码解析</a></li>
+<li><a href="https://github.com/sindresorhus/p-limit">Run multiple promise-returning &amp; async functions with limited concurrency</a></li>
+<li><a href="https://github.com/wheatjs/vite-plugin-vue-gql">vite-plugin-vue-gql</a> - GraphQL Tags for your Vue SFC</li>
+<li><a href="https://github.com/netwarps/libp2p-rs">libp2p-rs</a> - rust 实现的 libp2p</li>
+<li><a href="https://github.com/rbatis/rbatis">rbatis</a> - 用 rust 实现 ORM 框架</li>
+<li><a href="https://github.com/hecrj/iced">iced</a> - rust 9.2K 跨平台 GUI 仓库</li>
+<li><a href="https://github.com/swc-project/swc">swc</a> - rust 编写的超快速的 typescript/ javascript 编译器</li>
 </ul>
-<p><code>docs</code></p>
+<h2 id="guide-1"><a class="header" href="#guide-1">Guide</a></h2>
 <ul>
-<li><a href="https://github.com/rust-lang/mdBook">Create book from markdown files. Like Gitbook but implemented in Rust</a></li>
-<li>微软开源项目 - 面向初学者的<a href="https://github.com/microsoft/Web-Dev-For-Beginners">Web 开发-课程</a>，包含视频，插图笔记，任务，补充阅读，课后测验等。</li>
-<li><a href="https://tech.meituan.com/2020/02/27/meituan-waimai-micro-frontends-practice.html">微前端</a>在美团外卖的实践。</li>
-</ul>
-<p><code>dev</code></p>
-<ul>
-<li><a href="https://css-tricks.com/comparing-the-new-generation-of-build-tools">Comparing the New Generation of Build Tools - esbuild snpwpack vite wmr</a></li>
+<li><a href="https://www.typescriptlang.org/docs/handbook/intro.html">The TypeScript Handbook</a></li>
+<li><a href="https://github.com/microsoft/Web-Dev-For-Beginners">Web Development for Beginners - A Curriculum</a> - 24 Lessons, 12 Weeks, Get Started as a Web Developer</li>
+<li><a href="https://roadmap.sh">Developer Roadmaps</a> - Step by step guides and paths to learn different tools or technologies (包含前端，后端，运维，安卓，数据库，react等)</li>
+<li><a href="https://docs.microsoft.com/zh-cn/learn/paths/rust-first-steps/">Rust 入门</a> - 微软学习文档</li>
+<li><a href="https://github.com/sudheerj/reactjs-interview-questions">React Interview Questions &amp; Answers</a> - List of top 500 ReactJS Interview Questions &amp; Answers....Coding exercise questions are coming soon!!</li>
+<li><a href="https://github.com/chokcoco/iCSS">CSS 奇技淫巧</a> - 不仅是为了拓宽解决问题的思路，更涉及一些容易忽视或是十分有趣的 CSS 细节</li>
 </ul>
 <h2 id="news-1"><a class="header" href="#news-1">News</a></h2>
 <ul>
@@ -279,153 +313,27 @@ fe-cool/news
 <li><a href="https://github.com/zudochkin/awesome-newsletters">zudochkin/awesome-newsletters</a> - 精选的精选新闻通讯清单</li>
 <li><a href="https://github.com/zenany/weekly">zenany/weekly</a> - 汇总平时看到的好文章，前端技术 &amp; 产品研发为主...</li>
 <li><a href="https://docschina.org/weekly/react/docs">印记中文 - React Status Weekly</a></li>
+<li><a href="https://github.com/taowen/awesome-lowcode">awesome-lowcode</a> - 国内低代码平台从业者交流</li>
 </ul>
 <h2 id="vs-code-1"><a class="header" href="#vs-code-1">VS Code</a></h2>
-<p><code>theme</code></p>
 <ul>
 <li><a href="https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme&amp;WT.mc_id=devcloud-00000-cxa">Github Theme</a></li>
+<li><a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Keyboard shortcuts for Windows</a></li>
+<li><a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">Keyboard shortcuts for macOS</a></li>
 </ul>
-<p><code>github config</code></p>
+<h2 id="app"><a class="header" href="#app">APP</a></h2>
+<p><a href="https://www.mediaatelier.com/CheatSheet">CheatSheet APP(mac)</a></p>
+<h2 id="webassembly"><a class="header" href="#webassembly">WebAssembly</a></h2>
 <ul>
-<li><a href="https://github1s.com">将 github 更改为 github1s 可以查看编辑源码</a></li>
-</ul>
-<h2 id="browser"><a class="header" href="#browser">Browser</a></h2>
-<p><code>chrome</code></p>
-<ul>
-<li><a href="https://blog.asayer.io/15-devtool-secrets-for-javascript-developers">chrome devtool 的技巧，可以重点看 4、5、8、12</a></li>
-<li><a href="https://developer.chrome.com/blog/new-in-chrome-90">Chrome 90 发布，新技术 JPEG XL、CSS 容器查询</a></li>
-<li><a href="https://www.frontendwingman.com/Chrome">Chrome 调试技巧合集 涉及 console network element source 等</a></li>
-<li>Google 的.new 快捷方式，Google 为 Google 文档、幻灯片和表格引入了方便的“ .new”快捷方式，网站运营方也可以注册自己在线快捷方式的.new 域，例如：
-<ul>
-<li>新建 Google 文档：docs.new</li>
-<li>新建 Google 幻灯片：slides.new</li>
-<li>新建 Google 表格：sheets.new</li>
-<li>Spotify 新建播放列表: playlist.new</li>
-<li>Medium 新建文章：medium.new</li>
-</ul>
-</li>
-</ul>
-<h2 id="fe"><a class="header" href="#fe">FE</a></h2>
-<p><code>js</code></p>
-<ul>
-<li><a href="https://www.toutiao.com/i6950609447534412327">我国首个 JS 语言提案在 ECMA 进入 Stage 3</a></li>
-<li><a href="https://mp.weixin.qq.com/s/wh1RcA1-32rLI4xRaKi-uw">ES2021/ES12 令人期待的新特性</a></li>
-<li><a href="https://github.com/GoogleChromeLabs/houdini-samples">Demos for different Houdini APIs</a></li>
-<li><a href="https://github.com/alibaba/schema-plugin-flow">如何在不接触原业务代码的情况下，对页面高度扩展</a></li>
-</ul>
-<p><code>ts</code></p>
-<ul>
-<li><a href="https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript">Seam-Carving 算法:调整图像大小并且不丢失图像的某些内容，不截图，不压缩图片中内容的大小</a></li>
-</ul>
-<p><code>react</code></p>
-<ul>
-<li><a href="https://juejin.cn/post/6950997088947666951">Recoil</a> - Facebook 新一代的 React 状态管理库</li>
-<li><a href="https://remote.reactsummit.com">React Summit</a> – The Biggest React Conference Online</li>
-<li><a href="https://github.com/pansyjs/react-amap">pansyjs/react-amap</a> - 基于 React 封装的高德地图组件，助你轻松的接入高德地图到 React 项目中。</li>
-<li>可以用 React 做视频的 <a href="https://www.remotion.dev/blog/2-0/">remotion 发布 2.0</a>，支持音频，使用 esbuild-loader 代替 babel-loader，&lt;Gif&gt; 组件等</li>
-<li>在 React 中使用 Vue3 的 Composition API
-<ul>
-<li><a href="https://github.com/antfu/reactivue">https://github.com/antfu/reactivue</a></li>
-<li><a href="https://github.com/Lucifier129/react-use-setup">https://github.com/Lucifier129/react-use-setup</a></li>
-<li><a href="https://github.com/sl1673495/react-composition-api">https://github.com/sl1673495/react-composition-api</a></li>
-<li><a href="https://www.zhihu.com/question/378861485">https://www.zhihu.com/question/378861485</a></li>
-<li><a href="https://github.com/react-hook-form/react-hook-form">react-hook-form</a> v7，React Hooks for forms validation (支持 Web+RN)</li>
-</ul>
-</li>
-</ul>
-<p><code>vue</code></p>
-<ul>
-<li><a href="https://us.vuejs.org">Official Vue.js Conference USA</a></li>
-<li><a href="https://docs.google.com/presentation/d/1Lu1X6dyofyWqE6lpWsdUAkHMWm9pB6A9bs187iIUin4/edit#slide=id.p">Evan You - VueConf US 2021</a></li>
-<li>vue-cli 维护者蒋豪群，给大家讲<a href="https://b23.tv/7IaUec">如何学习新的技术（以 vue3 个 vite 为例）</a></li>
-</ul>
-<p><code>webpack</code></p>
-<ul>
-<li><a href="https://github.com/webpack/webpack/releases/tag/v5.33.0">webpack 5.33</a>，支持针对不同 entry 配置不同的 publicPath</li>
-<li><a href="https://github.com/webpack/webpack/blob/master/lib/DynamicEntryPlugin.js">webpack 源码</a> - 发现 entry 的隐藏技能，支持 entry 是一个 promise</li>
-<li><a href="https://twitter.com/_developit/status/1382838799420514317">SVG Import as React Component 的方式并不好</a>，因为 bundle 到一起，没有用到的也会加载，所以会影响加载性能和内存占用，那么推荐的方式是啥？import 后返回一个 url 可能比较合适，比如用 webpack 的 url-loader</li>
-</ul>
-<p><code>esbuild</code></p>
-<ul>
-<li><a href="https://github.com/egoist/esmon">esmon</a> - 类似 nodemon 但基于 esbuild，支持 ts 等</li>
-<li><a href="https://twitter.com/ryanflorence/status/1383181615854092290">remix 启动只要 100ms，基于 esbuild，还有很大优化空间，加入大型依赖热编译就慢了</a></li>
-</ul>
-<p><code>babel</code></p>
-<ul>
-<li>Babel 新增 <a href="https://babeljs.io/docs/en/features-timeline">Feature Timeline</a>，把之前 changelog 里的重要功能摘了出来，一目了然</li>
-</ul>
-<p><code>CSS</code></p>
-<ul>
-<li><a href="https://headlessui.dev">Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.</a></li>
-<li><a href="https://www.instapaper.com/read/1404526005">子元素的响应式显示依赖于父级容器，不是整个 viewpoint 或 screensize</a></li>
-</ul>
-<p><code>PWA</code></p>
-<ul>
-<li><a href="https://link.medium.com/S91NRcCGsfb">Your PWA is going to break in August 2021</a></li>
-</ul>
-<p><code>deno</code></p>
-<ul>
-<li>deno 1.9 支持 import completions in the lsp 如果未来是 bundless，这和 remote dts 应该都会成为 esm cdn 的基础设施
-<ul>
-<li><a href="https://deno.com/blog/v1.9">Deno 1.9 Release Notes</a></li>
-<li><a href="https://deno.com/blog/v1.9#import-completions-in-the-lsp">Import completions in the LSP</a></li>
-<li><a href="https://docs.skypack.dev/skypack-cdn/code/deno#hello-deno">skypack-cdn - Hello, Deno!</a></li>
-<li><a href="https://github.com/denoland/vscode_deno/blob/main/docs/ImportCompletions.md">vscode_deno - Import Completions</a></li>
-</ul>
-</li>
-</ul>
-<p><code>node</code></p>
-<ul>
-<li>2021 年 4 月 30 日 node 10 即将停止维护，目前 v10 版本之后的都默认支持官方 ESModules ，对于此后基于 node 的开发都默认使用 ESM
-<ul>
-<li><a href="https://nodejs.org/en/about/releases">https://nodejs.org/en/about/releases</a></li>
-<li><a href="https://kentcdodds.com/blog/super-simple-start-to-es-modules-in-node-js">https://kentcdodds.com/blog/super-simple-start-to-es-modules-in-node-js</a></li>
-</ul>
-</li>
-<li><a href="https://mp.weixin.qq.com/s/uJA5A7hWBimS-8EMXRquEA">新书情报，腾讯 imweb nodejs 大牛 theanarkh 的《nodejs 源码解析》</a></li>
-<li><a href="https://github.com/theanarkh/understand-nodejs">nodejs 源码解析</a></li>
-<li><a href="http://github.com/nodejs/node/pull/37277">将 yarn 捆绑 node 发行的一个 PR</a></li>
-</ul>
-<p><code>vite</code></p>
-<ul>
-<li><a href="https://mp.weixin.qq.com/s/Df0-YmQ0uV1NLATLmJu4Ww">项目中 vite 遇到的坑收集</a>。</li>
-</ul>
-<p><code>FE-Other</code></p>
-<ul>
-<li>BarcodeDetector 结合 navigator.getUserMedia（摄像头） 可用于识别二维码
-<ul>
-<li><a href="https://twitter.com/stackblitz/status/1382337979767742464">With <code>BarcodeDetector</code> you decode linear and two-dimensional (e.g. QR Code) codes directly in a browser!</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/BarcodeDetector">Web API - BarcodeDetector</a></li>
-<li><a href="https://barcode-detector.stackblitz.io">Web Site</a></li>
-</ul>
-</li>
-<li>Chrome Features
-<ul>
-<li><a href="https://www.chromestatus.com/features/4609574738853888">ES Modules for service workers ('module' type option)</a>:</li>
-<li><a href="https://docs.google.com/document/d/1SeQ085YdBTtW3D_ygSpO0Wz2DAe8QiS1gj37IG5lstg/edit#">ES Modules for Service Workers</a></li>
-<li><a href="https://developer.chrome.com/blog/new-in-chrome-90"><code>blog</code> New Chrome 90</a></li>
-<li><a href="https://www.youtube.com/watch?v=h3MONldIoNM"><code>youtube</code> New in Chrome 90</a>: Overflow Clip, Permissions Policy, the Declarative Shadow DOM, and more!</li>
-<li><a href="https://web.dev/declarative-shadow-dom">Declarative Shadow DOM</a></li>
-</ul>
-</li>
-<li><a href="https://github.com/sindresorhus/p-limit">Run multiple promise-returning &amp; async functions with limited concurrency</a></li>
-<li><a href="https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13">The Complete Guide to Full Stack Ethereum Development</a></li>
-</ul>
-<h2 id="wasm"><a class="header" href="#wasm">Wasm</a></h2>
-<ul>
+<li><a href="https://blog.ttulka.com/learning-webassembly-series">Learning WebAssembly Series</a> - webAssembly 系列入门文章，从代码示例到原理讲解</li>
 <li><a href="https://lencx.github.io/book/wasm/rust_wasm_frontend.html">WebAssembly 入门 （Vite + Rust）</a></li>
-<li><a href="https://bbodi.github.io/notecalc3">NoteCalc</a>带有智能内置计算器的便捷记事本。功能强大，使用 webAssembly+canvas 构建应用。</li>
+<li><a href="https://bbodi.github.io/notecalc3">NoteCalc</a> - 带有智能内置计算器的便捷记事本。功能强大，使用 webAssembly+canvas 构建应用。</li>
+<li><a href="https://github.com/evgeny-nadymov/telegram-react">Telegram React</a> - based on the ReactJS JavaScript framework and TDLib (Telegram Database library) compiled to WebAssembly。</li>
 </ul>
-<h2 id="rust"><a class="header" href="#rust">Rust</a></h2>
+<h2 id="algorithms"><a class="header" href="#algorithms">Algorithms</a></h2>
 <ul>
-<li><a href="https://github.com/netwarps/libp2p-rs">libp2p-rs</a> - rust 实现的 libp2p</li>
-<li><a href="https://github.com/rbatis/rbatis">rbatis</a> - 用 rust 实现 ORM 框架</li>
-<li><a href="https://github.com/hecrj/iced">iced</a> - rust 9.2K 跨平台 GUI 仓库</li>
-<li><a href="https://github.com/swc-project/swc">swc</a> - rust 编写的超快速的 typescript/ javascript 编译器</li>
-</ul>
-<h2 id="low-code"><a class="header" href="#low-code">Low Code</a></h2>
-<ul>
-<li><a href="https://github.com/taowen/awesome-lowcode">国内低代码平台(Low Code)信息收集仓</a></li>
+<li><a href="https://github.com/trekhleb/javascript-algorithms">JavaScript Algorithms and Data Structures</a> - Algorithms and data structures implemented in JavaScript with explanations and links to further readings</li>
+<li><a href="https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript">Content-aware image resizing in JavaScript</a></li>
 </ul>
 <h1 id="20210414"><a class="header" href="#20210414">2021.04.14</a></h1>
 <ul>
