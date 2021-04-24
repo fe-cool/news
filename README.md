@@ -65,7 +65,9 @@ fe-cool/news
 
 * [贡献准则](./contributors-rules.md)
 * [快速开始](./getting-started.md)
-* [贡献者列表](./contributors.md)，也期待优秀的你加入【MDH • 前端情报】。
+* [贡献者列表](./contributors.md)
+
+**`不在群中的成员，也可以自荐信息，提PR，期待优秀的你加入`**
 
 ---
 

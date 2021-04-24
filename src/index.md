@@ -4,7 +4,9 @@
 * 发起人: [chencheng (云谦)](https://github.com/sorrycc)
 * 仓库创建人: [lencx](https://github.com/lencx)
 * 资源提供人: [贡献者列表](https://github.com/fe-cool/news/blob/main/contributors.md)
-* 如何贡献: [我要贡献](https://github.com/fe-cool/news#%E8%B4%A1%E7%8C%AE)
+* 贡献: [我要贡献](https://github.com/fe-cool/news#%E8%B4%A1%E7%8C%AE)
+
+**`不在群中的成员，也可以自荐信息，提PR，期待优秀的你加入`**
 
 ## 规则
 
