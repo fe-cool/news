@@ -13,7 +13,7 @@
 - [Fusuma](https://github.com/hiroppy/fusuma) - 使用 Markdown 轻松制作幻灯片。
 - [rive](https://rive.app) - 基于 Flutter 开发的网页端动画制作工具(站点支持 PWA) 提供 Web(基于 wasm)、Flutter、Cpp、iOS、Android 五种运行时。
 - 让你[“爱”上 GitHub](https://github.com/521xueweihan/GitHub520)，解决访问时图裂、加载慢的问题。（无需安装）
-- [腾讯开源： Vap ](https://github.com/Tencent/vap) - 企鹅电竞开发，用于播放酷炫动画的实现方案，Android, iOS, web 通用。
+- [腾讯开源： Vap](https://github.com/Tencent/vap) - 企鹅电竞开发，用于播放酷炫动画的实现方案，Android, iOS, web 通用。
 
 `docs`
 
@@ -123,10 +123,8 @@
 `node`
 
 - 2021 年 4 月 30 日 node 10 即将停止维护，目前 v10 版本之后的都默认支持官方 ESModules ，对于此后基于 node 的开发都默认使用 ESM
-
   - [https://nodejs.org/en/about/releases](https://nodejs.org/en/about/releases)
   - [https://kentcdodds.com/blog/super-simple-start-to-es-modules-in-node-js](https://kentcdodds.com/blog/super-simple-start-to-es-modules-in-node-js)
-
 - [新书情报，腾讯 imweb nodejs 大牛 theanarkh 的《nodejs 源码解析》](https://mp.weixin.qq.com/s/uJA5A7hWBimS-8EMXRquEA)
 - [nodejs 源码解析](https://github.com/theanarkh/understand-nodejs)
 - [将 yarn 捆绑 node 发行的一个 PR](http://github.com/nodejs/node/pull/37277)
