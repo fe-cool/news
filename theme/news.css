@@ -5,3 +5,7 @@
 .content ul li {
   margin: 3px 0;
 }
+
+.sidebar-scrollbox .chapter-item strong {
+  display: none;
+}
