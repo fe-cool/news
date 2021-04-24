@@ -29,31 +29,32 @@
 # 信息收集初步构想
 fe-cool/news
 |- [精选] # awesome
-|- [2021] # year
-|   |- [04] # month
-|   |    |- 20 # day
-|   |    `- ..
-|   `- ...
-`- ...
+|- [news] # year
+|     |- [2021] # year
+|     |   |- [04] # month
+|     |   |    |- 20 # day
+|     |   |    `- ..
+|     |   `- ...
+|     `- ...
+` ...
 
 # 希望可以把收集到的信息通过多次分类
 # 把最实用的工具，指南，APP，资讯类整理出来
 # 做成一个推荐集合(即精选，文章类暂时排除在外)
-# 文章可以在每月汇总分类或原始信息中进行查看
+# 文章可以在原始信息中进行查看
 [2021/04/20.md]  -->  [2021/04/toc.md]  -->  [精选]
-[day - 原始信息]  -->  [month - 汇总分类]  -->  [awesome - 推荐]
+[day - 原始信息]  -->  [month - 汇总筛选]  -->  [awesome - 推荐]
 ```
 
-* 按日期进行原始信息收集
-* 月底对本月信息汇总分类
+* 按日期进行原始信息收集，并在信息前打标签
   * 资讯(`news`)
   * 工具(`tools`): `chrome`，`docs`，`dev` 等
-  * 前端(`fe`): `node`, `webpack`, `vite`, `vue`, `react`，`js`，`css`, `ts`，`pwa`，`lowcode` 等
+  * 前端(`fe`): `node`, `webpack`, `vite`, `vue`, `react`等
   * VS Code(`vsc`)
   * WebAssembly(`wasm`)
   * 编程语言(`lang`): `rust`，`go`，`python` 等
   * 其他(`other`): 难以界定的统一分类到其他
-  * 组合分类(`AA-BB`): 一级分类明确，二级分类模糊。可以使用类似于“`fe` `other`”的标记。在分类统计时属于`FE-Other`。
+* [月底对本月信息汇总分类(对信息进行筛选)](./guidelines.md#%E6%9C%88%E6%B1%87%E6%80%BB)
 * 汇总状态
   * `汇总中...`
   * `汇总完成`
@@ -64,7 +65,7 @@ fe-cool/news
 
 ## 贡献
 
-* [贡献准则](./criteria.md)
+* [贡献准则](./guidelines.md)
 * [快速开始](./getting-started.md)
 * [贡献者列表](./contributors.md)
 
