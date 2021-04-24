@@ -67,7 +67,7 @@ fe-cool/news
 * [快速开始](./getting-started.md)
 * [贡献者列表](./contributors.md)
 
-🤝 不在群中的成员，也可以通过 [Discussions](https://github.com/fe-cool/news/discussions) 自荐信息，或提PR，期待优秀的你加入
+🤝 不在群中的成员，也可以通过 [Discussions](https://github.com/fe-cool/news/discussions/5) 自荐信息，或提PR，期待优秀的你加入
 
 ---
 
