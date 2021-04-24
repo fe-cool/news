@@ -63,7 +63,7 @@ fe-cool/news
 
 ## 贡献
 
-* [贡献准则](./contributors-rules.md)
+* [贡献准则](./criteria.md)
 * [快速开始](./getting-started.md)
 * [贡献者列表](./contributors.md)
 
