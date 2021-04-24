@@ -58,7 +58,7 @@
 - [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [CSS 奇技淫巧](https://github.com/chokcoco/iCSS) - 不仅是为了拓宽解决问题的思路，更涉及一些容易忽视或是十分有趣的 CSS 细节
 
-## News
+## Weekly
 
 - [jondot/awesome-weekly](https://github.com/jondot/awesome-weekly) - 来自软件界的优质每周精选新闻通讯的精选列表
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - 精选的精选新闻通讯清单

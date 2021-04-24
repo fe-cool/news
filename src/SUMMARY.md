@@ -3,9 +3,10 @@
 * [MDH](./index.md)
 
 * [Awesome](./awesome/toc.md)
-  * [Tools](./awesome/tools.md)
-  * [Application](./awesome/app.md)
   * [Guide](./awesome/guide.md)
+  * [Tools](./awesome/tools.md)
+  * [Weekly](./awesome/weekly.md)
+  * [Application](./awesome/app.md)
   * [VS Code](./awesome/vsc.md)
 
 * [News](./news.md)

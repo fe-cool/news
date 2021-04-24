@@ -52,7 +52,7 @@ fe-cool/news
   * WebAssembly(`wasm`)
   * 编程语言(`lang`): `rust`，`go`，`python` 等
   * 其他(`other`): 难以界定的统一分类到其他
-* [月底对本月信息汇总分类(对信息进行筛选)](./guidelines.md#%E6%9C%88%E6%B1%87%E6%80%BB)
+* [月底对本月信息汇总分类(对信息进行筛选)](https://github.com/fe-cool/news/blob/main/guidelines.md#%E6%9C%88%E6%B1%87%E6%80%BB)
 * 汇总状态
   * `汇总中...`
   * `汇总完成`
