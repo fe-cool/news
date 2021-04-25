@@ -53,7 +53,7 @@
 - [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款开源内网综合扫描工具，方便一键自动化、全方位漏扫扫描。例如：web 指纹识别、web 漏洞扫描、netbios 探测、域控识别等。
 - [js AST 可视化解析](https://resources.jointjs.com/demos/javascript-ast) - 可以转 svg ,png，帮助你 AST 语法结构
 - [AdGuard](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) - 一款去广告的 google chrome 扩展程序, 也有软件版本, 但不免费, 且不太需要, 基本的能力已经挺符合了
-- [IDM](https://www.internetdownloadmanager.com/) - 下载工具、断点断续、多线程、甚至 google drive 也可以断点断续, 相对稳定的媒体嗅探, bilibili youtube p\* 等都可以出现浮窗 可以下载. 
+- [IDM](https://www.internetdownloadmanager.com/) - 下载工具、断点断续、多线程、甚至 google drive 也可以断点断续, 相对稳定的媒体嗅探, bilibili youtube p\* 等都可以出现浮窗 可以下载.
 - [snipaste](https://www.snipaste.com/) - 有免费版本，截图 贴图 取色 方便的取历史图片 各种标记。
 - [charles](https://www.charlesproxy.com/) - 一款抓包修改工具
 - [FeHelper](https://github.com/zxlie/FeHelper) - 一款 google chrome 扩展程序, Web 前端助手，扩展功能很多
@@ -70,9 +70,6 @@
 - [draw.io](https://www.draw.io/) - 免费客户端、网页版都有的画流程图工具，功能强大。
 - [pocket](https://getpocket.com) - 谷歌浏览器插件，用来随手看到好的文章很方便地收藏
 - [Eva.js](https://github.com/eva-engine/eva.js) - Eva.js is a front-end game engine specifically for creating interactive game projects.
-
-
-
 
 ## 开源
 
@@ -103,9 +100,6 @@
 - [material-tailwind](https://material-tailwind.com/) - 基于 react、material、tailwind 开发的组件库
 - [react-to-print](https://github.com/gregnb/react-to-print) - react 中指定打印节点而并不需要写内联样式的库
 
-
-
-
 ## Guide
 
 - [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
@@ -128,9 +122,6 @@
 - [湾区日报](https://wanqu.co/) - 关注创业与技术，每天推送 3 到 5 篇优质英文文章
 - 基于 [text-to-chart](https://xosh.org/text-to-diagram/) 的一些在线工具
 
-
-
-
 ## Weekly
 
 - [jondot/awesome-weekly](https://github.com/jondot/awesome-weekly) - 来自软件界的优质每周精选新闻通讯的精选列表
@@ -140,8 +131,6 @@
 - [awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 - [2020 js 调查报告](https://2020.stateofjs.com/en-US/)
 
-
-
 ## VS Code
 
 - [Github Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme&WT.mc_id=devcloud-00000-cxa)
@@ -150,8 +139,6 @@
 - [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)，vscode 插件，git 的单文件 diff 功能，对选定内容进行比对。
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) - vscode 插件，收集项目中你所有代码中备注 `todos` 。
 - [CodeMetrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics) - vscode 插件，计算 ts / js / lua 代码的复杂度，帮助我们更好的重构代码。
-
-
 
 ## APP
 
@@ -174,7 +161,6 @@
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - 隐藏 mac 菜单栏图标
 - [Rectangle](https://github.com/rxhanson/Rectangle) - 使用快捷键快速调整窗口大小及位置
 
-
 ## WebAssembly
 
 - [Learning WebAssembly Series](https://blog.ttulka.com/learning-webassembly-series) - webAssembly 系列入门文章，从代码示例到原理讲解
@@ -183,14 +169,10 @@
 - [Telegram React](https://github.com/evgeny-nadymov/telegram-react) - based on the ReactJS JavaScript framework and TDLib (Telegram Database library) compiled to WebAssembly。
 - [Ant Design of Blazor](https://ant-design-blazor.gitee.io/zh-CN/) - WebAssembly 版本的 antDesign，语法类似 tsx。
 
-
 ## Algorithms
 
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [Content-aware image resizing in JavaScript](https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript)
-
-
-
 
 ## terminal
 
@@ -198,5 +180,3 @@
 - [thefuck](https://github.com/nvbn/thefuck) - 命令行神器，当输错 linux 命令，fuck 一下，提示你可能想输入的命令。
 - [kenshinji/yddict](https://github.com/kenshinji/yddict) - 一个命令行查单词的工具
 - [Fig](https://github.com/withfig/autocomplete) - adds VSCode style autocomplete to your terminal
-
-
