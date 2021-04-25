@@ -34,7 +34,6 @@
 - [jExcel](https://gitee.com/mirrors/jExcel) - 轻量级的 vanilla javascript 插件，用于创建与 Excel 或任何其他电子表格软件兼容的基于 Web 的交互式表格和电子表格
 - 用于构建交互式流程图的库，[reactflow](https://github.com/wbkd/react-flow)，[官网](https://reactflow.dev)，[egoist/flowkit](https://github.com/egoist/flowkit)
 - [标签 infinity](http://cn.infinitynewtab.com) - 浏览器新标签页，可以定制自己想要的
-- [thefuck](https://github.com/nvbn/thefuck) - 命令行神器，当输错 linux 命令，fuck 一下，提示你可能想输入的命令。
 - [rtk-query](https://github.com/rtk-incubator/rtk-query) - 基于 redux toolkit 的 data fetch 和 caching 工具，还在用 redux 的可以关注下。
 - [wox](http://www.wox.one) - An effective launcher for windows
 - [Notion](https://www.notion.so/) - 知识管理工具。无限树层级的笔记结构，可以自建数据库管理目标/待办/人脉等资源。
@@ -47,7 +46,6 @@
 - [tinypng](https://tinypng.com) - 在线压缩图片，压缩之后清晰度还不错！
 - [cusdis](https://github.com/djyde/cusdis) - 极简的网站嵌入评论工具
 - [Excalidraw](https://excalidraw.com) - 手绘风格的画图工具，支持 svg、png 格式的导出，支持 PWA，支持协作。
-- [kenshinji/yddict](https://github.com/kenshinji/yddict) - 一个命令行查单词的工具
 - [Things](https://culturedcode.com/things) - 一款非常优秀的 GTD 工具
 - [调试页面](https://debugx5.qq.com) - 可以用来 debug 微信的 webview ，仅支持 android
 - [blockly](https://developers.google.com/blockly) - 一个 Google 的有点像少儿编程的工具
@@ -71,7 +69,6 @@
 - [sourceTree](https://www.sourcetreeapp.com/) - 一款可视化 git 管理工具。
 - [draw.io](https://www.draw.io/) - 免费客户端、网页版都有的画流程图工具，功能强大。
 - [pocket](https://getpocket.com) - 谷歌浏览器插件，用来随手看到好的文章很方便地收藏
-- [Fig](https://github.com/withfig/autocomplete) - adds VSCode style autocomplete to your terminal
 - [Eva.js](https://github.com/eva-engine/eva.js) - Eva.js is a front-end game engine specifically for creating interactive game projects.
 
 
@@ -191,3 +188,15 @@
 
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [Content-aware image resizing in JavaScript](https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript)
+
+
+
+
+## terminal
+
+- [tools/terminal](https://github.com/lencx/mtc/blob/main/docs/tech/tools/terminal.md) - lencx自用
+- [thefuck](https://github.com/nvbn/thefuck) - 命令行神器，当输错 linux 命令，fuck 一下，提示你可能想输入的命令。
+- [kenshinji/yddict](https://github.com/kenshinji/yddict) - 一个命令行查单词的工具
+- [Fig](https://github.com/withfig/autocomplete) - adds VSCode style autocomplete to your terminal
+
+
