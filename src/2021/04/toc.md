@@ -183,3 +183,7 @@
 - [Lore Free](https://ebook2.lorefree.com/) - 首个基于 EOS 和 IPFS 的去中心化知识共享社区
 - [柠檬精选](https://lemon.qq.com/lab) - 腾讯柠檬精选——收录免费、正版、好用的 Mac 产品
 - [xclient](https://xclient.info) - MAC 应用分享平台
+
+## Micro Frontends
+
+- [面向大型系统的微前端解决方案](https://ice-lab.github.io/icestark)
