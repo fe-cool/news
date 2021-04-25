@@ -17,13 +17,14 @@ edition = "2018"
 
 [output.html]
 theme = "theme"
-default-theme = "rust"
+default-theme = "ayu"
+no-section-label = true
 git-repository-url = "https://github.com/fe-cool/news"
-additional-js = [
-  # "plugins/mermaid.min.js",
-  # "plugins/mermaid.init.js",
-]
 additional-css = ["theme/news.css"]
+# additional-js = [
+#   # "plugins/mermaid.min.js",
+#   # "plugins/mermaid.init.js",
+# ]
 
 [output.html.playground]
 editable = true
