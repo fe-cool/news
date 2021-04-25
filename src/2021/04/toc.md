@@ -17,7 +17,7 @@
 - [estimator.dev](https://estimator.dev/#nocode.com) - Calculate the size and performance impact of switching to modern JavaScript syntax
 - [Mermaid](https://mermaid-js.github.io/mermaid/#/) - 可以使用文本和代码创建图。这简化了复杂图的维护。它是一个基于Javascript的图表绘制工具，可以用Markdown文本来定义各种复杂图表，流程图，顺序图，类图，甘特图，状态图，饼图等。
 - [Photopea.com](https://github.com/photopea/photopea) - a free online tool for editing raster and vector graphics with support for PSD, AI, and Sketch files.
-- [吊炸天的 Docker 图形化工具：Portainer，必须推荐给你！](https://mp.weixin.qq.com/s/x9d0umPbUHkb2tNnSds5bQ)
+- [Portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [Logoly Pro](https://www.logoly.pro/#/) - A Simple Online Logo Generator
 - [web IDE](http://remix.hubwiz.com/#optimize=false&version=soljson-v0.5.1+commit.c8a2cb62.js) - 在线写合约，做区块链的前端同学可参考
 - [Devops元素周期表](https://devops.phodal.com/)，包含了Devops案例学习，模式原则，最佳实践等
@@ -33,14 +33,13 @@
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - 可以查看网站的技术栈以及使用的相关工具和服务。
 - [jExcel](https://gitee.com/mirrors/jExcel) - 轻量级的 vanilla javascript 插件，用于创建与 Excel 或任何其他电子表格软件兼容的基于 Web 的交互式表格和电子表格
 - 用于构建交互式流程图的库，[reactflow](https://github.com/wbkd/react-flow)，[官网](https://reactflow.dev)，[egoist/flowkit](https://github.com/egoist/flowkit)
-- [标签 infinity](http://cn.infinitynewtab.com) - 浏览器新标签页，可以定制自己想要的
-- [rtk-query](https://github.com/rtk-incubator/rtk-query) - 基于 redux toolkit 的 data fetch 和 caching 工具，还在用 redux 的可以关注下。
+- [Infinity - New Tab](http://cn.infinitynewtab.com) - 浏览器新标签页，可以定制自己想要的
 - [wox](http://www.wox.one) - An effective launcher for windows
 - [Notion](https://www.notion.so/) - 知识管理工具。无限树层级的笔记结构，可以自建数据库管理目标/待办/人脉等资源。
 - [uTools](https://u.tools) - 生产力工具集，自由集成丰富插件（可自主开发），快速匹配「场景功能」
 - [Marp](https://sspai.com/post/55718) - Markdown 转 PPT，可自定义模板，配套 VSCode 工具，PPT 制作不再愁
 - [LICEcap](https://www.cockos.com/licecap) - 小巧的 gif 生成器，可配置 gif 帧率、压缩参数等，demo 演示好帮手
-- 加速视频播放速度，最高 16 倍。
+- [Global Speed](https://github.com/polywock/globalSpeed) - Web extension that sets a default speed for HTML media elements (video and audio).
   - [Chrome Global Speed 插件](https://chrome.google.com/webstore/detail/global-speed/jpbjcnkcffbooppibceonlgknpkniiff?utm_source=chrome-ntp-icon)
   - [Edge Global Speed 插件](https://microsoftedge.microsoft.com/addons/detail/global-speed-%E8%A7%86%E9%A2%91%E9%80%9F%E5%BA%A6%E6%8E%A7%E5%88%B6/mjhlabbcmjflkpjknnicihkfnmbdfced?hl=zh-CN)
 - [tinypng](https://tinypng.com) - 在线压缩图片，压缩之后清晰度还不错！
@@ -65,13 +64,12 @@
 - [OneTab](https://chrome.google.com/webstore/detail/chphlpgkkbolifaimnlloiipkdnihall) - 一键解决浏览器打开页签多，内存占用大。
 - [LastPass](https://chrome.google.com/webstore/detail/hdokiejnpimakedhajhdlcegeplioahd) - 非常好用的密码管理工具。
 - [iStat Menus](https://setapp.com/apps/istat-menus) - 一款系统状态监控工具。
-- [iterm2](https://iterm2.com/) - 一款命令行终端模拟器，（iTerm2 + Oh My Zsh 一套相关配置大大提升效率）
 - [sourceTree](https://www.sourcetreeapp.com/) - 一款可视化 git 管理工具。
 - [draw.io](https://www.draw.io/) - 免费客户端、网页版都有的画流程图工具，功能强大。
 - [pocket](https://getpocket.com) - 谷歌浏览器插件，用来随手看到好的文章很方便地收藏
-- [Eva.js](https://github.com/eva-engine/eva.js) - Eva.js is a front-end game engine specifically for creating interactive game projects.
+- [Online text to diagram tools](https://xosh.org/text-to-diagram/)
 
-## 开源
+## Open Source
 
 - [yjs](https://docs.yjs.dev/) - 一个新的基于CRDT的开源数据协同框架，常用来做在线编辑产品
 - [腾讯开源： Vap](https://github.com/Tencent/vap) - 企鹅电竞开发，用于播放酷炫动画的实现方案，Android, iOS, web 通用。
@@ -99,6 +97,10 @@
 - [APIJSON](https://vincentcheng.github.io/apijson-doc/) - 腾讯开源
 - [material-tailwind](https://material-tailwind.com/) - 基于 react、material、tailwind 开发的组件库
 - [react-to-print](https://github.com/gregnb/react-to-print) - react 中指定打印节点而并不需要写内联样式的库
+- [Eva.js](https://github.com/eva-engine/eva.js) - Eva.js is a front-end game engine specifically for creating interactive game projects.
+- [rtk-query](https://github.com/rtk-incubator/rtk-query) - 基于 redux toolkit 的 data fetch 和 caching 工具，还在用 redux 的可以关注下。
+- [Finished Proposals](https://github.com/tc39/proposals/blob/master/finished-proposals.md) - Finished proposals are proposals that have reached stage 4, and are included in the latest draft of the specification.
+- [pytorchjs](https://github.com/raghavmecheri/pytorchjs) - Torch and TorchVision, but for NodeJS.
 
 ## Guide
 
@@ -110,17 +112,9 @@
 - [CSS 奇技淫巧](https://github.com/chokcoco/iCSS) - 不仅是为了拓宽解决问题的思路，更涉及一些容易忽视或是十分有趣的 CSS 细节
 - [现代 JavaScript 教程](https://javascript.info)
 - [WebGL 理论基础](https://webglfundamentals.org) - 一系列文章，从零开始，并有大量代码示例
-- [Class Fields](https://github.com/tc39/proposals/blob/master/finished-proposals.md) - 2022 第一个新语法
 - [TypeScript 和 React 优质指导](https://fettblog.eu/articles)
-- [JavaScript 文章精选月刊](https://github.com/hijiangtao/javascript-articles-monthly) - 文章在持续更新
 - [vis-network](https://github.com/datastorm-open/visNetwork) - 网络可视化的 R 包，使用的是 vis.js，[中文文档](https://www.ame.cool/pages/a7d858/#network-%E5%85%B3%E7%B3%BB%E5%9B%BE)
-- [pytorchjs](https://github.com/raghavmecheri/pytorchjs) - JS 版的深度学习库，集成了常见的深度学习模型，可以在前端跑一些简单的模型
-- 基于 Next.JS 的 [Incremental Static Regeneration (ISR) 指引](https://www.smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/) 新名词 ISR，增量的静态页面生成，适用于内容型站点
-- [Lore Free](https://ebook2.lorefree.com/) - 首个基于 EOS 和 IPFS 的去中心化知识共享社区
-- [柠檬精选](https://lemon.qq.com/lab) - 腾讯柠檬精选——收录免费、正版、好用的 Mac 产品
-- [xclient](https://xclient.info) - MAC 应用分享平台
-- [湾区日报](https://wanqu.co/) - 关注创业与技术，每天推送 3 到 5 篇优质英文文章
-- 基于 [text-to-chart](https://xosh.org/text-to-diagram/) 的一些在线工具
+- [A Complete Guide To Incremental Static Regeneration (ISR) With Next.js](https://www.smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/)
 
 ## Weekly
 
@@ -130,6 +124,8 @@
 - [印记中文 - React Status Weekly](https://docschina.org/weekly/react/docs)
 - [awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 - [2020 js 调查报告](https://2020.stateofjs.com/en-US/)
+- [湾区日报](https://wanqu.co/) - 关注创业与技术，每天推送 3 到 5 篇优质英文文章
+- [JavaScript 文章精选月刊](https://github.com/hijiangtao/javascript-articles-monthly) - 文章在持续更新
 
 ## VS Code
 
@@ -142,14 +138,14 @@
 
 ## APP
 
-- [CheatSheet APP(mac)](https://www.mediaatelier.com/CheatSheet)
+- [CheatSheet APP(mac)](https://www.mediaatelier.com/CheatSheet) - Just hold the `⌘-Key` a bit longer to get a list of all active short cuts of the current application. It's as simple as that.
 - [macos in preact](https://macos.vercel.app/?continueFlag=79c07017fa017269cd2fd54d2630adff) - [源码](https://github.com/puruvj/macos-web)
 - [typora](https://www.typora.io) - 跨平台 md 编辑器
 - [Xnip](https://xnipapp.com/) - mac 端下比较好的截图软件，支持打码、步骤标注等常用功能
 - [Bob](https://github.com/ripperhe/Bob) - 翻译软件，支持划词翻译和截图 ocr 翻译，注意服务配多点效果比较好，多个翻译服务对照着看
 - [thor](https://github.com/gbammc/Thor) - 通过快捷键一键切换和隐藏各种软件（老板键？），搭配 Karabiner Element 修改右 command 为 hyper 键可进一步提升快捷键的选择空间
-- [Runcat](https://apps.apple.com/cn/app/runcat/id1429033973?mt=12) - 每个人看到我的电脑都会问这个猫是干啥的，菜单栏猫跑地越快 cpu 占用越高
-- Unsplash Wallpapers，mac 下壁纸日更软件，让你在办公室看景(去mac上下载)
+- [Runcat](https://apps.apple.com/cn/app/runcat/id1429033973?mt=12) - The cat will run at a speed that depends on the CPU usage on your Mac. You can see how much the current CPU usage is by looking at the running of the cat.
+- [Unsplash Wallpapers](https://unsplash.com/apps) - Bringing you thousands of magical moments to your screens.
 - [Kap](https://getkap.co) - 非常好用的 gif 截屏 小工具
 - [ImageOptim](https://imageoptim.com/mac) - 使图像加载更快 删除肿的元数据。通过压缩映像节省磁盘空间和带宽，而不会降低质量。支持多种图片格式，自定义压缩质量
 - [MarginNote](https://www.marginnote.com/) - 整理知识地图，构建自己的知识体系，强烈推荐在 iPad Pro 上搭配 pencil 使用
@@ -174,9 +170,16 @@
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [Content-aware image resizing in JavaScript](https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript)
 
-## terminal
+## Terminal
 
 - [tools/terminal](https://github.com/lencx/mtc/blob/main/docs/tech/tools/terminal.md) - lencx自用
 - [thefuck](https://github.com/nvbn/thefuck) - 命令行神器，当输错 linux 命令，fuck 一下，提示你可能想输入的命令。
 - [kenshinji/yddict](https://github.com/kenshinji/yddict) - 一个命令行查单词的工具
 - [Fig](https://github.com/withfig/autocomplete) - adds VSCode style autocomplete to your terminal
+- [iterm2](https://iterm2.com/) - 一款命令行终端模拟器，（iTerm2 + Oh My Zsh 一套相关配置大大提升效率）
+
+## Community
+
+- [Lore Free](https://ebook2.lorefree.com/) - 首个基于 EOS 和 IPFS 的去中心化知识共享社区
+- [柠檬精选](https://lemon.qq.com/lab) - 腾讯柠檬精选——收录免费、正版、好用的 Mac 产品
+- [xclient](https://xclient.info) - MAC 应用分享平台
