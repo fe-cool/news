@@ -9,7 +9,7 @@
     <title><![CDATA[News]]></title>
     <link>https://fe-cool.github.io/news/news.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/news.html</guid>
-    <pubDate>Sun, 25 Apr 2021 00:42:07 +0800</pubDate>
+    <pubDate>Sun, 25 Apr 2021 19:57:06 +0800</pubDate>
     <description><![CDATA[<h1 id="news">News</h1>]]></description>
   </item>
    
@@ -17,7 +17,7 @@
     <title><![CDATA[关于【MDH • 前端情报】]]></title>
     <link>https://fe-cool.github.io/news/index.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/index.html</guid>
-    <pubDate>Sun, 25 Apr 2021 00:42:07 +0800</pubDate>
+    <pubDate>Sun, 25 Apr 2021 19:57:06 +0800</pubDate>
     <description><![CDATA[<h1 id="关于mdh-前端情报">关于【MDH • 前端情报】</h1>
 <ul>
 <li>代号：<code>MDH(make developer happier)</code></li>
@@ -83,7 +83,7 @@
     <title><![CDATA[Weekly]]></title>
     <link>https://fe-cool.github.io/news/awesome/weekly.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/weekly.html</guid>
-    <pubDate>Sun, 25 Apr 2021 00:42:07 +0800</pubDate>
+    <pubDate>Sun, 25 Apr 2021 19:57:06 +0800</pubDate>
     <description><![CDATA[<h1 id="weekly">Weekly</h1>
 <ul>
 <li><a href="https://github.com/jondot/awesome-weekly">jondot/awesome-weekly</a> - 来自软件界的优质每周精选新闻通讯的精选列表</li>
@@ -98,7 +98,7 @@
     <title><![CDATA[VS Code]]></title>
     <link>https://fe-cool.github.io/news/awesome/vsc.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/vsc.html</guid>
-    <pubDate>Sun, 25 Apr 2021 00:42:07 +0800</pubDate>
+    <pubDate>Sun, 25 Apr 2021 19:57:06 +0800</pubDate>
     <description><![CDATA[<h1 id="vs-code">VS Code</h1>]]></description>
   </item>
    
@@ -106,7 +106,7 @@
     <title><![CDATA[Tools]]></title>
     <link>https://fe-cool.github.io/news/awesome/tools.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/tools.html</guid>
-    <pubDate>Sun, 25 Apr 2021 00:42:07 +0800</pubDate>
+    <pubDate>Sun, 25 Apr 2021 19:57:06 +0800</pubDate>
     <description><![CDATA[<h1 id="tools">Tools</h1>]]></description>
   </item>
    
@@ -114,7 +114,7 @@
     <title><![CDATA[精选]]></title>
     <link>https://fe-cool.github.io/news/awesome/toc.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/toc.html</guid>
-    <pubDate>Sun, 25 Apr 2021 00:42:07 +0800</pubDate>
+    <pubDate>Sun, 25 Apr 2021 19:57:06 +0800</pubDate>
     <description><![CDATA[<h1 id="精选">精选</h1>
 <p>随着信息收集工作的进行，我(<code>lencx</code>)发现其中有很多的<code>工具</code>，<code>应用</code>，<code>技术指南</code>，<code>编辑器</code>之类的东西，就想把它们抽离出来，单独进行分类维护。故开辟了<code>精选</code>分类。</p>]]></description>
   </item>
@@ -123,7 +123,7 @@
     <title><![CDATA[Guide]]></title>
     <link>https://fe-cool.github.io/news/awesome/guide.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/guide.html</guid>
-    <pubDate>Sun, 25 Apr 2021 00:42:07 +0800</pubDate>
+    <pubDate>Sun, 25 Apr 2021 19:57:06 +0800</pubDate>
     <description><![CDATA[<h1 id="guide">Guide</h1>
 <ul>
 <li><a href="https://roadmap.sh">Developer Roadmaps</a> - Step by step guides and paths to learn different tools or technologies (包含前端，后端，运维，安卓，数据库，react等)</li>
@@ -139,7 +139,7 @@
     <title><![CDATA[Application]]></title>
     <link>https://fe-cool.github.io/news/awesome/app.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/app.html</guid>
-    <pubDate>Sun, 25 Apr 2021 00:42:07 +0800</pubDate>
+    <pubDate>Sun, 25 Apr 2021 19:57:06 +0800</pubDate>
     <description><![CDATA[<h1 id="application">Application</h1>
 <h2 id="cross-platform">Cross-platform</h2>
 <h2 id="macos">MacOS</h2>
@@ -153,7 +153,7 @@
     <title><![CDATA[Summary]]></title>
     <link>https://fe-cool.github.io/news/SUMMARY.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/SUMMARY.html</guid>
-    <pubDate>Sun, 25 Apr 2021 00:42:07 +0800</pubDate>
+    <pubDate>Sun, 25 Apr 2021 19:57:06 +0800</pubDate>
     <description><![CDATA[<h1 id="summary">Summary</h1> <ul> <li><p><a href="./index.html">MDH</a></p></li> <li><a href="./awesome/toc.html">Awesome</a></li> <li><a href="./awesome/guide.html">Guide</a></li> <li><a href="./awesome/tools.html">Tools</a></li> <li><a href="./awesome/weekly.html">Weekly</a></li> <li><a href="./awesome/app.html">Application</a></li> <li><p><a href="./awesome/vsc.html">VS Code</a></p></li> <li><a href="./news.html">News</a></li> <li><a href="2021/04/toc.html">2021.04</a> <ul> <li><a href="./2021/04/14.html">2021.04.14</a></li> <li><a href="./2021/04/15.html">2021.04.15</a></li> <li><a href="./2021/04/16.html">2021.04.16</a></li> <li><a href="./2021/04/17.html">2021.04.17</a></li> <li><a href="./2021/04/18.html">2021.04.18</a></li> <li><a href="./2021/04/19.html">2021.04.19</a></li> <li><a href="./2021/04/20.html">2021.04.20</a></li> <li><a href="./2021/04/21.html">2021.04.21</a></li> <li><a href="./2021/04/22.html">2021.04.22</a></li> <li><a href="./2021/04/23.html">2021.04.23</a></li> </ul></li> </ul>]]></description>
   </item>
    
@@ -161,10 +161,10 @@
     <title><![CDATA[2021.04]]></title>
     <link>https://fe-cool.github.io/news/2021/04/toc.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/toc.html</guid>
-    <pubDate>Sun, 25 Apr 2021 00:42:07 +0800</pubDate>
+    <pubDate>Sun, 25 Apr 2021 19:57:06 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.04</h1>
 <p><code>汇总中...</code></p>
-<!-- 📅： 20.md已完成 -->
+<!-- 📅： 23.md已完成 -->
 <h2 id="tools">Tools</h2>
 <ul>
 <li><a href="https://bundlers.tooling.report">tooling.report</a> - 为您的下一个 Web 项目确定最佳构建工具的快速方法，或者是否值得进行工具迁移，或者如何在现有配置和代码库中采用工具的最佳实践。</li>
@@ -187,6 +187,50 @@
 <li><a href="https://probot.github.io/apps/pull">Pull</a> - a GitHub App that keeps your forks up-to-date with upstream via automated pull requests.</li>
 <li><a href="https://github.com/rust-lang/mdBook">mdbook</a> - Create book from markdown files. Like Gitbook but implemented in Rust.</li>
 <li><a href="https://github.com/bytedance/IconPark">IconPark</a> - 字节跳动出品的高质量开源图标</li>
+<li><a href="https://github.com/zhuowenli/githuber">chrome 拓展程序</a> - 每天爬  Github Trending 热门 Repo</li>
+<li><a href="https://github.com/simbathesailor/use-what-changed">use-what-changed</a> - 一个便于调试 react hook 中依赖项列表变化的小工具</li>
+<li><a href="https://www.prisma.io/blog/prisma-the-complete-orm-inw24qjeawmb">Prisma tools are ready for production today!</a></li>
+<li><a href="https://openbase.com">openbase</a> - 工具类站点，寻找类库的工具</li>
+<li><a href="https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg">Wappalyzer</a> - 可以查看网站的技术栈以及使用的相关工具和服务。</li>
+<li><a href="https://gitee.com/mirrors/jExcel">jExcel</a> - 轻量级的 vanilla javascript 插件，用于创建与 Excel 或任何其他电子表格软件兼容的基于 Web 的交互式表格和电子表格</li>
+<li>用于构建交互式流程图的库，<a href="https://github.com/wbkd/react-flow">reactflow</a>，<a href="https://reactflow.dev">官网</a>，<a href="https://github.com/egoist/flowkit">egoist/flowkit</a></li>
+<li><a href="http://cn.infinitynewtab.com">标签 infinity</a> - 浏览器新标签页，可以定制自己想要的</li>
+<li><a href="https://github.com/rtk-incubator/rtk-query">rtk-query</a> - 基于 redux toolkit 的 data fetch 和 caching 工具，还在用 redux 的可以关注下。</li>
+<li><a href="http://www.wox.one">wox</a> - An effective launcher for windows</li>
+<li><a href="https://www.notion.so/">Notion</a> - 知识管理工具。无限树层级的笔记结构，可以自建数据库管理目标/待办/人脉等资源。</li>
+<li><a href="https://u.tools">uTools</a> - 生产力工具集，自由集成丰富插件（可自主开发），快速匹配「场景功能」</li>
+<li><a href="https://sspai.com/post/55718">Marp</a> - Markdown 转 PPT，可自定义模板，配套 VSCode 工具，PPT 制作不再愁</li>
+<li><a href="https://www.cockos.com/licecap">LICEcap</a> - 小巧的 gif 生成器，可配置 gif 帧率、压缩参数等，demo 演示好帮手</li>
+<li>加速视频播放速度，最高 16 倍。</li>
+<li><a href="https://chrome.google.com/webstore/detail/global-speed/jpbjcnkcffbooppibceonlgknpkniiff?utm_source=chrome-ntp-icon">Chrome Global Speed 插件</a></li>
+<li><a href="https://microsoftedge.microsoft.com/addons/detail/global-speed-%E8%A7%86%E9%A2%91%E9%80%9F%E5%BA%A6%E6%8E%A7%E5%88%B6/mjhlabbcmjflkpjknnicihkfnmbdfced?hl=zh-CN">Edge Global Speed 插件</a></li>
+<li><a href="https://tinypng.com">tinypng</a> - 在线压缩图片，压缩之后清晰度还不错！</li>
+<li><a href="https://github.com/djyde/cusdis">cusdis</a> - 极简的网站嵌入评论工具</li>
+<li><a href="https://excalidraw.com">Excalidraw</a> - 手绘风格的画图工具，支持 svg、png 格式的导出，支持 PWA，支持协作。</li>
+<li><a href="https://culturedcode.com/things">Things</a> - 一款非常优秀的 GTD 工具</li>
+<li><a href="https://debugx5.qq.com">调试页面</a> - 可以用来 debug 微信的 webview ，仅支持 android</li>
+<li><a href="https://developers.google.com/blockly">blockly</a> - 一个 Google 的有点像少儿编程的工具</li>
+<li><a href="https://github.com/QingWei-Li/vue-trend">vue-trend</a> - 超级小的图表库</li>
+<li><a href="https://github.com/shadow1ng/fscan">shadow1ng/fscan</a> - 一款开源内网综合扫描工具，方便一键自动化、全方位漏扫扫描。例如：web 指纹识别、web 漏洞扫描、netbios 探测、域控识别等。</li>
+<li><a href="https://resources.jointjs.com/demos/javascript-ast">js AST 可视化解析</a> - 可以转 svg ,png，帮助你 AST 语法结构</li>
+<li><a href="https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg">AdGuard</a> - 一款去广告的 google chrome 扩展程序, 也有软件版本, 但不免费, 且不太需要, 基本的能力已经挺符合了</li>
+<li><a href="https://www.internetdownloadmanager.com/">IDM</a> - 下载工具、断点断续、多线程、甚至 google drive 也可以断点断续, 相对稳定的媒体嗅探, bilibili youtube p* 等都可以出现浮窗 可以下载.</li>
+<li><a href="https://www.snipaste.com/">snipaste</a> - 有免费版本，截图 贴图 取色 方便的取历史图片 各种标记。</li>
+<li><a href="https://www.charlesproxy.com/">charles</a> - 一款抓包修改工具</li>
+<li><a href="https://github.com/zxlie/FeHelper">FeHelper</a> - 一款 google chrome 扩展程序, Web 前端助手，扩展功能很多</li>
+<li><a href="https://github.com/GoogleChrome/lighthouse">lighthouse</a> - 网页检测工具，可以直观展示页面性能，性能优化建议，搜索引擎优化建议等</li>
+<li><a href="https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk">Markdown Viewer</a> - 在浏览器预览 markdown 的谷歌插件（有时会对 github 的 README-*.md 有副作用）</li>
+<li><a href="https://chrome.google.com/webstore/detail/personal-blocklistnot-by/cbbbhelcpfjhdcncigdlkabmjbgokmpg">Personal Blocklist</a> - 谷歌搜索屏蔽不需要的网站，谷歌插件</li>
+<li><a href="https://carbon.now.sh/">Carbon</a> - 生成好看的代码图片</li>
+<li><a href="https://github.com/ovity/octotree">Octotree</a> - 可以更加友好地让你去浏览阅读 GitHub 上的项目。</li>
+<li><a href="https://chrome.google.com/webstore/detail/chphlpgkkbolifaimnlloiipkdnihall">OneTab</a> - 一键解决浏览器打开页签多，内存占用大。</li>
+<li><a href="https://chrome.google.com/webstore/detail/hdokiejnpimakedhajhdlcegeplioahd">LastPass</a> - 非常好用的密码管理工具。</li>
+<li><a href="https://setapp.com/apps/istat-menus">iStat Menus</a> - 一款系统状态监控工具。</li>
+<li><a href="https://iterm2.com/">iterm2</a> - 一款命令行终端模拟器，（iTerm2 + Oh My Zsh 一套相关配置大大提升效率）</li>
+<li><a href="https://www.sourcetreeapp.com/">sourceTree</a> - 一款可视化 git 管理工具。</li>
+<li><a href="https://www.draw.io/">draw.io</a> - 免费客户端、网页版都有的画流程图工具，功能强大。</li>
+<li><a href="https://getpocket.com">pocket</a> - 谷歌浏览器插件，用来随手看到好的文章很方便地收藏</li>
+<li><a href="https://github.com/eva-engine/eva.js">Eva.js</a> - Eva.js is a front-end game engine specifically for creating interactive game projects.</li>
 </ul>
 <h2 id="开源">开源</h2>
 <ul>
@@ -209,6 +253,13 @@
 <li><a href="https://github.com/rbatis/rbatis">rbatis</a> - 用 rust 实现 ORM 框架</li>
 <li><a href="https://github.com/hecrj/iced">iced</a> - rust 9.2K 跨平台 GUI 仓库</li>
 <li><a href="https://github.com/swc-project/swc">swc</a> - rust 编写的超快速的 typescript/ javascript 编译器</li>
+<li><a href="https://openkraken.com">北海</a> - 基于 Flutter 的 Web 渲染引擎正式开源</li>
+<li><a href="https://ice-lab.github.io/icestark">icestark</a> - 面向大型系统的微前端解决方案</li>
+<li><a href="https://docs.ficusjs.org/docs/getting-started">FicusJS</a> - 基于 webcomponent 实现的轻量开发库</li>
+<li><a href="http://logic-flow.org/">LogicFlow</a> - 滴滴开源，专注流程可视化的前端框架</li>
+<li><a href="https://vincentcheng.github.io/apijson-doc/">APIJSON</a> - 腾讯开源</li>
+<li><a href="https://material-tailwind.com/">material-tailwind</a> - 基于 react、material、tailwind 开发的组件库</li>
+<li><a href="https://github.com/gregnb/react-to-print">react-to-print</a> - react 中指定打印节点而并不需要写内联样式的库</li>
 </ul>
 <h2 id="guide">Guide</h2>
 <ul>
@@ -218,6 +269,19 @@
 <li><a href="https://docs.microsoft.com/zh-cn/learn/paths/rust-first-steps/">Rust 入门</a> - 微软学习文档</li>
 <li><a href="https://github.com/sudheerj/reactjs-interview-questions">React Interview Questions &amp; Answers</a> - List of top 500 ReactJS Interview Questions &amp; Answers....Coding exercise questions are coming soon!!</li>
 <li><a href="https://github.com/chokcoco/iCSS">CSS 奇技淫巧</a> - 不仅是为了拓宽解决问题的思路，更涉及一些容易忽视或是十分有趣的 CSS 细节</li>
+<li><a href="https://javascript.info">现代 JavaScript 教程</a></li>
+<li><a href="https://webglfundamentals.org">WebGL 理论基础</a> - 一系列文章，从零开始，并有大量代码示例</li>
+<li><a href="https://github.com/tc39/proposals/blob/master/finished-proposals.md">Class Fields</a> - 2022 第一个新语法</li>
+<li><a href="https://fettblog.eu/articles">TypeScript 和 React 优质指导</a></li>
+<li><a href="https://github.com/hijiangtao/javascript-articles-monthly">JavaScript 文章精选月刊</a> - 文章在持续更新</li>
+<li><a href="https://github.com/datastorm-open/visNetwork">vis-network</a> - 网络可视化的 R 包，使用的是 vis.js，<a href="https://www.ame.cool/pages/a7d858/#network-%E5%85%B3%E7%B3%BB%E5%9B%BE">中文文档</a></li>
+<li><a href="https://github.com/raghavmecheri/pytorchjs">pytorchjs</a> - JS 版的深度学习库，集成了常见的深度学习模型，可以在前端跑一些简单的模型</li>
+<li>基于 Next.JS 的 <a href="https://www.smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/">Incremental Static Regeneration (ISR) 指引</a> 新名词 ISR，增量的静态页面生成，适用于内容型站点</li>
+<li><a href="https://ebook2.lorefree.com/">Lore Free</a> - 首个基于 EOS 和 IPFS 的去中心化知识共享社区</li>
+<li><a href="https://lemon.qq.com/lab">柠檬精选</a> - 腾讯柠檬精选——收录免费、正版、好用的 Mac 产品</li>
+<li><a href="https://xclient.info">xclient</a> - MAC 应用分享平台</li>
+<li><a href="https://wanqu.co/">湾区日报</a> - 关注创业与技术，每天推送 3 到 5 篇优质英文文章</li>
+<li>基于 <a href="https://xosh.org/text-to-diagram/">text-to-chart</a> 的一些在线工具</li>
 </ul>
 <h2 id="weekly">Weekly</h2>
 <ul>
@@ -226,26 +290,57 @@
 <li><a href="https://github.com/zenany/weekly">zenany/weekly</a> - 汇总平时看到的好文章，前端技术 &amp; 产品研发为主...</li>
 <li><a href="https://docschina.org/weekly/react/docs">印记中文 - React Status Weekly</a></li>
 <li><a href="https://github.com/taowen/awesome-lowcode">awesome-lowcode</a> - 国内低代码平台从业者交流</li>
+<li><a href="https://2020.stateofjs.com/en-US/">2020 js 调查报告</a></li>
 </ul>
 <h2 id="vs-code">VS Code</h2>
 <ul>
 <li><a href="https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme&amp;WT.mc_id=devcloud-00000-cxa">Github Theme</a></li>
 <li><a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Keyboard shortcuts for Windows</a></li>
 <li><a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">Keyboard shortcuts for macOS</a></li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff">Partial Diff</a>，vscode 插件，git 的单文件 diff 功能，对选定内容进行比对。</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree">Todo Tree</a> - vscode 插件，收集项目中你所有代码中备注 <code>todos</code> 。</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics">CodeMetrics</a> - vscode 插件，计算 ts / js / lua 代码的复杂度，帮助我们更好的重构代码。</li>
 </ul>
 <h2 id="app">APP</h2>
-<p><a href="https://www.mediaatelier.com/CheatSheet">CheatSheet APP(mac)</a></p>
+<ul>
+<li><a href="https://www.mediaatelier.com/CheatSheet">CheatSheet APP(mac)</a></li>
+<li><a href="https://macos.vercel.app/?continueFlag=79c07017fa017269cd2fd54d2630adff">macos in preact</a> - <a href="https://github.com/puruvj/macos-web">源码</a></li>
+<li><a href="https://www.typora.io">typora</a> - 跨平台 md 编辑器</li>
+<li><a href="https://xnipapp.com/">Xnip</a> - mac 端下比较好的截图软件，支持打码、步骤标注等常用功能</li>
+<li><a href="https://github.com/ripperhe/Bob">Bob</a> - 翻译软件，支持划词翻译和截图 ocr 翻译，注意服务配多点效果比较好，多个翻译服务对照着看</li>
+<li><a href="https://github.com/gbammc/Thor">thor</a> - 通过快捷键一键切换和隐藏各种软件（老板键？），搭配 Karabiner Element 修改右 command 为 hyper 键可进一步提升快捷键的选择空间</li>
+<li><a href="https://apps.apple.com/cn/app/runcat/id1429033973?mt=12">Runcat</a> - 每个人看到我的电脑都会问这个猫是干啥的，菜单栏猫跑地越快 cpu 占用越高</li>
+<li>Unsplash Wallpapers，mac 下壁纸日更软件，让你在办公室看景(去mac上下载)</li>
+<li><a href="https://getkap.co">Kap</a> - 非常好用的 gif 截屏 小工具</li>
+<li><a href="https://imageoptim.com/mac">ImageOptim</a> - 使图像加载更快 删除肿的元数据。通过压缩映像节省磁盘空间和带宽，而不会降低质量。支持多种图片格式，自定义压缩质量</li>
+<li><a href="https://www.marginnote.com/">MarginNote</a> - 整理知识地图，构建自己的知识体系，强烈推荐在 iPad Pro 上搭配 pencil 使用</li>
+<li><a href="https://meld.so">meld</a> - 基于<a href="https://bedrock.mxstbr.com">bedrock</a>的脚手架搭建</li>
+<li><a href="https://github.com/LuckDraw/vue-luck-draw">vue-luck-draw</a> - Vue 写的一个抽奖类库</li>
+<li><a href="https://paper.meiyuan.in/">pap.er</a>, 专为 Mac 设计的壁纸应用 每天享受来自全球新鲜精美的壁纸</li>
+<li><a href="https://maccy.app/">Maccy</a> - 随时保留复制历史记录，轻巧快捷</li>
+<li><a href="https://justgetflux.com/">f.lux</a> - 屏幕蓝光过滤</li>
+<li><a href="https://github.com/dwarvesf/hidden">Hidden Bar</a> - 隐藏 mac 菜单栏图标</li>
+<li><a href="https://github.com/rxhanson/Rectangle">Rectangle</a> - 使用快捷键快速调整窗口大小及位置</li>
+</ul>
 <h2 id="webassembly">WebAssembly</h2>
 <ul>
 <li><a href="https://blog.ttulka.com/learning-webassembly-series">Learning WebAssembly Series</a> - webAssembly 系列入门文章，从代码示例到原理讲解</li>
 <li><a href="https://lencx.github.io/book/wasm/rust_wasm_frontend.html">WebAssembly 入门 （Vite + Rust）</a></li>
 <li><a href="https://bbodi.github.io/notecalc3">NoteCalc</a> - 带有智能内置计算器的便捷记事本。功能强大，使用 webAssembly+canvas 构建应用。</li>
 <li><a href="https://github.com/evgeny-nadymov/telegram-react">Telegram React</a> - based on the ReactJS JavaScript framework and TDLib (Telegram Database library) compiled to WebAssembly。</li>
+<li><a href="https://ant-design-blazor.gitee.io/zh-CN/">Ant Design of Blazor</a> - WebAssembly 版本的 antDesign，语法类似 tsx。</li>
 </ul>
 <h2 id="algorithms">Algorithms</h2>
 <ul>
 <li><a href="https://github.com/trekhleb/javascript-algorithms">JavaScript Algorithms and Data Structures</a> - Algorithms and data structures implemented in JavaScript with explanations and links to further readings</li>
 <li><a href="https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript">Content-aware image resizing in JavaScript</a></li>
+</ul>
+<h2 id="terminal">terminal</h2>
+<ul>
+<li><a href="https://github.com/lencx/mtc/blob/main/docs/tech/tools/terminal.md">tools/terminal</a> - lencx自用</li>
+<li><a href="https://github.com/nvbn/thefuck">thefuck</a> - 命令行神器，当输错 linux 命令，fuck 一下，提示你可能想输入的命令。</li>
+<li><a href="https://github.com/kenshinji/yddict">kenshinji/yddict</a> - 一个命令行查单词的工具</li>
+<li><a href="https://github.com/withfig/autocomplete">Fig</a> - adds VSCode style autocomplete to your terminal</li>
 </ul>]]></description>
   </item>
   
