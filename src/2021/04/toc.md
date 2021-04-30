@@ -25,7 +25,6 @@
 - [github1s](https://github1s.com) - 将 github 更改为 github1s 可以查看编辑源码
 - [Pull](https://probot.github.io/apps/pull) - a GitHub App that keeps your forks up-to-date with upstream via automated pull requests.
 - [mdbook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust.
-- [IconPark](https://github.com/bytedance/IconPark) - 字节跳动出品的高质量开源图标
 - [chrome 拓展程序](https://github.com/zhuowenli/githuber) - 每天爬  Github Trending 热门 Repo
 - [use-what-changed](https://github.com/simbathesailor/use-what-changed) - 一个便于调试 react hook 中依赖项列表变化的小工具
 - [Prisma tools are ready for production today!](https://www.prisma.io/blog/prisma-the-complete-orm-inw24qjeawmb)
@@ -68,6 +67,16 @@
 - [draw.io](https://www.draw.io/) - 免费客户端、网页版都有的画流程图工具，功能强大。
 - [pocket](https://getpocket.com) - 谷歌浏览器插件，用来随手看到好的文章很方便地收藏
 - [Online text to diagram tools](https://xosh.org/text-to-diagram/)
+- [可视化解析 npm 包依赖项目](http://npm.anvaka.com/#/view/2d/react-native)
+- [Avatar Maker](https://github.com/favrora/Avatar-Maker) - Create your own avatar with Vue Avatar Maker app.
+- [Regulex](https://jex.im/regulex) - JavaScript Regular Expression Visualizer.
+- [CSS Gradient](https://cssgradient.io/) - As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile.
+- [ADB](github.com/GoogleChrome/ADBPlugin) - 实际开发中app内嵌webview很常见，但是安卓环境调试，出了开模拟器，可以试试adb插件，很好用
+- [calendso](https://github.com/calendso/calendso) - 知名日程安排工具(Calendly)的开源替代品。
+- [fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
+- [JS Tooling not in JS](https://github.com/RobinCsl/awesome-js-tooling-not-in-js) - A curated list of JavaScript tooling not written in JavaScript
+- [why-did-you-render](https://github.com/welldone-software/why-did-you-render) - 通过 monkey patches React 来通知您可能可以避免的 re-renders，同时适用于 react-native
+- [transform](https://transform.tools/) - 支持各种代码转化的工具，SVG、JSON、TS、GraphQL、CSS、SQL，只要你能想到的这里都有。光 JSON 就可以转化为十几种代码格式，如把 JSON 转化成 Flow、Go、GraphQL、Typescript、Kotlin、MySQL、YAML等。本项目开源，你可以通过代码学习到它是如何进行格式转换的。
 
 ## Open Source
 
@@ -101,6 +110,20 @@
 - [rtk-query](https://github.com/rtk-incubator/rtk-query) - 基于 redux toolkit 的 data fetch 和 caching 工具，还在用 redux 的可以关注下。
 - [Finished Proposals](https://github.com/tc39/proposals/blob/master/finished-proposals.md) - Finished proposals are proposals that have reached stage 4, and are included in the latest draft of the specification.
 - [pytorchjs](https://github.com/raghavmecheri/pytorchjs) - Torch and TorchVision, but for NodeJS.
+- [NPlayer](https://github.com/woopen/nplayer) - 无任何第三方运行时依赖，兼容 IE11，支持 SSR。高度可定制，可二次开发。和 B 站一样体验的弹幕系统。可以接入任何流媒体，支持直播。
+- [ReactFlow](https://reactflow.dev/) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams.
+- [Fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+- [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
+- [awesome-f2e-libs](https://github.com/sorrycc/awesome-f2e-libs) - 整理我(云谦)平时关注的前端库
+- [translate.css](https://www.transition.style/) - Drop-in CSS transitions
+- [ChatUI](https://chatui.io/) - 对话式交互应用UI库，达摩院开源作品
+- [DSBridge-Android](https://github.com/wendux/DSBridge-Android) - A modern cross-platform JavaScript bridge, through which you can invoke each other's functions synchronously or asynchronously between JavaScript and native.
+- [javascript-state-machine](https://github.com/jakesgordon/javascript-state-machine) - A javascript finite state machine library
+- [windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
+- [replay](https://github.com/vimond/replay) - A React video player facilitating adaptive stream playback with custom UI and a React-friendly API.
+- [vue3-markdown-it](https://github.com/JanGuillermo/vue3-markdown-it) - An awesome Vue 3 markdown-it wrapper plugin that can even support external plugins!
+- [code-to-graph](https://github.com/crubier/code-to-graph) - Transforms code (JS) into graphs (graphviz, mermaid flowchart, ...)
+- [@pansy/watermark](https://github.com/pansyjs/watermark) - watermark component
 
 ## Guide
 
@@ -115,6 +138,25 @@
 - [TypeScript 和 React 优质指导](https://fettblog.eu/articles)
 - [vis-network](https://github.com/datastorm-open/visNetwork) - 网络可视化的 R 包，使用的是 vis.js，[中文文档](https://www.ame.cool/pages/a7d858/#network-%E5%85%B3%E7%B3%BB%E5%9B%BE)
 - [A Complete Guide To Incremental Static Regeneration (ISR) With Next.js](https://www.smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/)
+- [10 GitHub Repositories every Developer should know](https://dev.to/pb/10-github-repositories-every-developer-should-know-ngm)
+  - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+  - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+  - [OSSU Computer Science](https://github.com/ossu/computer-science)
+  - [Awesome](https://github.com/sindresorhus/awesome)
+  - [Build your own X](https://github.com/danistefanovic/build-your-own-x)
+  - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+  - [Public Apis](https://github.com/public-apis/public-apis)
+  - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+  - [System Design Primer](https://github.com/donnemartin/system-design-primer)
+  - [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
+- [free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
+- [Web Design & UI Inspiration with Code Snippets](https://codemyui.com/)
+- [Flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
+- [Keeping up with React Libraries](https://maxrozen.com/keeping-up-with-react-libraries)
+- [mastering-chrome-devtools](https://github.com/jkup/mastering-chrome-devtools) - Website for teaching Chrome DevTools
+- [FIRT](https://firt.dev) - Learn about Mobile and Web Development with Maximiliano Firtman's articles, notes and learning experiences. Progressive Web Apps, Web Performance, Android Apps, iOS Apps and more.
+- [400 条 JavaScript 面试题（带答案）](https://dev.to/worldindev/400-javascript-interview-questions-with-answers-2fcj)
+- [互联网黑话词汇表 - 适当学习，提升逼格](https://github.com/justjavac/ali-words) - 互联网黑话词汇表，包含“赋能、抓手、闭环、沉淀、打通”等阿里味儿词汇
 
 ## Weekly
 
@@ -126,6 +168,7 @@
 - [2020 js 调查报告](https://2020.stateofjs.com/en-US/)
 - [湾区日报](https://wanqu.co/) - 关注创业与技术，每天推送 3 到 5 篇优质英文文章
 - [JavaScript 文章精选月刊](https://github.com/hijiangtao/javascript-articles-monthly) - 文章在持续更新
+- [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 
 ## VS Code
 
@@ -135,6 +178,7 @@
 - [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)，vscode 插件，git 的单文件 diff 功能，对选定内容进行比对。
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) - vscode 插件，收集项目中你所有代码中备注 `todos` 。
 - [CodeMetrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics) - vscode 插件，计算 ts / js / lua 代码的复杂度，帮助我们更好的重构代码。
+- [Volar](https://github.com/johnsoncodehk/volar) - Volar是专门为Vue 3构建的语言支持插件。它基于@ vue / reactivity，可按需计算TypeScript以优化性能，类似于本机TypeScript语言服务。
 
 ## APP
 
@@ -156,6 +200,7 @@
 - [f.lux](https://justgetflux.com/) - 屏幕蓝光过滤
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - 隐藏 mac 菜单栏图标
 - [Rectangle](https://github.com/rxhanson/Rectangle) - 使用快捷键快速调整窗口大小及位置
+- [Dropover](https://dropoverapp.com/) - Dropover is a utility that makes it easier to manage and move content between folders, applications, windows and workspaces using Drag and Drop.
 
 ## WebAssembly
 
@@ -164,6 +209,7 @@
 - [NoteCalc](https://bbodi.github.io/notecalc3) - 带有智能内置计算器的便捷记事本。功能强大，使用 webAssembly+canvas 构建应用。
 - [Telegram React](https://github.com/evgeny-nadymov/telegram-react) - based on the ReactJS JavaScript framework and TDLib (Telegram Database library) compiled to WebAssembly。
 - [Ant Design of Blazor](https://ant-design-blazor.gitee.io/zh-CN/) - WebAssembly 版本的 antDesign，语法类似 tsx。
+- [v86](https://github.com/copy/v86) - v86模拟与x86兼容的CPU和硬件。 机器代码在运行时转换为WebAssembly模块，以实现良好的性能，支持多种仿真硬件。
 
 ## Algorithms
 
@@ -187,3 +233,16 @@
 ## Micro Frontends
 
 - [面向大型系统的微前端解决方案](https://ice-lab.github.io/icestark)
+- [m-app](https://github.com/ambit-tsai/m-app) - 新一代微前端解决方案，微应用容器组件，对 DOM、CSS、JS 进行硬隔离，达到真正的技术栈无关，并且运行时集成，微应用可独立开发、部署、升级。使用如 iframe 般简便，却超脱 iframe 的局限，你值得一试！
+
+## Icons
+
+- [IconPark](https://github.com/bytedance/IconPark) - 字节跳动出品的高质量开源图标
+- [700+CSS Icons](https://css.gg/) - Open-source CSS, SVG and Figma UI Icons. Available in SVG Sprite, styled-components, NPM & API.
+
+## Low Code
+
+- [sparrow](https://github.com/sparrow-js/sparrow) - 场景化低代码（LowCode）搭建工作台，实时输出源代码
+- [yoma](https://github.com/msh01/yoma) - 一个小而美的低代码全栈开发平台，一键生成后端api接口+前端页面代码+在线接口文档，节省50%的前后端开发的工作量，平台代码100%开源。平台适用于企业信息化、政务、中小型互联网等项目
+- [citrus](https://github.com/Yiuman/citrus) - 低代码快速开发脚手架，灵活、高效，降低开发成本
+- [vue-low-code](https://github.com/KlausSchaefers/vue-low-code) - Quant-UX standalone
