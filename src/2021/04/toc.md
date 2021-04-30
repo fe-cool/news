@@ -246,3 +246,62 @@
 - [yoma](https://github.com/msh01/yoma) - 一个小而美的低代码全栈开发平台，一键生成后端api接口+前端页面代码+在线接口文档，节省50%的前后端开发的工作量，平台代码100%开源。平台适用于企业信息化、政务、中小型互联网等项目
 - [citrus](https://github.com/Yiuman/citrus) - 低代码快速开发脚手架，灵活、高效，降低开发成本
 - [vue-low-code](https://github.com/KlausSchaefers/vue-low-code) - Quant-UX standalone
+
+---
+
+`🎉 彩蛋`: 如何信息获取？
+
+- `云谦`：我的信息来源主要这些
+  1. twitter 新建个 list 关注国内外前端大牛，然后按 top 排序
+  2. github 1) 通过 watch > custom > Releases 订阅感兴趣库的 release 信息 2) follow 一些人
+  3. 邮箱订阅各种 weekly 邮件列表
+  4. rss 订阅，来源很杂
+  信息流的方式基本没变，可参考两年前花的图，[《2019-04-sorrycc-我的输入信息流》](https://www.yuque.com/docs/share/78603db2-1dfc-47ad-9f47-1d2a5d6cd6e4?#)
+
+- `xiaohuoni`: 我的信息输入较少，更多喜欢从纸质书籍上得到信息。
+  1. 当当图书推荐榜-优先计算机，语言类。
+  2. github 首页，主要是通过关注的人的动态，还有explore里面的推荐
+  3. dev.to 通过 tags 过滤，也关注热度榜单。dev开源之前是我的主要信息来源。一直想着做一个国内站点，开源的时候，看了一下技术栈与我掌握的差异太大。反而连这个网站都少上了。
+  4. 云谦早报和他个人动态现在是我的主要信息来源。
+  5. 阮一峰的周报，issues区有很多信息 [ruanyf/weekly](https://github.com/ruanyf/weekly/issues)
+
+- `浩明`: 我的信息来源主要这几个博客和平台
+  1. github 上 follow 的动态
+  2. [Jake Archibald](https://jakearchibald.com) 博客
+  3. [Dan Abramov](https://overreacted.io) 博客
+  4. [David Walsh](https://davidwalsh.name) 博客
+  5. 阮一峰，张鑫旭 的博客
+  6. 公众号，知乎
+
+---
+
+`💭 补充`: 我本人`lencx`也 follow 过许多国外大牛，因为人数太多暂时无法整理出来，感兴趣的可以查看
+
+- [github following](https://github.com/lencx?tab=following)
+
+- `twitter`: 排名不分先后，由于时间原因，只列取了部分，大家可以根据follow后的推荐自行关注
+  - [Dan](https://twitter.com/dan_abramov)
+  - [Axel Rauschmayer](https://twitter.com/rauschma)
+  - [TJ Holowaychuk](https://twitter.com/tjholowaychuk)
+  - [Evan You](https://twitter.com/youyuxi)
+  - [Lea Verou](https://twitter.com/LeaVerou)
+  - [Sindre Sorhus](https://twitter.com/sindresorhus)
+  - [Sean Larkin](https://twitter.com/TheLarkInn)
+  - [Una Kravets](https://twitter.com/Una)
+  - [Chris Coyier](https://twitter.com/chriscoyier)
+  - [Alligator.io](https://twitter.com/alligatorio)
+  - [Julia Evans](https://twitter.com/b0rk)
+  - [Lin Clark](https://twitter.com/linclark)
+  - [Ali Spittel](https://twitter.com/ASpittel)
+  - [Charlie Gerard](https://twitter.com/devdevcharlie)
+  - [Nicholas C. Zakas](https://twitter.com/slicknet)
+  - [Sarah Drasner](https://twitter.com/sarah_edo)
+  - [Robin Wieruch](https://twitter.com/rwieruch)
+  - [Max Stoiber](https://twitter.com/mxstbr)
+  - [André Staltz](https://twitter.com/andrestaltz)
+  - [Sebastian](https://twitter.com/sebmck)
+  - [MylesBorins](https://twitter.com/MylesBorins)
+  - [Awais](https://twitter.com/MrAhmadAwais)
+  - [Ives van Hoorne](https://twitter.com/CompuIves)
+  - [Dave Ceddia](https://twitter.com/dceddia)
+  - ...
