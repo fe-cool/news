@@ -9,7 +9,7 @@
     <title><![CDATA[News]]></title>
     <link>https://fe-cool.github.io/news/news.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/news.html</guid>
-    <pubDate>Sat, 1 May 2021 01:09:40 +0800</pubDate>
+    <pubDate>Sat, 1 May 2021 01:56:00 +0800</pubDate>
     <description><![CDATA[<h1 id="news">News</h1>]]></description>
   </item>
    
@@ -17,7 +17,7 @@
     <title><![CDATA[关于【MDH • 前端情报】]]></title>
     <link>https://fe-cool.github.io/news/index.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/index.html</guid>
-    <pubDate>Sat, 1 May 2021 01:09:40 +0800</pubDate>
+    <pubDate>Sat, 1 May 2021 01:56:00 +0800</pubDate>
     <description><![CDATA[<h1 id="关于mdh-前端情报">关于【MDH • 前端情报】</h1>
 <ul>
 <li>代号：<code>MDH(make developer happier)</code></li>
@@ -83,7 +83,7 @@
     <title><![CDATA[Weekly]]></title>
     <link>https://fe-cool.github.io/news/awesome/weekly.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/weekly.html</guid>
-    <pubDate>Sat, 1 May 2021 01:09:40 +0800</pubDate>
+    <pubDate>Sat, 1 May 2021 01:56:00 +0800</pubDate>
     <description><![CDATA[<h1 id="weekly">Weekly</h1>
 <ul>
 <li><a href="https://github.com/jondot/awesome-weekly">jondot/awesome-weekly</a> - 来自软件界的优质每周精选新闻通讯的精选列表</li>
@@ -98,7 +98,7 @@
     <title><![CDATA[VS Code]]></title>
     <link>https://fe-cool.github.io/news/awesome/vsc.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/vsc.html</guid>
-    <pubDate>Sat, 1 May 2021 01:09:40 +0800</pubDate>
+    <pubDate>Sat, 1 May 2021 01:56:00 +0800</pubDate>
     <description><![CDATA[<h1 id="vs-code">VS Code</h1>]]></description>
   </item>
    
@@ -106,7 +106,7 @@
     <title><![CDATA[Tools]]></title>
     <link>https://fe-cool.github.io/news/awesome/tools.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/tools.html</guid>
-    <pubDate>Sat, 1 May 2021 01:09:40 +0800</pubDate>
+    <pubDate>Sat, 1 May 2021 01:56:00 +0800</pubDate>
     <description><![CDATA[<h1 id="tools">Tools</h1>]]></description>
   </item>
    
@@ -114,7 +114,7 @@
     <title><![CDATA[精选]]></title>
     <link>https://fe-cool.github.io/news/awesome/toc.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/toc.html</guid>
-    <pubDate>Sat, 1 May 2021 01:09:40 +0800</pubDate>
+    <pubDate>Sat, 1 May 2021 01:56:00 +0800</pubDate>
     <description><![CDATA[<h1 id="精选">精选</h1>
 <p>随着信息收集工作的进行，我(<code>lencx</code>)发现其中有很多的<code>工具</code>，<code>应用</code>，<code>技术指南</code>，<code>编辑器</code>之类的东西，就想把它们抽离出来，单独进行分类维护。故开辟了<code>精选</code>分类。</p>]]></description>
   </item>
@@ -123,7 +123,7 @@
     <title><![CDATA[Guide]]></title>
     <link>https://fe-cool.github.io/news/awesome/guide.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/guide.html</guid>
-    <pubDate>Sat, 1 May 2021 01:09:40 +0800</pubDate>
+    <pubDate>Sat, 1 May 2021 01:56:00 +0800</pubDate>
     <description><![CDATA[<h1 id="guide">Guide</h1>
 <ul>
 <li><a href="https://roadmap.sh">Developer Roadmaps</a> - Step by step guides and paths to learn different tools or technologies (包含前端，后端，运维，安卓，数据库，react等)</li>
@@ -139,7 +139,7 @@
     <title><![CDATA[Application]]></title>
     <link>https://fe-cool.github.io/news/awesome/app.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/app.html</guid>
-    <pubDate>Sat, 1 May 2021 01:09:40 +0800</pubDate>
+    <pubDate>Sat, 1 May 2021 01:56:00 +0800</pubDate>
     <description><![CDATA[<h1 id="application">Application</h1>
 <h2 id="cross-platform">Cross-platform</h2>
 <h2 id="macos">MacOS</h2>
@@ -153,7 +153,7 @@
     <title><![CDATA[Summary]]></title>
     <link>https://fe-cool.github.io/news/SUMMARY.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/SUMMARY.html</guid>
-    <pubDate>Sat, 1 May 2021 01:09:40 +0800</pubDate>
+    <pubDate>Sat, 1 May 2021 01:56:00 +0800</pubDate>
     <description><![CDATA[<h1 id="summary">Summary</h1> <ul> <li><p><a href="./index.html">MDH</a></p></li> <li><a href="./awesome/toc.html">Awesome</a></li> <li><a href="./awesome/guide.html">Guide</a></li> <li><a href="./awesome/tools.html">Tools</a></li> <li><a href="./awesome/weekly.html">Weekly</a></li> <li><a href="./awesome/app.html">Application</a></li> <li><p><a href="./awesome/vsc.html">VS Code</a></p></li> <li><a href="./news.html">News</a></li> <li><a href="2021/04/toc.html">2021.04</a> <ul> <li><a href="./2021/04/14.html">2021.04.14</a></li> <li><a href="./2021/04/15.html">2021.04.15</a></li> <li><a href="./2021/04/16.html">2021.04.16</a></li> <li><a href="./2021/04/17.html">2021.04.17</a></li> <li><a href="./2021/04/18.html">2021.04.18</a></li> <li><a href="./2021/04/19.html">2021.04.19</a></li> <li><a href="./2021/04/20.html">2021.04.20</a></li> <li><a href="./2021/04/21.html">2021.04.21</a></li> <li><a href="./2021/04/22.html">2021.04.22</a></li> <li><a href="./2021/04/23.html">2021.04.23</a></li> <li><a href="./2021/04/24.html">2021.04.24</a></li> <li><a href="./2021/04/25.html">2021.04.25</a></li> <li><a href="./2021/04/26.html">2021.04.26</a></li> <li><a href="./2021/04/27.html">2021.04.27</a></li> <li><a href="./2021/04/28.html">2021.04.28</a></li> <li><a href="./2021/04/29.html">2021.04.29</a></li> <li><a href="./2021/04/30.html">2021.04.30</a></li> </ul></li> </ul>]]></description>
   </item>
    
@@ -161,7 +161,7 @@
     <title><![CDATA[2021.04]]></title>
     <link>https://fe-cool.github.io/news/2021/04/toc.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/toc.html</guid>
-    <pubDate>Sat, 1 May 2021 01:09:40 +0800</pubDate>
+    <pubDate>Sat, 1 May 2021 01:56:00 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.04</h1>
 <p><code>汇总中...</code></p>
 <!-- 📅： 23.md已完成 -->
@@ -186,7 +186,6 @@
 <li><a href="https://github1s.com">github1s</a> - 将 github 更改为 github1s 可以查看编辑源码</li>
 <li><a href="https://probot.github.io/apps/pull">Pull</a> - a GitHub App that keeps your forks up-to-date with upstream via automated pull requests.</li>
 <li><a href="https://github.com/rust-lang/mdBook">mdbook</a> - Create book from markdown files. Like Gitbook but implemented in Rust.</li>
-<li><a href="https://github.com/bytedance/IconPark">IconPark</a> - 字节跳动出品的高质量开源图标</li>
 <li><a href="https://github.com/zhuowenli/githuber">chrome 拓展程序</a> - 每天爬  Github Trending 热门 Repo</li>
 <li><a href="https://github.com/simbathesailor/use-what-changed">use-what-changed</a> - 一个便于调试 react hook 中依赖项列表变化的小工具</li>
 <li><a href="https://www.prisma.io/blog/prisma-the-complete-orm-inw24qjeawmb">Prisma tools are ready for production today!</a></li>
@@ -229,6 +228,16 @@
 <li><a href="https://www.draw.io/">draw.io</a> - 免费客户端、网页版都有的画流程图工具，功能强大。</li>
 <li><a href="https://getpocket.com">pocket</a> - 谷歌浏览器插件，用来随手看到好的文章很方便地收藏</li>
 <li><a href="https://xosh.org/text-to-diagram/">Online text to diagram tools</a></li>
+<li><a href="http://npm.anvaka.com/#/view/2d/react-native">可视化解析 npm 包依赖项目</a></li>
+<li><a href="https://github.com/favrora/Avatar-Maker">Avatar Maker</a> - Create your own avatar with Vue Avatar Maker app.</li>
+<li><a href="https://jex.im/regulex">Regulex</a> - JavaScript Regular Expression Visualizer.</li>
+<li><a href="https://cssgradient.io/">CSS Gradient</a> - As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile.</li>
+<li><a href="github.com/GoogleChrome/ADBPlugin">ADB</a> - 实际开发中app内嵌webview很常见，但是安卓环境调试，出了开模拟器，可以试试adb插件，很好用</li>
+<li><a href="https://github.com/calendso/calendso">calendso</a> - 知名日程安排工具(Calendly)的开源替代品。</li>
+<li><a href="https://github.com/shadow1ng/fscan">fscan</a> - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。</li>
+<li><a href="https://github.com/RobinCsl/awesome-js-tooling-not-in-js">JS Tooling not in JS</a> - A curated list of JavaScript tooling not written in JavaScript</li>
+<li><a href="https://github.com/welldone-software/why-did-you-render">why-did-you-render</a> - 通过 monkey patches React 来通知您可能可以避免的 re-renders，同时适用于 react-native</li>
+<li><a href="https://transform.tools/">transform</a> - 支持各种代码转化的工具，SVG、JSON、TS、GraphQL、CSS、SQL，只要你能想到的这里都有。光 JSON 就可以转化为十几种代码格式，如把 JSON 转化成 Flow、Go、GraphQL、Typescript、Kotlin、MySQL、YAML等。本项目开源，你可以通过代码学习到它是如何进行格式转换的。</li>
 </ul>
 <h2 id="open-source">Open Source</h2>
 <ul>
@@ -262,6 +271,20 @@
 <li><a href="https://github.com/rtk-incubator/rtk-query">rtk-query</a> - 基于 redux toolkit 的 data fetch 和 caching 工具，还在用 redux 的可以关注下。</li>
 <li><a href="https://github.com/tc39/proposals/blob/master/finished-proposals.md">Finished Proposals</a> - Finished proposals are proposals that have reached stage 4, and are included in the latest draft of the specification.</li>
 <li><a href="https://github.com/raghavmecheri/pytorchjs">pytorchjs</a> - Torch and TorchVision, but for NodeJS.</li>
+<li><a href="https://github.com/woopen/nplayer">NPlayer</a> - 无任何第三方运行时依赖，兼容 IE11，支持 SSR。高度可定制，可二次开发。和 B 站一样体验的弹幕系统。可以接入任何流媒体，支持直播。</li>
+<li><a href="https://reactflow.dev/">ReactFlow</a> - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams.</li>
+<li><a href="https://github.com/fabricjs/fabric.js">Fabric.js</a> - Javascript Canvas Library, SVG-to-Canvas (&amp; canvas-to-SVG) Parser</li>
+<li><a href="https://github.com/framer/motion">framer/motion</a> - Open source, production-ready animation and gesture library for React</li>
+<li><a href="https://github.com/sorrycc/awesome-f2e-libs">awesome-f2e-libs</a> - 整理我(云谦)平时关注的前端库</li>
+<li><a href="https://www.transition.style/">translate.css</a> - Drop-in CSS transitions</li>
+<li><a href="https://chatui.io/">ChatUI</a> - 对话式交互应用UI库，达摩院开源作品</li>
+<li><a href="https://github.com/wendux/DSBridge-Android">DSBridge-Android</a> - A modern cross-platform JavaScript bridge, through which you can invoke each other's functions synchronously or asynchronously between JavaScript and native.</li>
+<li><a href="https://github.com/jakesgordon/javascript-state-machine">javascript-state-machine</a> - A javascript finite state machine library</li>
+<li><a href="https://github.com/windicss/windicss">windicss</a> - Next generation utility-first CSS framework.</li>
+<li><a href="https://github.com/vimond/replay">replay</a> - A React video player facilitating adaptive stream playback with custom UI and a React-friendly API.</li>
+<li><a href="https://github.com/JanGuillermo/vue3-markdown-it">vue3-markdown-it</a> - An awesome Vue 3 markdown-it wrapper plugin that can even support external plugins!</li>
+<li><a href="https://github.com/crubier/code-to-graph">code-to-graph</a> - Transforms code (JS) into graphs (graphviz, mermaid flowchart, ...)</li>
+<li><span class="citation">[@pansy/watermark]</span>(https://github.com/pansyjs/watermark) - watermark component</li>
 </ul>
 <h2 id="guide">Guide</h2>
 <ul>
@@ -276,6 +299,25 @@
 <li><a href="https://fettblog.eu/articles">TypeScript 和 React 优质指导</a></li>
 <li><a href="https://github.com/datastorm-open/visNetwork">vis-network</a> - 网络可视化的 R 包，使用的是 vis.js，<a href="https://www.ame.cool/pages/a7d858/#network-%E5%85%B3%E7%B3%BB%E5%9B%BE">中文文档</a></li>
 <li><a href="https://www.smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/">A Complete Guide To Incremental Static Regeneration (ISR) With Next.js</a></li>
+<li><a href="https://dev.to/pb/10-github-repositories-every-developer-should-know-ngm">10 GitHub Repositories every Developer should know</a></li>
+<li><a href="https://github.com/EbookFoundation/free-programming-books">Free Programming Books</a></li>
+<li><a href="https://github.com/kamranahmedse/developer-roadmap">Developer Roadmap</a></li>
+<li><a href="https://github.com/ossu/computer-science">OSSU Computer Science</a></li>
+<li><a href="https://github.com/sindresorhus/awesome">Awesome</a></li>
+<li><a href="https://github.com/danistefanovic/build-your-own-x">Build your own X</a></li>
+<li><a href="https://github.com/jwasham/coding-interview-university">Coding Interview University</a></li>
+<li><a href="https://github.com/public-apis/public-apis">Public Apis</a></li>
+<li><a href="https://github.com/yangshun/tech-interview-handbook">Tech Interview Handbook</a></li>
+<li><a href="https://github.com/donnemartin/system-design-primer">System Design Primer</a></li>
+<li><a href="https://github.com/bradtraversy/design-resources-for-developers">Design Resources for Developers</a></li>
+<li><a href="https://github.com/ruanyf/free-books">free-books</a> - 互联网上的免费书籍</li>
+<li><a href="https://codemyui.com/">Web Design &amp; UI Inspiration with Code Snippets</a></li>
+<li><a href="https://github.com/philipwalton/flexbugs">Flexbugs</a> - A community-curated list of flexbox issues and cross-browser workarounds for them.</li>
+<li><a href="https://maxrozen.com/keeping-up-with-react-libraries">Keeping up with React Libraries</a></li>
+<li><a href="https://github.com/jkup/mastering-chrome-devtools">mastering-chrome-devtools</a> - Website for teaching Chrome DevTools</li>
+<li><a href="https://firt.dev">FIRT</a> - Learn about Mobile and Web Development with Maximiliano Firtman's articles, notes and learning experiences. Progressive Web Apps, Web Performance, Android Apps, iOS Apps and more.</li>
+<li><a href="https://dev.to/worldindev/400-javascript-interview-questions-with-answers-2fcj">400 条 JavaScript 面试题（带答案）</a></li>
+<li><a href="https://github.com/justjavac/ali-words">互联网黑话词汇表 - 适当学习，提升逼格</a> - 互联网黑话词汇表，包含“赋能、抓手、闭环、沉淀、打通”等阿里味儿词汇</li>
 </ul>
 <h2 id="weekly">Weekly</h2>
 <ul>
@@ -287,6 +329,7 @@
 <li><a href="https://2020.stateofjs.com/en-US/">2020 js 调查报告</a></li>
 <li><a href="https://wanqu.co/">湾区日报</a> - 关注创业与技术，每天推送 3 到 5 篇优质英文文章</li>
 <li><a href="https://github.com/hijiangtao/javascript-articles-monthly">JavaScript 文章精选月刊</a> - 文章在持续更新</li>
+<li><a href="https://github.com/ascoders/weekly">ascoders/weekly</a> - 前端精读周刊。帮你理解最前沿、实用的技术。</li>
 </ul>
 <h2 id="vs-code">VS Code</h2>
 <ul>
@@ -296,6 +339,7 @@
 <li><a href="https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff">Partial Diff</a>，vscode 插件，git 的单文件 diff 功能，对选定内容进行比对。</li>
 <li><a href="https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree">Todo Tree</a> - vscode 插件，收集项目中你所有代码中备注 <code>todos</code> 。</li>
 <li><a href="https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics">CodeMetrics</a> - vscode 插件，计算 ts / js / lua 代码的复杂度，帮助我们更好的重构代码。</li>
+<li><a href="https://github.com/johnsoncodehk/volar">Volar</a> - Volar是专门为Vue 3构建的语言支持插件。它基于@ vue / reactivity，可按需计算TypeScript以优化性能，类似于本机TypeScript语言服务。</li>
 </ul>
 <h2 id="app">APP</h2>
 <ul>
@@ -317,6 +361,7 @@
 <li><a href="https://justgetflux.com/">f.lux</a> - 屏幕蓝光过滤</li>
 <li><a href="https://github.com/dwarvesf/hidden">Hidden Bar</a> - 隐藏 mac 菜单栏图标</li>
 <li><a href="https://github.com/rxhanson/Rectangle">Rectangle</a> - 使用快捷键快速调整窗口大小及位置</li>
+<li><a href="https://dropoverapp.com/">Dropover</a> - Dropover is a utility that makes it easier to manage and move content between folders, applications, windows and workspaces using Drag and Drop.</li>
 </ul>
 <h2 id="webassembly">WebAssembly</h2>
 <ul>
@@ -325,6 +370,7 @@
 <li><a href="https://bbodi.github.io/notecalc3">NoteCalc</a> - 带有智能内置计算器的便捷记事本。功能强大，使用 webAssembly+canvas 构建应用。</li>
 <li><a href="https://github.com/evgeny-nadymov/telegram-react">Telegram React</a> - based on the ReactJS JavaScript framework and TDLib (Telegram Database library) compiled to WebAssembly。</li>
 <li><a href="https://ant-design-blazor.gitee.io/zh-CN/">Ant Design of Blazor</a> - WebAssembly 版本的 antDesign，语法类似 tsx。</li>
+<li><a href="https://github.com/copy/v86">v86</a> - v86模拟与x86兼容的CPU和硬件。 机器代码在运行时转换为WebAssembly模块，以实现良好的性能，支持多种仿真硬件。</li>
 </ul>
 <h2 id="algorithms">Algorithms</h2>
 <ul>
@@ -348,6 +394,19 @@
 <h2 id="micro-frontends">Micro Frontends</h2>
 <ul>
 <li><a href="https://ice-lab.github.io/icestark">面向大型系统的微前端解决方案</a></li>
+<li><a href="https://github.com/ambit-tsai/m-app">m-app</a> - 新一代微前端解决方案，微应用容器组件，对 DOM、CSS、JS 进行硬隔离，达到真正的技术栈无关，并且运行时集成，微应用可独立开发、部署、升级。使用如 iframe 般简便，却超脱 iframe 的局限，你值得一试！</li>
+</ul>
+<h2 id="icons">Icons</h2>
+<ul>
+<li><a href="https://github.com/bytedance/IconPark">IconPark</a> - 字节跳动出品的高质量开源图标</li>
+<li><a href="https://css.gg/">700+CSS Icons</a> - Open-source CSS, SVG and Figma UI Icons. Available in SVG Sprite, styled-components, NPM &amp; API.</li>
+</ul>
+<h2 id="low-code">Low Code</h2>
+<ul>
+<li><a href="https://github.com/sparrow-js/sparrow">sparrow</a> - 场景化低代码（LowCode）搭建工作台，实时输出源代码</li>
+<li><a href="https://github.com/msh01/yoma">yoma</a> - 一个小而美的低代码全栈开发平台，一键生成后端api接口+前端页面代码+在线接口文档，节省50%的前后端开发的工作量，平台代码100%开源。平台适用于企业信息化、政务、中小型互联网等项目</li>
+<li><a href="https://github.com/Yiuman/citrus">citrus</a> - 低代码快速开发脚手架，灵活、高效，降低开发成本</li>
+<li><a href="https://github.com/KlausSchaefers/vue-low-code">vue-low-code</a> - Quant-UX standalone</li>
 </ul>]]></description>
   </item>
   
