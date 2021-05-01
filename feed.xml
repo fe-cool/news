@@ -9,7 +9,7 @@
     <title><![CDATA[News]]></title>
     <link>https://fe-cool.github.io/news/news.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/news.html</guid>
-    <pubDate>Sat, 1 May 2021 02:03:01 +0800</pubDate>
+    <pubDate>Sat, 1 May 2021 10:04:57 +0800</pubDate>
     <description><![CDATA[<h1 id="news">News</h1>]]></description>
   </item>
    
@@ -17,7 +17,7 @@
     <title><![CDATA[关于【MDH • 前端情报】]]></title>
     <link>https://fe-cool.github.io/news/index.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/index.html</guid>
-    <pubDate>Sat, 1 May 2021 02:03:01 +0800</pubDate>
+    <pubDate>Sat, 1 May 2021 10:04:57 +0800</pubDate>
     <description><![CDATA[<h1 id="关于mdh-前端情报">关于【MDH • 前端情报】</h1>
 <ul>
 <li>代号：<code>MDH(make developer happier)</code></li>
@@ -83,7 +83,7 @@
     <title><![CDATA[Weekly]]></title>
     <link>https://fe-cool.github.io/news/awesome/weekly.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/weekly.html</guid>
-    <pubDate>Sat, 1 May 2021 02:03:01 +0800</pubDate>
+    <pubDate>Sat, 1 May 2021 10:04:57 +0800</pubDate>
     <description><![CDATA[<h1 id="weekly">Weekly</h1>
 <ul>
 <li><a href="https://github.com/jondot/awesome-weekly">jondot/awesome-weekly</a> - 来自软件界的优质每周精选新闻通讯的精选列表</li>
@@ -98,7 +98,7 @@
     <title><![CDATA[VS Code]]></title>
     <link>https://fe-cool.github.io/news/awesome/vsc.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/vsc.html</guid>
-    <pubDate>Sat, 1 May 2021 02:03:01 +0800</pubDate>
+    <pubDate>Sat, 1 May 2021 10:04:57 +0800</pubDate>
     <description><![CDATA[<h1 id="vs-code">VS Code</h1>]]></description>
   </item>
    
@@ -106,7 +106,7 @@
     <title><![CDATA[Tools]]></title>
     <link>https://fe-cool.github.io/news/awesome/tools.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/tools.html</guid>
-    <pubDate>Sat, 1 May 2021 02:03:01 +0800</pubDate>
+    <pubDate>Sat, 1 May 2021 10:04:57 +0800</pubDate>
     <description><![CDATA[<h1 id="tools">Tools</h1>]]></description>
   </item>
    
@@ -114,7 +114,7 @@
     <title><![CDATA[精选]]></title>
     <link>https://fe-cool.github.io/news/awesome/toc.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/toc.html</guid>
-    <pubDate>Sat, 1 May 2021 02:03:01 +0800</pubDate>
+    <pubDate>Sat, 1 May 2021 10:04:57 +0800</pubDate>
     <description><![CDATA[<h1 id="精选">精选</h1>
 <p>随着信息收集工作的进行，我(<code>lencx</code>)发现其中有很多的<code>工具</code>，<code>应用</code>，<code>技术指南</code>，<code>编辑器</code>之类的东西，就想把它们抽离出来，单独进行分类维护。故开辟了<code>精选</code>分类。</p>]]></description>
   </item>
@@ -123,7 +123,7 @@
     <title><![CDATA[Guide]]></title>
     <link>https://fe-cool.github.io/news/awesome/guide.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/guide.html</guid>
-    <pubDate>Sat, 1 May 2021 02:03:01 +0800</pubDate>
+    <pubDate>Sat, 1 May 2021 10:04:57 +0800</pubDate>
     <description><![CDATA[<h1 id="guide">Guide</h1>
 <ul>
 <li><a href="https://roadmap.sh">Developer Roadmaps</a> - Step by step guides and paths to learn different tools or technologies (包含前端，后端，运维，安卓，数据库，react等)</li>
@@ -139,7 +139,7 @@
     <title><![CDATA[Application]]></title>
     <link>https://fe-cool.github.io/news/awesome/app.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/app.html</guid>
-    <pubDate>Sat, 1 May 2021 02:03:01 +0800</pubDate>
+    <pubDate>Sat, 1 May 2021 10:04:57 +0800</pubDate>
     <description><![CDATA[<h1 id="application">Application</h1>
 <h2 id="cross-platform">Cross-platform</h2>
 <h2 id="macos">MacOS</h2>
@@ -153,7 +153,7 @@
     <title><![CDATA[Summary]]></title>
     <link>https://fe-cool.github.io/news/SUMMARY.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/SUMMARY.html</guid>
-    <pubDate>Sat, 1 May 2021 02:03:01 +0800</pubDate>
+    <pubDate>Sat, 1 May 2021 10:04:57 +0800</pubDate>
     <description><![CDATA[<h1 id="summary">Summary</h1> <ul> <li><p><a href="./index.html">MDH</a></p></li> <li><a href="./awesome/toc.html">Awesome</a></li> <li><a href="./awesome/guide.html">Guide</a></li> <li><a href="./awesome/tools.html">Tools</a></li> <li><a href="./awesome/weekly.html">Weekly</a></li> <li><a href="./awesome/app.html">Application</a></li> <li><p><a href="./awesome/vsc.html">VS Code</a></p></li> <li><a href="./news.html">News</a></li> <li><a href="2021/04/toc.html">2021.04</a> <ul> <li><a href="./2021/04/14.html">2021.04.14</a></li> <li><a href="./2021/04/15.html">2021.04.15</a></li> <li><a href="./2021/04/16.html">2021.04.16</a></li> <li><a href="./2021/04/17.html">2021.04.17</a></li> <li><a href="./2021/04/18.html">2021.04.18</a></li> <li><a href="./2021/04/19.html">2021.04.19</a></li> <li><a href="./2021/04/20.html">2021.04.20</a></li> <li><a href="./2021/04/21.html">2021.04.21</a></li> <li><a href="./2021/04/22.html">2021.04.22</a></li> <li><a href="./2021/04/23.html">2021.04.23</a></li> <li><a href="./2021/04/24.html">2021.04.24</a></li> <li><a href="./2021/04/25.html">2021.04.25</a></li> <li><a href="./2021/04/26.html">2021.04.26</a></li> <li><a href="./2021/04/27.html">2021.04.27</a></li> <li><a href="./2021/04/28.html">2021.04.28</a></li> <li><a href="./2021/04/29.html">2021.04.29</a></li> <li><a href="./2021/04/30.html">2021.04.30</a></li> </ul></li> </ul>]]></description>
   </item>
    
@@ -161,9 +161,9 @@
     <title><![CDATA[2021.04]]></title>
     <link>https://fe-cool.github.io/news/2021/04/toc.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/04/toc.html</guid>
-    <pubDate>Sat, 1 May 2021 02:03:01 +0800</pubDate>
+    <pubDate>Sat, 1 May 2021 10:04:57 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.04</h1>
-<p><code>汇总完毕</code></p>
+<p><code>汇总完成</code> - <em>2021.04.14 ~ 2021.04.30</em></p>
 <!-- 📅： 30.md已完成 -->
 <h2 id="tools">Tools</h2>
 <ul>
@@ -261,7 +261,6 @@
 <li><a href="https://github.com/hecrj/iced">iced</a> - rust 9.2K 跨平台 GUI 仓库</li>
 <li><a href="https://github.com/swc-project/swc">swc</a> - rust 编写的超快速的 typescript/ javascript 编译器</li>
 <li><a href="https://openkraken.com">北海</a> - 基于 Flutter 的 Web 渲染引擎正式开源</li>
-<li><a href="https://ice-lab.github.io/icestark">icestark</a> - 面向大型系统的微前端解决方案</li>
 <li><a href="https://docs.ficusjs.org/docs/getting-started">FicusJS</a> - 基于 webcomponent 实现的轻量开发库</li>
 <li><a href="http://logic-flow.org/">LogicFlow</a> - 滴滴开源，专注流程可视化的前端框架</li>
 <li><a href="https://vincentcheng.github.io/apijson-doc/">APIJSON</a> - 腾讯开源</li>
@@ -394,6 +393,7 @@
 <h2 id="micro-frontends">Micro Frontends</h2>
 <ul>
 <li><a href="https://ice-lab.github.io/icestark">面向大型系统的微前端解决方案</a></li>
+<li><a href="https://ice-lab.github.io/icestark">icestark</a> - 面向大型系统的微前端解决方案</li>
 <li><a href="https://github.com/ambit-tsai/m-app">m-app</a> - 新一代微前端解决方案，微应用容器组件，对 DOM、CSS、JS 进行硬隔离，达到真正的技术栈无关，并且运行时集成，微应用可独立开发、部署、升级。使用如 iframe 般简便，却超脱 iframe 的局限，你值得一试！</li>
 </ul>
 <h2 id="icons">Icons</h2>
