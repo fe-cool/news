@@ -9,7 +9,7 @@
     <title><![CDATA[News]]></title>
     <link>https://fe-cool.github.io/news/news.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/news.html</guid>
-    <pubDate>Sun, 2 May 2021 00:02:09 +0800</pubDate>
+    <pubDate>Fri, 7 May 2021 00:26:36 +0800</pubDate>
     <description><![CDATA[<h1 id="news">News</h1>]]></description>
   </item>
    
@@ -17,7 +17,7 @@
     <title><![CDATA[关于【MDH • 前端情报】]]></title>
     <link>https://fe-cool.github.io/news/index.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/index.html</guid>
-    <pubDate>Sun, 2 May 2021 00:02:09 +0800</pubDate>
+    <pubDate>Fri, 7 May 2021 00:26:36 +0800</pubDate>
     <description><![CDATA[<h1 id="关于mdh-前端情报">关于【MDH • 前端情报】</h1>
 <ul>
 <li>代号：<code>MDH(make developer happier)</code></li>
@@ -83,7 +83,7 @@
     <title><![CDATA[Weekly]]></title>
     <link>https://fe-cool.github.io/news/awesome/weekly.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/weekly.html</guid>
-    <pubDate>Sun, 2 May 2021 00:02:09 +0800</pubDate>
+    <pubDate>Fri, 7 May 2021 00:26:36 +0800</pubDate>
     <description><![CDATA[<h1 id="weekly">Weekly</h1>
 <ul>
 <li><a href="https://github.com/jondot/awesome-weekly">jondot/awesome-weekly</a> - 来自软件界的优质每周精选新闻通讯的精选列表</li>
@@ -98,7 +98,7 @@
     <title><![CDATA[VS Code]]></title>
     <link>https://fe-cool.github.io/news/awesome/vsc.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/vsc.html</guid>
-    <pubDate>Sun, 2 May 2021 00:02:09 +0800</pubDate>
+    <pubDate>Fri, 7 May 2021 00:26:36 +0800</pubDate>
     <description><![CDATA[<h1 id="vs-code">VS Code</h1>]]></description>
   </item>
    
@@ -106,7 +106,7 @@
     <title><![CDATA[Tools]]></title>
     <link>https://fe-cool.github.io/news/awesome/tools.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/tools.html</guid>
-    <pubDate>Sun, 2 May 2021 00:02:09 +0800</pubDate>
+    <pubDate>Fri, 7 May 2021 00:26:36 +0800</pubDate>
     <description><![CDATA[<h1 id="tools">Tools</h1>]]></description>
   </item>
    
@@ -114,7 +114,7 @@
     <title><![CDATA[精选]]></title>
     <link>https://fe-cool.github.io/news/awesome/toc.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/toc.html</guid>
-    <pubDate>Sun, 2 May 2021 00:02:09 +0800</pubDate>
+    <pubDate>Fri, 7 May 2021 00:26:36 +0800</pubDate>
     <description><![CDATA[<h1 id="精选">精选</h1>
 <p>随着信息收集工作的进行，我(<code>lencx</code>)发现其中有很多的<code>工具</code>，<code>应用</code>，<code>技术指南</code>，<code>编辑器</code>之类的东西，就想把它们抽离出来，单独进行分类维护。故开辟了<code>精选</code>分类。</p>]]></description>
   </item>
@@ -123,7 +123,7 @@
     <title><![CDATA[Guide]]></title>
     <link>https://fe-cool.github.io/news/awesome/guide.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/guide.html</guid>
-    <pubDate>Sun, 2 May 2021 00:02:09 +0800</pubDate>
+    <pubDate>Fri, 7 May 2021 00:26:36 +0800</pubDate>
     <description><![CDATA[<h1 id="guide">Guide</h1>
 <ul>
 <li><a href="https://roadmap.sh">Developer Roadmaps</a> - Step by step guides and paths to learn different tools or technologies (包含前端，后端，运维，安卓，数据库，react等)</li>
@@ -139,7 +139,7 @@
     <title><![CDATA[Application]]></title>
     <link>https://fe-cool.github.io/news/awesome/app.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/app.html</guid>
-    <pubDate>Sun, 2 May 2021 00:02:09 +0800</pubDate>
+    <pubDate>Fri, 7 May 2021 00:26:36 +0800</pubDate>
     <description><![CDATA[<h1 id="application">Application</h1>
 <h2 id="cross-platform">Cross-platform</h2>
 <h2 id="macos">MacOS</h2>
@@ -153,21 +153,18 @@
     <title><![CDATA[Summary]]></title>
     <link>https://fe-cool.github.io/news/SUMMARY.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/SUMMARY.html</guid>
-    <pubDate>Sun, 2 May 2021 00:02:09 +0800</pubDate>
-    <description><![CDATA[<h1 id="summary">Summary</h1> <ul> <li><p><a href="./index.html">MDH</a></p></li> <li><a href="./awesome/toc.html">Awesome</a></li> <li><a href="./awesome/guide.html">Guide</a></li> <li><a href="./awesome/tools.html">Tools</a></li> <li><a href="./awesome/weekly.html">Weekly</a></li> <li><a href="./awesome/app.html">Application</a></li> <li><p><a href="./awesome/vsc.html">VS Code</a></p></li> <li><a href="./news.html">News</a></li> <li><a href="2021/04/toc.html">2021.04</a> <ul> <li><a href="./2021/04/14.html">2021.04.14</a></li> <li><a href="./2021/04/15.html">2021.04.15</a></li> <li><a href="./2021/04/16.html">2021.04.16</a></li> <li><a href="./2021/04/17.html">2021.04.17</a></li> <li><a href="./2021/04/18.html">2021.04.18</a></li> <li><a href="./2021/04/19.html">2021.04.19</a></li> <li><a href="./2021/04/20.html">2021.04.20</a></li> <li><a href="./2021/04/21.html">2021.04.21</a></li> <li><a href="./2021/04/22.html">2021.04.22</a></li> <li><a href="./2021/04/23.html">2021.04.23</a></li> <li><a href="./2021/04/24.html">2021.04.24</a></li> <li><a href="./2021/04/25.html">2021.04.25</a></li> <li><a href="./2021/04/26.html">2021.04.26</a></li> <li><a href="./2021/04/27.html">2021.04.27</a></li> <li><a href="./2021/04/28.html">2021.04.28</a></li> <li><a href="./2021/04/29.html">2021.04.29</a></li> <li><a href="./2021/04/30.html">2021.04.30</a></li> </ul></li> <li><a href="./2021/05/toc.html">2021.05</a> <ul> <li><a href="./2021/05/01.html">2021.05.01</a></li> </ul></li> </ul>]]></description>
+    <pubDate>Fri, 7 May 2021 00:26:36 +0800</pubDate>
+    <description><![CDATA[<h1 id="summary">Summary</h1> <ul> <li><p><a href="./index.html">MDH</a></p></li> <li><a href="./awesome/toc.html">Awesome</a></li> <li><a href="./awesome/guide.html">Guide</a></li> <li><a href="./awesome/tools.html">Tools</a></li> <li><a href="./awesome/weekly.html">Weekly</a></li> <li><a href="./awesome/app.html">Application</a></li> <li><p><a href="./awesome/vsc.html">VS Code</a></p></li> <li><a href="./news.html">News</a></li> <li><a href="2021/04/toc.html">2021.04</a> <ul> <li><a href="./2021/04/14.html">2021.04.14</a></li> <li><a href="./2021/04/15.html">2021.04.15</a></li> <li><a href="./2021/04/16.html">2021.04.16</a></li> <li><a href="./2021/04/17.html">2021.04.17</a></li> <li><a href="./2021/04/18.html">2021.04.18</a></li> <li><a href="./2021/04/19.html">2021.04.19</a></li> <li><a href="./2021/04/20.html">2021.04.20</a></li> <li><a href="./2021/04/21.html">2021.04.21</a></li> <li><a href="./2021/04/22.html">2021.04.22</a></li> <li><a href="./2021/04/23.html">2021.04.23</a></li> <li><a href="./2021/04/24.html">2021.04.24</a></li> <li><a href="./2021/04/25.html">2021.04.25</a></li> <li><a href="./2021/04/26.html">2021.04.26</a></li> <li><a href="./2021/04/27.html">2021.04.27</a></li> <li><a href="./2021/04/28.html">2021.04.28</a></li> <li><a href="./2021/04/29.html">2021.04.29</a></li> <li><a href="./2021/04/30.html">2021.04.30</a></li> </ul></li> <li><a href="./2021/05/toc.html">2021.05</a> <ul> <li><a href="./2021/05/01.html">2021.05.01</a></li> <li><a href="./2021/05/06.html">2021.05.06</a></li> </ul></li> </ul>]]></description>
   </item>
    
   <item>
     <title><![CDATA[2021.05]]></title>
     <link>https://fe-cool.github.io/news/2021/05/toc.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/05/toc.html</guid>
-    <pubDate>Sun, 2 May 2021 00:02:09 +0800</pubDate>
+    <pubDate>Fri, 7 May 2021 00:26:36 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.05</h1>
-<ul>
-<li><p><code>wasm</code> <a href="https://web.dev/asyncify">Using asynchronous web APIs from WebAssembly</a></p></li>
-<li><p><code>react</code> <a href="https://daveceddia.com/react-state-management/">React State Management Libraries and How to Choose</a></p></li>
-<li><p><code>fe</code> <code>other</code> <a href="https://github.com/lukeed/clsx">clsx</a> - classnames的(228B)替代方案，自带类型声明，使用默认导入也更简洁 <code>import clsx form 'clsx'</code>， 不会再出现一大片的classNames(xxx)</p></li>
-</ul>]]></description>
+<p><code>汇总中...</code></p>
+<!-- 📅： 1.md未完成 -->]]></description>
   </item>
   
 </channel>
