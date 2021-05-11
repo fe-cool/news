@@ -123,6 +123,7 @@
 - [vue3-markdown-it](https://github.com/JanGuillermo/vue3-markdown-it) - An awesome Vue 3 markdown-it wrapper plugin that can even support external plugins!
 - [code-to-graph](https://github.com/crubier/code-to-graph) - Transforms code (JS) into graphs (graphviz, mermaid flowchart, ...)
 - [@pansy/watermark](https://github.com/pansyjs/watermark) - watermark component
+- [air-conditioner](https://github.com/YunYouJun/air-conditioner) - 云空调，便携小空调，为你的夏日带去清凉！
 
 ## Guide
 
