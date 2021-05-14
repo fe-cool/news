@@ -9,6 +9,7 @@
 
 ## MacOS
 
+* [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet) - Know your short cuts
 * [Xnip](https://xnipapp.com/) - Handy Screenshot App for Mac
 * [Bob](https://github.com/ripperhe/Bob) - Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。
