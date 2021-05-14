@@ -9,7 +9,7 @@
     <title><![CDATA[News]]></title>
     <link>https://fe-cool.github.io/news/news.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/news.html</guid>
-    <pubDate>Fri, 14 May 2021 23:27:39 +0800</pubDate>
+    <pubDate>Fri, 14 May 2021 23:54:17 +0800</pubDate>
     <description><![CDATA[<h1 id="news">News</h1>]]></description>
   </item>
    
@@ -17,7 +17,7 @@
     <title><![CDATA[关于【MDH • 前端情报】]]></title>
     <link>https://fe-cool.github.io/news/index.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/index.html</guid>
-    <pubDate>Fri, 14 May 2021 23:27:39 +0800</pubDate>
+    <pubDate>Fri, 14 May 2021 23:54:17 +0800</pubDate>
     <description><![CDATA[<h1 id="关于mdh-前端情报">关于【MDH • 前端情报】</h1>
 <ul>
 <li>代号：<code>MDH(make developer happier)</code></li>
@@ -83,7 +83,7 @@
     <title><![CDATA[Weekly]]></title>
     <link>https://fe-cool.github.io/news/awesome/weekly.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/weekly.html</guid>
-    <pubDate>Fri, 14 May 2021 23:27:39 +0800</pubDate>
+    <pubDate>Fri, 14 May 2021 23:54:17 +0800</pubDate>
     <description><![CDATA[<h1 id="weekly">Weekly</h1>
 <ul>
 <li><a href="https://github.com/jondot/awesome-weekly">jondot/awesome-weekly</a> - 来自软件界的优质每周精选新闻通讯的精选列表</li>
@@ -103,7 +103,7 @@
     <title><![CDATA[VS Code]]></title>
     <link>https://fe-cool.github.io/news/awesome/vsc.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/vsc.html</guid>
-    <pubDate>Fri, 14 May 2021 23:27:39 +0800</pubDate>
+    <pubDate>Fri, 14 May 2021 23:54:17 +0800</pubDate>
     <description><![CDATA[<h1 id="vs-code">VS Code</h1>
 <ul>
 <li><a href="../2021/04/toc.md#vs-code">2021.04</a></li>
@@ -114,7 +114,7 @@
     <title><![CDATA[Tools]]></title>
     <link>https://fe-cool.github.io/news/awesome/tools.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/tools.html</guid>
-    <pubDate>Fri, 14 May 2021 23:27:39 +0800</pubDate>
+    <pubDate>Fri, 14 May 2021 23:54:17 +0800</pubDate>
     <description><![CDATA[<h1 id="tools">Tools</h1>
 <ul>
 <li><a href="../2021/04/toc.md#tools">2021.04</a></li>
@@ -125,7 +125,7 @@
     <title><![CDATA[精选]]></title>
     <link>https://fe-cool.github.io/news/awesome/toc.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/toc.html</guid>
-    <pubDate>Fri, 14 May 2021 23:27:39 +0800</pubDate>
+    <pubDate>Fri, 14 May 2021 23:54:17 +0800</pubDate>
     <description><![CDATA[<h1 id="精选">精选</h1>
 <p>随着信息收集工作的进行，我(<code>lencx</code>)发现其中有很多的<code>工具</code>，<code>应用</code>，<code>技术指南</code>，<code>编辑器</code>之类的东西，就想把它们抽离出来，单独进行分类维护。故开辟了<code>精选</code>分类。</p>]]></description>
   </item>
@@ -134,7 +134,7 @@
     <title><![CDATA[Guide]]></title>
     <link>https://fe-cool.github.io/news/awesome/guide.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/guide.html</guid>
-    <pubDate>Fri, 14 May 2021 23:27:39 +0800</pubDate>
+    <pubDate>Fri, 14 May 2021 23:54:17 +0800</pubDate>
     <description><![CDATA[<h1 id="guide">Guide</h1>
 <ul>
 <li><a href="https://roadmap.sh">Developer Roadmaps</a> - Step by step guides and paths to learn different tools or technologies (包含前端，后端，运维，安卓，数据库，react等)</li>
@@ -151,7 +151,7 @@
     <title><![CDATA[Application]]></title>
     <link>https://fe-cool.github.io/news/awesome/app.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/awesome/app.html</guid>
-    <pubDate>Fri, 14 May 2021 23:27:39 +0800</pubDate>
+    <pubDate>Fri, 14 May 2021 23:54:17 +0800</pubDate>
     <description><![CDATA[<h1 id="application">Application</h1>
 <h2 id="cross-platform">Cross-platform</h2>
 <ul>
@@ -162,6 +162,7 @@
 </ul>
 <h2 id="macos">MacOS</h2>
 <ul>
+<li><a href="https://github.com/jaywcjlove/awesome-mac">awesome-mac</a> -  Now we have become very big, Different from the original idea. Collect premium software in various categories.</li>
 <li><a href="https://www.mediaatelier.com/CheatSheet">CheatSheet</a> - Know your short cuts</li>
 <li><a href="https://xnipapp.com/">Xnip</a> - Handy Screenshot App for Mac</li>
 <li><a href="https://github.com/ripperhe/Bob">Bob</a> - Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。</li>
@@ -185,7 +186,7 @@
     <title><![CDATA[Summary]]></title>
     <link>https://fe-cool.github.io/news/SUMMARY.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/SUMMARY.html</guid>
-    <pubDate>Fri, 14 May 2021 23:27:39 +0800</pubDate>
+    <pubDate>Fri, 14 May 2021 23:54:17 +0800</pubDate>
     <description><![CDATA[<h1 id="summary">Summary</h1> <ul> <li><p><a href="./index.html">MDH</a></p></li> <li><a href="./awesome/toc.html">Awesome</a></li> <li><a href="./awesome/guide.html">Guide</a></li> <li><a href="./awesome/tools.html">Tools</a></li> <li><a href="./awesome/weekly.html">Weekly</a></li> <li><a href="./awesome/app.html">Application</a></li> <li><p><a href="./awesome/vsc.html">VS Code</a></p></li> <li><a href="./news.html">News</a></li> <li><a href="2021/04/toc.html">2021.04</a> <ul> <li><a href="./2021/04/14.html">2021.04.14</a></li> <li><a href="./2021/04/15.html">2021.04.15</a></li> <li><a href="./2021/04/16.html">2021.04.16</a></li> <li><a href="./2021/04/17.html">2021.04.17</a></li> <li><a href="./2021/04/18.html">2021.04.18</a></li> <li><a href="./2021/04/19.html">2021.04.19</a></li> <li><a href="./2021/04/20.html">2021.04.20</a></li> <li><a href="./2021/04/21.html">2021.04.21</a></li> <li><a href="./2021/04/22.html">2021.04.22</a></li> <li><a href="./2021/04/23.html">2021.04.23</a></li> <li><a href="./2021/04/24.html">2021.04.24</a></li> <li><a href="./2021/04/25.html">2021.04.25</a></li> <li><a href="./2021/04/26.html">2021.04.26</a></li> <li><a href="./2021/04/27.html">2021.04.27</a></li> <li><a href="./2021/04/28.html">2021.04.28</a></li> <li><a href="./2021/04/29.html">2021.04.29</a></li> <li><a href="./2021/04/30.html">2021.04.30</a></li> </ul></li> <li><a href="./2021/05/toc.html">2021.05</a> <ul> <li><a href="./2021/05/01.html">2021.05.01</a></li> <li><a href="./2021/05/06.html">2021.05.06</a></li> <li><a href="./2021/05/07.html">2021.05.07</a></li> <li><a href="./2021/05/08.html">2021.05.08</a></li> <li><a href="./2021/05/11.html">2021.05.11</a></li> <li><a href="./2021/05/13.html">2021.05.13</a></li> <li><a href="./2021/05/14.html">2021.05.14</a></li> </ul></li> </ul>]]></description>
   </item>
    
@@ -193,13 +194,57 @@
     <title><![CDATA[2021.05]]></title>
     <link>https://fe-cool.github.io/news/2021/05/toc.html</link>
     <guid isPermaLink="false">https://fe-cool.github.io/news/2021/05/toc.html</guid>
-    <pubDate>Fri, 14 May 2021 23:27:39 +0800</pubDate>
+    <pubDate>Fri, 14 May 2021 23:54:17 +0800</pubDate>
     <description><![CDATA[<h1 id="section">2021.05</h1>
 <p><code>汇总中...</code></p>
-<!-- 📅： 1.md未完成 -->
+<!-- 📅： 14.md完成 -->
+<h2 id="tools">Tools</h2>
+<ul>
+<li><a href="https://rome.tools">Rome</a> - Rome is a linter, compiler, bundler, and more for JavaScript, TypeScript, JSON, HTML, Markdown, and CSS.</li>
+<li><a href="https://github.com/slidevjs/slidev">slidev</a> - Presentation Slides for Developers (Public Beta 🎉)</li>
+<li><a href="https://swimlanes.io/">swimlanes.io</a> - Swimlanes.io is a simple free online tool for making sequence diagrams</li>
+<li><a href="https://preset.dev/">Preset</a> - A command line tool for kickstarting your application's development by applying presets on top of it.</li>
+<li><a href="https://github.com/djyde/cusdis">cusdis</a> - lightweight, privacy-friendly alternative to Disqus.</li>
+<li><a href="https://github.com/chaosblade-io/chaosblade">ChaosBlade</a> - 阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具</li>
+<li><a href="https://github.com/inherd/uncode/">uncode</a> - Uncode 是一个面向云研发时代设计的下一代概念性 IDE。</li>
+<li><a href="https://github.com/zhangdaiscott/JimuReport">JimuReport</a> - 一款免费的数据可视化工具，报表和大屏设计，像搭建积木一样在线设计报表！功能涵盖，数据报表、打印设计、图表报表、大屏设计等！</li>
+<li><code>flowchart</code> <a href="https://thedigitalprojectmanager.com/flowchart-software/">2021年10种最佳在线流程图软件</a></li>
+<li><a href="https://creately.com">Creately</a> - Best collaborative flowchart software with live video conferencing</li>
+<li><a href="https://miro.com">Miro</a> - Best free flowchart software</li>
+<li><a href="https://www.microsoft.com/zh-cn/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options">Microsoft Visio</a> - Best flowchart software for Windows</li>
+<li><a href="https://www.gliffy.com">Gliffy</a> - Best flowchart tool for Confluence &amp; Jira (native Atlassian integrations)</li>
+<li><a href="https://www.edrawsoft.com/edraw-max">Edraw Max</a> - Best all-purpose diagramming software</li>
+<li><a href="https://www.conceptdraw.com/products/drawing-tool">ConceptDraw Diagram</a> - Best flowchart software download (buy a one-time license)</li>
+<li><a href="https://cacoo.com">Cacoo</a> - Best online flowchart software for real-time team collaboration</li>
+<li><a href="https://terrastruct.com">Terrastruct</a> - Best flowchart tool for software development</li>
+<li><a href="https://online.visual-paradigm.com">VisualParadigm Online</a> - Best flowchart software for agile software development &amp; data analytics</li>
+<li><a href="https://app.diagrams.net">Draw.io</a> - Best easy to use flowchart freeware</li>
+<li><a href="https://github.com/justjavac/ReplaceGoogleCDN">Replace Google CDN</a> - 一个 Chrome 插件：将 Google CDN 替换为国内的。</li>
+</ul>
 <h2 id="open-source">Open Source</h2>
 <ul>
 <li><a href="https://github.com/fingerprintjs/fingerprintjs">FingerprintJS</a> - Browser fingerprinting library with the highest accuracy and stability.</li>
+<li><a href="https://github.com/raunofreiberg/inspx">inspx</a> - Pixel perfect layout inspection.</li>
+<li><a href="https://github.com/mantinedev/mantine">mantine</a> - React components and hooks library with native dark theme support and focus on usability, accessibility and developer experience</li>
+<li><a href="https://github.com/fkhadra/react-toastify">React-Toastify</a> - React notification made easy 🚀 !</li>
+<li><a href="https://github.com/NSFI/ppfish-components">Fish Design</a> - Fish Design: 面向B端设计的企业级UI组件库</li>
+</ul>
+<h2 id="guide">Guide</h2>
+<ul>
+<li><a href="https://moderncss.dev">Modern CSS Solutions for Old CSS Problems</a> - A series examining modern CSS solutions to problems Stephanie Eckles (<span class="citation">@5t3ph</span>), a seasoned frontend developer, has been solving for 13+ years.</li>
+<li><a href="https://blog.logrocket.com/a-practical-guide-to-typescript-decorators/">A practical guide to TypeScript decorators</a></li>
+</ul>
+<h2 id="weekly">Weekly</h2>
+<ul>
+<li><a href="https://github.com/sorrycc/weekly">sorrycc/weekly</a> - 前端周刊，每周一发布。</li>
+</ul>
+<h2 id="webassembly">WebAssembly</h2>
+<ul>
+<li><a href="https://web.dev/asyncify">Using asynchronous web APIs from WebAssembly</a></li>
+</ul>
+<h2 id="macos">MacOS</h2>
+<ul>
+<li><a href="https://github.com/jaywcjlove/awesome-mac">awesome-mac</a> -  Now we have become very big, Different from the original idea. Collect premium software in various categories.</li>
 </ul>]]></description>
   </item>
   
