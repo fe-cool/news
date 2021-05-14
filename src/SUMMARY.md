@@ -1,6 +1,6 @@
 # Summary
 
-* [MDH](./index.md)
+* [About](./index.md)
 
 * [Awesome](./awesome/toc.md)
   * [Guide](./awesome/guide.md)

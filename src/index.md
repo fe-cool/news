@@ -1,4 +1,4 @@
-# 关于【MDH • 前端情报】
+# MDH • 前端情报
 
 * 代号：`MDH(make developer happier)`
 * 发起人: [chencheng (云谦)](https://github.com/sorrycc)
@@ -40,7 +40,7 @@ fe-cool/news
 # 把最实用的工具，指南，APP，资讯类整理出来
 # 做成一个推荐集合(即精选，文章类暂时排除在外)
 # 文章可以在原始信息中进行查看
-[2021/04/20.md]  -->  [2021/04/toc.md]  -->  [精选]
+[2021/04/20.md]  -->  [2021/04/toc.md]  -->  [Awesome]
 [day - 原始信息]  -->  [month - 汇总筛选]  -->  [awesome - 推荐]
 ```
 
@@ -54,8 +54,8 @@ fe-cool/news
   * 其他(`other`): 难以界定的统一分类到其他
 * [月底对本月信息汇总分类(对信息进行筛选)](https://github.com/fe-cool/news/blob/main/guidelines.md#%E6%9C%88%E6%B1%87%E6%80%BB)
 * 汇总状态
-  * `汇总中...`
-  * `汇总完成`
+  * `汇总中...` - 📅 起止日期
+  * `汇总完成` - 📅 起止日期
 
 ## 项目初衷
 

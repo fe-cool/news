@@ -17,7 +17,7 @@ edition = "2018"
 
 [output.html]
 theme = "theme"
-default-theme = "ayu"
+default-theme = "rust"
 no-section-label = true
 git-repository-url = "https://github.com/fe-cool/news"
 additional-css = ["theme/news.css"]
