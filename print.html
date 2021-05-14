@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="zh_CN" class="sidebar-visible no-js ayu">
+<html lang="zh_CN" class="sidebar-visible no-js rust">
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
@@ -53,7 +53,7 @@
         <!-- Provide site root to javascript -->
         <script type="text/javascript">
             var path_to_root = "";
-            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "ayu";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "rust";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
@@ -77,7 +77,7 @@
             if (theme === null || theme === undefined) { theme = default_theme; }
             var html = document.querySelector('html');
             html.classList.remove('no-js')
-            html.classList.remove('ayu')
+            html.classList.remove('rust')
             html.classList.add(theme);
             html.classList.add('js');
         </script>
@@ -96,7 +96,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded "><a href="index.html">MDH</a></li><li class="chapter-item expanded "><a href="awesome/toc.html">Awesome</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="awesome/guide.html">Guide</a></li><li class="chapter-item "><a href="awesome/tools.html">Tools</a></li><li class="chapter-item "><a href="awesome/weekly.html">Weekly</a></li><li class="chapter-item "><a href="awesome/app.html">Application</a></li><li class="chapter-item "><a href="awesome/vsc.html">VS Code</a></li></ol></li><li class="chapter-item expanded "><a href="news.html">News</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="2021/04/toc.html">2021.04</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="2021/04/14.html">2021.04.14</a></li><li class="chapter-item "><a href="2021/04/15.html">2021.04.15</a></li><li class="chapter-item "><a href="2021/04/16.html">2021.04.16</a></li><li class="chapter-item "><a href="2021/04/17.html">2021.04.17</a></li><li class="chapter-item "><a href="2021/04/18.html">2021.04.18</a></li><li class="chapter-item "><a href="2021/04/19.html">2021.04.19</a></li><li class="chapter-item "><a href="2021/04/20.html">2021.04.20</a></li><li class="chapter-item "><a href="2021/04/21.html">2021.04.21</a></li><li class="chapter-item "><a href="2021/04/22.html">2021.04.22</a></li><li class="chapter-item "><a href="2021/04/23.html">2021.04.23</a></li><li class="chapter-item "><a href="2021/04/24.html">2021.04.24</a></li><li class="chapter-item "><a href="2021/04/25.html">2021.04.25</a></li><li class="chapter-item "><a href="2021/04/26.html">2021.04.26</a></li><li class="chapter-item "><a href="2021/04/27.html">2021.04.27</a></li><li class="chapter-item "><a href="2021/04/28.html">2021.04.28</a></li><li class="chapter-item "><a href="2021/04/29.html">2021.04.29</a></li><li class="chapter-item "><a href="2021/04/30.html">2021.04.30</a></li></ol></li><li class="chapter-item "><a href="2021/05/toc.html">2021.05</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="2021/05/01.html">2021.05.01</a></li><li class="chapter-item "><a href="2021/05/06.html">2021.05.06</a></li><li class="chapter-item "><a href="2021/05/07.html">2021.05.07</a></li><li class="chapter-item "><a href="2021/05/08.html">2021.05.08</a></li><li class="chapter-item "><a href="2021/05/11.html">2021.05.11</a></li><li class="chapter-item "><a href="2021/05/13.html">2021.05.13</a></li><li class="chapter-item "><a href="2021/05/14.html">2021.05.14</a></li></ol></li></ol></li></ol>
+                <ol class="chapter"><li class="chapter-item expanded "><a href="index.html">About</a></li><li class="chapter-item expanded "><a href="awesome/toc.html">Awesome</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="awesome/guide.html">Guide</a></li><li class="chapter-item "><a href="awesome/tools.html">Tools</a></li><li class="chapter-item "><a href="awesome/weekly.html">Weekly</a></li><li class="chapter-item "><a href="awesome/app.html">Application</a></li><li class="chapter-item "><a href="awesome/vsc.html">VS Code</a></li></ol></li><li class="chapter-item expanded "><a href="news.html">News</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="2021/04/toc.html">2021.04</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="2021/04/14.html">2021.04.14</a></li><li class="chapter-item "><a href="2021/04/15.html">2021.04.15</a></li><li class="chapter-item "><a href="2021/04/16.html">2021.04.16</a></li><li class="chapter-item "><a href="2021/04/17.html">2021.04.17</a></li><li class="chapter-item "><a href="2021/04/18.html">2021.04.18</a></li><li class="chapter-item "><a href="2021/04/19.html">2021.04.19</a></li><li class="chapter-item "><a href="2021/04/20.html">2021.04.20</a></li><li class="chapter-item "><a href="2021/04/21.html">2021.04.21</a></li><li class="chapter-item "><a href="2021/04/22.html">2021.04.22</a></li><li class="chapter-item "><a href="2021/04/23.html">2021.04.23</a></li><li class="chapter-item "><a href="2021/04/24.html">2021.04.24</a></li><li class="chapter-item "><a href="2021/04/25.html">2021.04.25</a></li><li class="chapter-item "><a href="2021/04/26.html">2021.04.26</a></li><li class="chapter-item "><a href="2021/04/27.html">2021.04.27</a></li><li class="chapter-item "><a href="2021/04/28.html">2021.04.28</a></li><li class="chapter-item "><a href="2021/04/29.html">2021.04.29</a></li><li class="chapter-item "><a href="2021/04/30.html">2021.04.30</a></li></ol></li><li class="chapter-item "><a href="2021/05/toc.html">2021.05</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="2021/05/01.html">2021.05.01</a></li><li class="chapter-item "><a href="2021/05/06.html">2021.05.06</a></li><li class="chapter-item "><a href="2021/05/07.html">2021.05.07</a></li><li class="chapter-item "><a href="2021/05/08.html">2021.05.08</a></li><li class="chapter-item "><a href="2021/05/11.html">2021.05.11</a></li><li class="chapter-item "><a href="2021/05/13.html">2021.05.13</a></li><li class="chapter-item "><a href="2021/05/14.html">2021.05.14</a></li></ol></li></ol></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
         </nav>
@@ -116,10 +116,10 @@
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
                             <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust (default)</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
                         </ul>
                         
                         <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
@@ -171,7 +171,7 @@
 
                 <div id="content" class="content">
                     <main style="min-height: 42vh">
-                        <h1 id="关于mdh--前端情报"><a class="header" href="#关于mdh--前端情报">关于【MDH • 前端情报】</a></h1>
+                        <h1 id="mdh--前端情报"><a class="header" href="#mdh--前端情报">MDH • 前端情报</a></h1>
 <ul>
 <li>代号：<code>MDH(make developer happier)</code></li>
 <li>发起人: <a href="https://github.com/sorrycc">chencheng (云谦)</a></li>
@@ -210,7 +210,7 @@ fe-cool/news
 # 把最实用的工具，指南，APP，资讯类整理出来
 # 做成一个推荐集合(即精选，文章类暂时排除在外)
 # 文章可以在原始信息中进行查看
-[2021/04/20.md]  --&gt;  [2021/04/toc.md]  --&gt;  [精选]
+[2021/04/20.md]  --&gt;  [2021/04/toc.md]  --&gt;  [Awesome]
 [day - 原始信息]  --&gt;  [month - 汇总筛选]  --&gt;  [awesome - 推荐]
 </code></pre>
 <ul>
@@ -228,8 +228,8 @@ fe-cool/news
 <li><a href="https://github.com/fe-cool/news/blob/main/guidelines.md#%E6%9C%88%E6%B1%87%E6%80%BB">月底对本月信息汇总分类(对信息进行筛选)</a></li>
 <li>汇总状态
 <ul>
-<li><code>汇总中...</code></li>
-<li><code>汇总完成</code></li>
+<li><code>汇总中...</code> - 📅 起止日期</li>
+<li><code>汇总完成</code> - 📅 起止日期</li>
 </ul>
 </li>
 </ul>
@@ -242,16 +242,19 @@ fe-cool/news
 <h1 id="guide"><a class="header" href="#guide">Guide</a></h1>
 <ul>
 <li><a href="https://roadmap.sh">Developer Roadmaps</a> - Step by step guides and paths to learn different tools or technologies (包含前端，后端，运维，安卓，数据库，react等)</li>
-<li><a href="https://www.typescriptlang.org/docs/handbook/intro.html">The TypeScript Handbook</a></li>
 <li><a href="https://github.com/microsoft/Web-Dev-For-Beginners">Web Development for Beginners - A Curriculum</a> - 24 Lessons, 12 Weeks, Get Started as a Web Developer</li>
 <li><a href="https://github.com/sudheerj/reactjs-interview-questions">React Interview Questions &amp; Answers</a> - List of top 500 ReactJS Interview Questions &amp; Answers....Coding exercise questions are coming soon!!</li>
-<li><a href="https://github.com/chokcoco/iCSS">CSS 奇技淫巧</a> - 不仅是为了拓宽解决问题的思路，更涉及一些容易忽视或是十分有趣的 CSS 细节</li>
-<li><a href="https://docs.microsoft.com/zh-cn/learn/paths/rust-first-steps/">Rust 入门</a> - 微软学习文档</li>
 <li><a href="https://medium.com/front-end-weekly/top-javascript-trends-to-watch-in-2021-4aa504a5b9d0">Top JavaScript Trends to Watch in 2021</a></li>
+<li><a href="https://github.com/chokcoco/iCSS">CSS 奇技淫巧</a> - 不仅是为了拓宽解决问题的思路，更涉及一些容易忽视或是十分有趣的 CSS 细节</li>
+<li><a href="https://moderncss.dev">Modern CSS Solutions for Old CSS Problems</a> - A series examining modern CSS solutions to problems Stephanie Eckles (@5t3ph), a seasoned frontend developer, has been solving for 13+ years.</li>
+<li><a href="https://blog.logrocket.com/a-practical-guide-to-typescript-decorators/">A practical guide to TypeScript decorators</a></li>
+<li><a href="https://www.typescriptlang.org/docs/handbook/intro.html">The TypeScript Handbook</a></li>
+<li><a href="https://docs.microsoft.com/zh-cn/learn/paths/rust-first-steps/">Rust 入门</a> - 微软学习文档</li>
 </ul>
 <h1 id="tools"><a class="header" href="#tools">Tools</a></h1>
 <ul>
 <li><a href="awesome/../2021/04/toc.html#tools">2021.04</a></li>
+<li><a href="awesome/../2021/05/toc.html#tools">2021.05</a></li>
 </ul>
 <h1 id="weekly"><a class="header" href="#weekly">Weekly</a></h1>
 <ul>
@@ -299,9 +302,12 @@ fe-cool/news
 <li><a href="awesome/../2021/04/toc.html#vs-code">2021.04</a></li>
 </ul>
 <h1 id="news"><a class="header" href="#news">News</a></h1>
+<ul>
+<li><a href="./2021/04/toc.html">2021.04</a></li>
+<li><a href="./2021/05/toc.html">2021.05</a></li>
+</ul>
 <h1 id="202104"><a class="header" href="#202104">2021.04</a></h1>
-<p><code>汇总完成</code> - <em>2021.04.14 ~ 2021.04.30</em></p>
-<!-- 📅： 30.md已完成 -->
+<p><code>汇总完成</code> - 📅 <em>2021.04.14 ~ 2021.04.30</em></p>
 <h2 id="tools-1"><a class="header" href="#tools-1">Tools</a></h2>
 <ul>
 <li><a href="https://bundlers.tooling.report">tooling.report</a> - 为您的下一个 Web 项目确定最佳构建工具的快速方法，或者是否值得进行工具迁移，或者如何在现有配置和代码库中采用工具的最佳实践。</li>
@@ -954,7 +960,7 @@ fe-cool/news
 <p><code>mermaid</code> <code>js</code> <code>markdown</code> <a href="https://mermaid-js.github.io/mermaid/#/">Mermaid</a>可以使用文本和代码创建图。这简化了复杂图的维护。它是一个基于Javascript的图表绘制工具，可以用Markdown文本来定义各种复杂图表，流程图，顺序图，类图，甘特图，状态图，饼图等。</p>
 </li>
 <li>
-<p><code>react</code> <code>news</code> <a href="https://mp.weixin.qq.com/s/u3fDS1iPh_tqzSKqbzcwrg">React Status 中文周刊 #36</a> - 使用 Deno 构建 React 应用指南</p>
+<p><code>react</code> <a href="https://mp.weixin.qq.com/s/u3fDS1iPh_tqzSKqbzcwrg">React Status 中文周刊 #36</a> - 使用 Deno 构建 React 应用指南</p>
 </li>
 <li>
 <p><code>fe</code> <code>icons</code> <a href="https://github.com/bytedance/IconPark">IconPark</a> - 字节跳动出品的高质量开源图标</p>
@@ -1781,8 +1787,7 @@ fe-cool/news
 </li>
 </ul>
 <h1 id="202105"><a class="header" href="#202105">2021.05</a></h1>
-<p><code>汇总中...</code></p>
-<!-- 📅： 14.md完成 -->
+<p><code>汇总中...</code> - 📅 <em>2021.05.01 ~ 2021.05.14</em></p>
 <h2 id="tools-2"><a class="header" href="#tools-2">Tools</a></h2>
 <ul>
 <li><a href="https://rome.tools">Rome</a> - Rome is a linter, compiler, bundler, and more for JavaScript, TypeScript, JSON, HTML, Markdown, and CSS.</li>
@@ -1793,7 +1798,7 @@ fe-cool/news
 <li><a href="https://github.com/chaosblade-io/chaosblade">ChaosBlade</a> - 阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具</li>
 <li><a href="https://github.com/inherd/uncode/">uncode</a> - Uncode 是一个面向云研发时代设计的下一代概念性 IDE。</li>
 <li><a href="https://github.com/zhangdaiscott/JimuReport">JimuReport</a> - 一款免费的数据可视化工具，报表和大屏设计，像搭建积木一样在线设计报表！功能涵盖，数据报表、打印设计、图表报表、大屏设计等！</li>
-<li><code>flowchart</code> <a href="https://thedigitalprojectmanager.com/flowchart-software/">2021年10种最佳在线流程图软件</a>
+<li><a href="https://thedigitalprojectmanager.com/flowchart-software/">10 Best Online Flowchart Software Of 2021</a>
 <ul>
 <li><a href="https://creately.com">Creately</a> - Best collaborative flowchart software with live video conferencing</li>
 <li><a href="https://miro.com">Miro</a> - Best free flowchart software</li>
@@ -1815,7 +1820,7 @@ fe-cool/news
 <li><a href="https://github.com/raunofreiberg/inspx">inspx</a> - Pixel perfect layout inspection.</li>
 <li><a href="https://github.com/mantinedev/mantine">mantine</a> - React components and hooks library with native dark theme support and focus on usability, accessibility and developer experience</li>
 <li><a href="https://github.com/fkhadra/react-toastify">React-Toastify</a> - React notification made easy 🚀 !</li>
-<li><a href="https://github.com/NSFI/ppfish-components">Fish Design</a> - Fish Design: 面向B端设计的企业级UI组件库</li>
+<li><a href="https://github.com/NSFI/ppfish-components">Fish Design</a> - 面向B端设计的企业级UI组件库</li>
 </ul>
 <h2 id="guide-2"><a class="header" href="#guide-2">Guide</a></h2>
 <ul>
