@@ -1,5 +1,14 @@
 # MDH • 前端情报
 
+**`通知：`**
+
+1. 放弃更新，群已名存实亡。信息源变成某几个人的单一输出，消费远远大于生产。
+2. 本人精力有限，目前忙于其他事情，有想继续维护的朋友，可以联系我。
+3. 虽然此网站不再更新，但是我的个人项目和此项目有重合度。有兴趣的朋友可以关注 [《浮之静》](https://github.com/lencx/fzj/discussions)
+
+---
+
+
 * 代号：`MDH(make developer happier)`
 * 发起人: [chencheng (云谦)](https://github.com/sorrycc)
 * 仓库创建人: [lencx](https://github.com/lencx)
